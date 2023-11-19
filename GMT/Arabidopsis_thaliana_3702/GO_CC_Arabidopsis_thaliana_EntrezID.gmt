@@ -1,9 +1,14 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Arabidopsis_thaliana
+# taxid: 3702
+# ID_type: EntrezID
+# source_URL: http://geneontology.org/
+# source_last_update: 01-04-2023
+# gmt_download_date:
+# gmt_version: 2.1
+# gmt_entry_names: Gene ontology Cellular component
+
+# Gene onology ID	Gene onology term	Gene set (EntrezID)
 GO:0000015	"phosphopyruvate hydratase complex"	818226
 GO:0000109	"nucleotide-excision repair complex"	834117	819685	831525	834139	839677
 GO:0000110	"nucleotide-excision repair factor 1 complex"	834117

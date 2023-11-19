@@ -1,9 +1,14 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Arabidopsis_thaliana
+# taxid: 3702
+# ID_type: Gene symbol
+# source_URL: http://geneontology.org/
+# source_last_update: 01-04-2023
+# gmt_download_date:
+# gmt_version: 2.1
+# gmt_entry_names: Gene ontology
+
+# Gene onology ID	Gene onology term	Gene set (Gene symbol) 
 GO:0000001	"mitochondrion inheritance"	
 GO:0000002	"mitochondrial genome maintenance"	MSH1	RECA3
 GO:0000003	"reproduction"	RGA	RPT2b	CDKA-1	KINESIN-12B	SGO1	CRY2	GBPL1	HS1	SWEET14	LOX3	RRT4	HDG2	ADM	NF-YC4	OFT1	SYN1	HAT1	ELF3	SVP	MYB57	MYB65	RGL3	DMC1	SOBIR1	AT3G07780	TCP4	CHX23	At4g14970	RABA4D	AT5G23610	MGP2	LHY	AT1G07310	CFM3A	KAN2	SWI3B	ROPGEF14	MEA	PKp3	EC1.1	BAM2	AT1G34640	GSL05	DMP8	RMI1	TAA1	ESP1	dl3985w	PCP-Bgamma	DHAR1	MYA1	YSL1	PIE1	SCI1	PRD3	At4g21820	PCH2	PHV	AT1G11280	RALF36	HOP2	SPI	AT1G07060	DRA2	NUB	ASY3	BLH8	RAF11	NCED5	VOZ1	AT1G21170	GID1A	WIH2	AT1G78760	BOP2	HEC2	FOF2	TOP6A	AtLEA4-1	CUC2	FANCM	SERK2	AtSPO22	TUN	PTL	AT4G28330	AT1G04030	CRC	WOX4	ATM-1	MUS81	AT1G77400	WAPL1	ACA10	MAF5	AT1G06590	GH9B18	AHP5	EXPB2	AT1G11220	OLEO4	AT1G01310	CENPC	MMD1	MPS1	SPL4	AT1G14630	ELF2	hus1	MHF2	RAD51C	PIN1	STK	AT1G04500	TAR1

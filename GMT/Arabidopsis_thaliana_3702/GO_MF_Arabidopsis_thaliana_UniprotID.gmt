@@ -1,9 +1,14 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Arabidopsis_thaliana
+# taxid: 3702
+# ID_type: UniprotID
+# source_URL: http://geneontology.org/
+# source_last_update: 01-04-2023
+# gmt_download_date:
+# gmt_version: 2.1
+# gmt_entry_names: Gene ontology Molecular function
+
+# Gene onology ID	Gene onology term	Gene set (UniprotID)
 GO:0000006	"high-affinity zinc uptake transmembrane transporter activity"	
 GO:0000007	"low-affinity zinc ion transmembrane transporter activity"	
 GO:0000009	"alpha-1,6-mannosyltransferase activity"	A8MR93
