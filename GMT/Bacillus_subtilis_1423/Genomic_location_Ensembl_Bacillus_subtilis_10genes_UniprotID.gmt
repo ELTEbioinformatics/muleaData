@@ -1,15 +1,16 @@
-# Gmt database for MulEA software (http://www.mulea.org/)
-# taxon_name: Bacillus_subtilis_subsp_subtilis_str_168
-# taxid: 224308
-# ID_type: Locus_ID
+# Gene set GMT file for mulea Bioconductor R package
+# taxon_name: Bacillus subtilis
+# taxid: 1423
+# ID_type: UniprotID
 # source_URL: http://bacteria.ensembl.org/index.html
 # source_PMID: 26578574
 # source_version: Release 48
 # source_last_update: 29-05-2020
 # gmt_download_date: 15-09-2020
-# gmt_file_version: 2
+# gmt_file_version: 2.1
 # gmt_entry_names: Chromosome location
-# Chromosome location	Chromosome location	Gene set (Locus ID)
+
+# Chromosome location	Chromosome location	Gene set (UniprotID)
 chro   410-4812	chro   410-4812	P05648	P05649	P05650	P05651	P37525	P05652	P05653
 chro   1939-6783	chro   1939-6783	P05649	P05650	P05651	P37525	P05652	P05653
 chro   3206-9459	chro   3206-9459	P05650	P05651	P37525	P05652	P05653
