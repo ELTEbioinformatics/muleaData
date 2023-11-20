@@ -4,6 +4,8 @@
 # ID_type: EnsemblID
 # source_URL: http://bacteria.ensembl.org/index.html
 # source_PMID: 26578574
+# source_primary_ID: LocusID
+# source_comment: Bacillus subtilis subsp. subtilis str. 168 taxid 224308
 # source_version: Release 48
 # source_last_update: 29-05-2020
 # gmt_download_date: 15-09-2020

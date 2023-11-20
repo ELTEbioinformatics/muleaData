@@ -3,6 +3,7 @@
 # taxid: 3702
 # ID_type: EnsemblID
 # source_URL: http://reactome.org/pages/download-data/
+# source_primary_ID: LocusID
 # source_version: 61.0
 # source_last_update: 18-12-2017
 # gmt_download_date: 13-03-2018

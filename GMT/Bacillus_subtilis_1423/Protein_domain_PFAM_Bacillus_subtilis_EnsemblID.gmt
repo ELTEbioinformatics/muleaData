@@ -3,6 +3,7 @@
 # taxid: 1423
 # ID_type: EnsemblID
 # source_URL: https://www.ebi.ac.uk/interpro/
+# source_primary_ID: UniprotID
 # source_version: 35
 # source_last_update:02-2023
 # gmt_version: 1.1

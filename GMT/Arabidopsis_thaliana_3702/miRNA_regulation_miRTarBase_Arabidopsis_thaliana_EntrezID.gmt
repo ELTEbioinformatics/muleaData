@@ -3,6 +3,7 @@
 # taxid: 3702
 # ID_type: EntrezID
 # source_URL: http://mirtarbase.mbc.nctu.edu.tw/
+# source_primary_ID: Gene symbol
 # source_version: 6.0
 # source_last_update: 15-09-2015
 # gmt_download_date: 01-08-2017

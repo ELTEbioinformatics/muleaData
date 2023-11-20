@@ -3,6 +3,7 @@
 # taxid: 3702
 # ID_type: UniprotID
 # source_URL: http://geneontology.org/
+# source_primary_ID: Gene symbol
 # source_last_update: 01-04-2023
 # gmt_download_date:
 # gmt_version: 2.1

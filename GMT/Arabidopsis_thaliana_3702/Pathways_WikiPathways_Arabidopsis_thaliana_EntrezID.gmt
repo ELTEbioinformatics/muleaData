@@ -3,6 +3,7 @@
 # taxid: 3702
 # ID_type: EntrezID
 # source_URL: http://www.wikipathways.org/index.php/Download_Pathways
+# source_primary_ID: EntrezID
 # source_version: 20171010
 # source_last_update: 10-10-2017
 # gmt_download_date: 25-10-2017
