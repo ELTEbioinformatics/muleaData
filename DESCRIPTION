@@ -1,11 +1,19 @@
 Package: muleaData
-Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: What the Package Does (One Line, Title Case)
+Version: 0.99.0
+Date: 2023-11-20
+Authors@R: c(
+              person("Eszter", "Ari", email = "arieszter@gmail.com", role = c("aut", "cre"),
+                     comment = c(ORCID = "0000-0001-7774-1067")),
+              person("Márton", "Ölbei", role = c("aut"),
+                     comment = c(ORCID = "0000-0002-4903-6237")),
+              person("Leila", "Gul", role = c("aut"),
+                     comment = c(ORCID = "0000-0002-4903-6237")))
+Description: ExperimentHubData package for the mulea package. mulea is a comprehensive overrepresentation and functional enrichment analyser R package. Here we provide ontologies (gene sets) in a standardised GMT format for many different model organisms, ranging from Escherichia coli to human, all acquired from publicly available data sources. The GMT files are provided with multiple gene and protein identifiers.
+License: MIT + file LICENSE
+URL: https://github.com/ELTEbioinformatics/muleaData
+BugReports: https://support.bioconductor.org/tag/muleaData
+biocViews: ExperimentData
 Encoding: UTF-8
-LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
