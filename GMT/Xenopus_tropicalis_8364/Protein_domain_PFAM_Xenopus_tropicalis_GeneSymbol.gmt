@@ -7,7 +7,6 @@
 #gmt_entry_names: PFAM ID
 PF14560	Ubiquitin_2	tbcb	tbcel	tbce
 PF02536	mTERF	mterfd1	mterfd1-prov	pglyrp2
-PF05934	MCLC	
 PF08826	DMPK_coil	agpat1	homer2	LOC100497498
 PF02441	Flavoprotein	ppcdc
 PF04433	SWIRM	smarcc2	espn	smarcc1	edc4	pou2f1	smarcc2
@@ -18,10 +17,8 @@ PF06012	DUF908	huwe1
 PF02891	zf-MIZ	pias4	pias2	pias4	pias2	pias1	zmiz2	btnl10.2	zmiz1	zmiz1	pias3
 PF00402	Calponin	cnn2	cnn1	cnn3	tagln	cnn2	tagln2
 PF01900	RNase_P_Rpp14	rpp14	LOC779510	rpp14	LOC779510	LOC779510
-PF16794	fn3_4	
 PF06625	DUF1151	fam107b	fam107a	XENTR_v90030868mg	fam107b
 PF00418	Tubulin-binding	map4	mapt	map2	mapt
-PF09453	HIRA_B	
 PF01553	Acyltransferase	gnpat	ppp2r2c	gnpat	gpat4	gpat3	XENTR_v900275072mg	XENTR_v90030169mg	gnpat	gpat4	agpat3	lclat1	lclat1	lpcat2	tafazzin	lpcat2	gpam	aipl1	agpat1	agpat4	agpat5	XENTR_v900264361mg	lpcat4	LOC100494829	lpcat1	agpat2	agpat1	lpgat1	tmem68
 PF09011	HMG_box_2	tfam	ubtf	tfam	hmgb1	hmgb2	ubtf	hmgb3	mael	ubtf	hmgb2	stoml3
 PF01125	G10	bud31
@@ -66,7 +63,6 @@ PF14945	LLC1	c2orf50	c20orf85
 PF08393	DHC_N2	XENTR_v90027922mg	dnah14	dync1h1	dnah11	dnah7	c1orf159	XENTR_v900307694mg	dnah12	dnah2	dnah5	XENTR_v900300774mg	dnah9
 PF09494	Slx4	slx4
 PF00261	Tropomyosin	LOC100127765	tpm3	XENTR_v90030584mg	tpm4	tpm1	XENTR_v90026451mg	tpm3	tpm1	tpm2	tpm3	tpm4	tpm1
-PF15244	HSD3	
 PF02109	DAD	dad1
 PF03399	SAC3_GANP	XENTR_v900269632mg	LOC100495696
 PF05995	CDO_I	cdo1	cdo1
@@ -77,7 +73,6 @@ PF04851	ResIII	pld6	ifih1	ercc3	ercc3	XENTR_v90028115mg
 PF11956	KCNQC3-Ank-G_bd	kcnq2	XENTR_v90030111mg
 PF09793	AD	lsm12	lsm12
 PF07645	EGF_CA	XENTR_v900271992mg	astn1	matn2	masp1	pros1	notch1	vldlr	ldlr	egfl6	mgc89178	fbn1	XENTR_v90027653mg	btbd6	nkx6-1	fbn2	LOC100490939	ltbp1	masp2	masp1	crtac1	egfl8	XENTR_v90027910mg	XB5809687	b3gat2	pros1	mgc89178	crb1	scube2	fbn3	rhobtb1	thbs3	LOC100145420	nid2	fbln5	thbs4	fbln5	rfk	tdrd7	gas6	hs6st2	hmcn2	nid2	mylk4	nell2	hmcn1	egf	fat1	efcab7	egf	ltbp4	efemp2	panx1	susd1	emx2	thbs4	nell1	LOC100135378	egfl7	masp2	gas6	prdm5	efemp1	vldlr	LOC100170606	umod.1
-PF10037	MRP-S27	
 PF03465	eRF1_3	etf1	pelo	pelo	srgap2
 PF00640	PID	malt1	ldlrap1	apbb3	numb	dab2	anks1a	XENTR_v90026045mg	apbb2	apbb2	shc1	anks1a	tbc1d1	dab1	aapl	XENTR_v90030767mg	dab1	appl2	mdm4	LOC100127731	mapk8ip2	dab1	malt1	thop1	cldn15.2	klhl21	apbb2
 PF01728	FtsJ	cmtr2	ftsj3	cmtr1	ftsj1	ftsj3	cmtr1	cmtr1
@@ -122,15 +117,12 @@ PF08920	SF3b1	LOC100127558
 PF01074	Glyco_hydro_38	man2b2	man2a1	man2b2	man2b1	man2a2	bapxr	man2b1	man2a1	man2a1	man2c1	man2c1
 PF02121	IP_trans	pitpnc1	pitpnc1l	reep6	pitpna	pitpnc1l	pitpnc1	pitpnc1l	pitpnb	pitpna	pitpnc1l	pitpnb.2	pitpnm2
 PF16191	E1_4HB	uba6	XENTR_v90029584mg
-PF06333	Med13_C	
-PF14807	AP4E_app_platf	
 PF10270	MMgT	mmgt1
 PF00587	tRNA-synt_2b	tars1	gars1	pars2	tars3	gars1	sars1	tars1	LOC100145057	sars2	eprs1
 PF10208	Armet	cpb2	manf	manf
 PF14892	DUF4490	XENTR_v90029750mg
 PF07703	A2M_N_2	a2ml1	XENTR_v90025855mg	XENTR_v90026159mg	XENTR_v900258464mg	ptcd2	LOC101734099	XENTR_v90026164mg	XENTR_v90025883mg	a2m	XENTR_v90025861mg	XENTR_v900261671mg	LOC100487578	XENTR_v90025857mg	pzp	c3	XENTR_v900261521mg	XENTR_v900258503mg	a2m	XENTR_v90025848mg	XENTR_v900275911mg	acap2	XENTR_v90026974mg	pzp	ovos2	XENTR_v90026147mg	pzp	pzp	XENTR_v90027475mg	XENTR_v900258521mg	XENTR_v90026151mg	XENTR_v90027473mg	XENTR_v90025854mg	XENTR_v900261682mg	LOC101734099	c3	LOC100170611	XENTR_v90026147mg	XENTR_v90026867mg	mug1	pzp	XENTR_v900258463mg	gpr37	c4a	XENTR_v90027474mg
 PF07524	Bromo_TP	taf3	supt7l	taf3	taf8	SUPT7L	supt7l	taf3	bcl2l14
-PF10189	Ints3	
 PF05719	GPP34	golph3	golph3l
 PF08941	USP8_interact	rnf41
 PF00955	HCO3_cotransp	slc4a3	slc4a8	slc4a10	XENTR_v900305041mg	fam43a	XENTR_v900305042mg	tmem59	pcyt1b	slc4a3	XENTR_v900292592mg
@@ -159,7 +151,6 @@ PF08563	P53_TAD	XENTR_v900285371mg	rad51	tp53
 PF15234	LAT	lat
 PF08695	Coa1	coa1
 PF16550	RPN13_C	adrm1	adrm1	adrm1
-PF15865	Fanconi_A_N	
 PF04139	Rad9	rad9b	rad9a
 PF08074	CHDCT2	chd5	chd3	chd4
 PF15140	DUF4573	XENTR_v900290882mg	XENTR_v90029729mg	XENTR_v90029124mg	XENTR_v90029097mg	XENTR_v90030101mg	XENTR_v90030669mg	XENTR_v900300931mg	XENTR_v90029119mg	XENTR_v900291282mg	XENTR_v90030102mg	XENTR_v90030103mg	XENTR_v90030671mg	XENTR_v90030665mg	XENTR_v90029127mg	XENTR_v90029129mg	XENTR_v90029106mg	XENTR_v90030670mg	XENTR_v90030672mg	XENTR_v90026783mg	XENTR_v90030814mg	XENTR_v90030666mg	XENTR_v90026449mg	XENTR_v90030095mg	XENTR_v90029802mg	XENTR_v90029083mg	XENTR_v90026448mg	XENTR_v90030739mg	XENTR_v90029091mg	XENTR_v90029089mg	XENTR_v90029080mg	XENTR_v90029110mg	XENTR_v90029079mg	XENTR_v90029126mg	XENTR_v90028895mg	XENTR_v900290881mg	XENTR_v90030735mg	XENTR_v90026784mg	XENTR_v900300932mg	XENTR_v90030736mg	XENTR_v90030740mg	XENTR_v90030673mg	XENTR_v90030099mg	XENTR_v90029077mg	XENTR_v90029094mg	XENTR_v90030676mg	XENTR_v90029105mg	XENTR_v90030675mg	XENTR_v90030106mg	XENTR_v90029108mg	XENTR_v90030105mg	XENTR_v90029098mg	XENTR_v90029121mg	XENTR_v90029897mg	XENTR_v90030107mg	XENTR_v90029107mg	XENTR_v90030104mg	XENTR_v90030100mg	XENTR_v900291011mg	XENTR_v90029096mg	XENTR_v90029104mg	XENTR_v90029078mg	XENTR_v90030734mg	XENTR_v90029090mg	XENTR_v90029084mg	XENTR_v90030094mg	XENTR_v90029122mg
@@ -170,7 +161,6 @@ PF03997	VPS28	vps28	XENTR_v90030747mg	vps28
 PF09184	PPP4R2	ppp4r2
 PF17216	Rrp44_CSD1	dis3	dis3l2	dis3l
 PF12012	DUF3504	zmym2	kiaa1958	zmym4	LOC100145450	qrich1	kiaa1958	znf160	zmym4	XENTR_v90027645mg	qrich1	zmym3
-PF14493	HTH_40	
 PF09350	DUF1992	tada2b	tada2b
 PF04506	Rft-1	rft1
 PF04057	Rep-A_N	rpa1	rpa1
@@ -188,7 +178,6 @@ PF00808	CBFD_NFYB_HMF	nfyc	chrac1	nfyb	pole4	pole3	pole4	drap1	drap1	dr1	chrac1	
 PF14937	DUF4500	smim8
 PF02045	CBFB_NFYA	nfya	nfya	nfya
 PF11838	ERAP1_C	npepps	erap1	znhit3	cdh5	npepps	lnpep	uba3
-PF10520	TMEM189_B_dmain	
 PF14931	IFT20	ift20
 PF16673	TRAF_BIRC3_bd	XENTR_v900299921mg
 PF11935	DUF3453	sympk	sympk
@@ -202,7 +191,6 @@ PF04194	PDCD2_C	pdcd2	pdcd2l	pdcd2l
 PF12368	Rhodanese_C	tstd2	tstd2
 PF09422	WTX	amer2
 PF01562	Pep_M12B_propep	adam9	LOC100145641	adam28.1	LOC100491788	adamts19	adamts1	adam10	adam21	adamts18	adam23	adamts9	adam17	capn1	adam17	adam33	adam22	adamts4	XENTR_v90029255mg	adam33	med6	adam22	adamts6	dao	adam33	adam19	adamts7	adam12	adam11	adamts20	adamts1	adam28.2	LOC100145070	adam12
-PF02368	Big_2	
 PF15744	UPF0492	slx4ip
 PF00147	Fibrinogen_C	XENTR_v90030300mg	angpt4	LOC100127857	cgl.1	angpt4	XENTR_v90030288mg	LOC594984	XENTR_v90030288mg	fbxl12	fcn1	fcn3	LOC733767	angptl1	fgl1a	MGC107908	angptl5	LOC594984	MGC107780	angpt4.2	XENTR_v90027058mg	XENTR_v90030287mg	opnpl	LOC100124781	XENTR_v900302842mg	LOC100491016	LOC100496945	fibcd1	XENTR_v90030073mg	XENTR_v90030285mg	XENTR_v90030585mg	itln1	slc19a3.2	XENTR_v900302962mg	LOC100496379	fcn2	cgl.2	cgl.1	col11a2	fcn3	LOC100496945	angptl4	mfap4.2	LOC100127857	XENTR_v900302902mg	col11a2	angptl7	angpt1	LOC594984	tnn	angpt4.2	XENTR_v90030289mg	XENTR_v90030301mg	itln1	XENTR_v90030299mg	mfap4.2	tnr	LOC594984	angptl2	fam171a2	XENTR_v90030331mg	angptl2	itln2	angptl3	LOC100490846	angpt4	rab19	tnr	fgl2	angptl2	fga	XENTR_v90030293mg	fibcd1	fcn1	XENTR_v90030286mg	LOC548398	MGC107780	LOC100496945	LOC394441	XB5954422	tnr	itln1	eif3g	fgb	cgl.2	XENTR_v90030298mg	ITLN1	LOC100496945	fcn1	MGC108470	fcn2	col11a2	LOC100496945	LOC100127565	angptl3	fcn3	fgb	tnc
 PF04300	FBA	fbxo27	sars2	masp2
@@ -210,9 +198,7 @@ PF00708	Acylphosphatase	acyp2	acyp1	acyp1
 PF07114	TMEM126	tmem126a	tmem126a
 PF15053	Njmu-R1	XENTR_v900270682mg
 PF01243	Putative_PNPOx	cdk5rap3	pnpo
-PF15810	CCDC117	
 PF09336	Vps4_C	spast	vps4b	vcp	spast	vcp	echdc2	katna1	XENTR_v90026289mg	fignl1	katna1	LOC100158600	vps4b	XENTR_v900301662mg
-PF15499	Peptidase_C98	
 PF05805	L6_membrane	XB5845012	tm4sf1	tm4sf1	XB5899916	XB5965330	tm4sf20	XB5965330	tm4sf5	tm4sf4	XB5899916	LOC100145544	LOC100493138
 PF05093	CIAPIN1	ciapin1
 PF12624	Chorein_N	atg2b	sema3e	vps13a	bltp3b	atg2b	vps13b	bltp3b	atg2a	atg2b
@@ -224,7 +210,6 @@ PF03638	TCR	lin54
 PF06733	DEAD_2	ercc2	ddx11	ercc2	brip1	ddx11
 PF02319	E2F_TDP	e2f5	e2f8	tfdp1	e2f3	e2f3	e2f4	e2f5	e2f4	e2f7	e2f8
 PF00536	SAM_1	cnksr1	shank2	sfmbt2	XENTR_v90026170mg	epha6	bicc1	anks1a	cenpj	samd8	XENTR_v90030279mg	shank2	scmh1	XENTR_v900267411mg	cnksr3	samd13	cnksr3	epha2	ppfia1	XB5952276	samd13	mettl1	ppfia1	ppfibp2	XENTR_v900261001mg	bfar	anks6	samd11	eps8l3	XENTR_v90026006mg	ppfia2	phc2	sec23ip	scml4	ephb1	cnksr1	anks4b	shank1	cnksr2	ush1g	phc1	anks6	sgms1	samd8	scmh1	phc3	rasl12	XENTR_v90026764mg	shank1	samd7	shank2	anks1a	samd4a	epha8	sash1	samd4a	slc2a5	cnksr2	klhl17	hpn	scml2	ppfia1	TGas021d03.1-001
-PF08202	MIS13	
 PF00400	WD40	LOC548794	katnb1	wdr75	dtl	XB5721468	wdr36	dync1i1	sec11a	wdr72	ift80	XENTR_v90029932mg	coro6	trpv3	dcaf6	XENTR_v90028001mg	cnnm3	dcaf8	XENTR_v900301602mg	wdr1	eed	wdr83	wdr45	gnb1l	plaa	dync1i2	XENTR_v90026823mg	XENTR_v90029945mg	dcaf6	kif21a	wdr7	dnaaf10	cdc20	dync1i2	skic8	XENTR_v90029943mg	XENTR_v900307161mg	XENTR_v90029948mg	wdr36	XENTR_v90026359mg	rae1	arpc1a	LOC100127875	wdr32	wdr49	gnb3	bub3	mlst8	tle2	XENTR_v90026866mg	rala	LOC100127667	wdr89	wdr90	XENTR_v900268831mg	pak1ip1	poc1a	wdr13	XB5964270	TGas104b22.1-001	wrap73	eml5	rbbp5	nsmaf	XENTR_v90030464mg	gnb4	nle1	tbc1d31	XENTR_v90029305mg	XENTR_v900284082mg	znf106	czib	wdr10	tbl3	XENTR_v90029947mg	XENTR_v90029949mg	cstf1	strap	nedd1	dcaf8	coro1c	thul16	kif21a	pik3r4	plrg1	wdr20	XENTR_v900284081mg	LOC394977	coro2b	tbl1x	hpca	wdhd1	wdr50	XENTR_v90029935mg	gnb5	XENTR_v90029937mg	XENTR_v90029944mg	bop1	dmxl2	pak1ip1	LOC734119	XENTR_v90029941mg	wdr4	tle3	utp15	arpc1a	wdr49	fbxw9	apaf1	wdr45	XENTR_v90027079mg	LOC101734744	dmxl2	tbl3	XENTR_v90027081mg	taf5l	XENTR_v90027075mg	ercc8	XENTR_v90029938mg	cfap52	XENTR_v900307241mg	snrnp40	TEgg035m22.1-001	wdr26	XENTR_v90027073mg	copa	scap	rack1	copb2	XENTR_v900268832mg	XENTR_v90028874mg	serpina3k	thoc6	pex7	cdc20	wdr70	utp18	cdc40	wdr20	wdr17	paaf1	wdr38	XENTR_v900289022mg	nbeal2	wdfy3	sec13	XENTR_v90029940mg	taf5	aamp	wdr6	btrc	wrap73	wdr33	thoc3	poc1b	LOC733878	copb2	rbbp4	XENTR_v90029946mg	XENTR_v900301902mg	wdr89	dcaf11	XENTR_v90027072mg	plrg1	seh1l	llgl2	cfap52	llgl2	LOC100127620	gtf3c2	elp2	prpf19	copa	dnai4	nnt	rbbp7-prov	LOC101734255	eif3i	XENTR_v90029931mg	cop1	herc1	tbl1x	znf106	efcab8	traf7	seh1l	wdr24	dync2i2	ahi1	tle1	ercc8	XENTR_v900262543mg	preb	eml1	phip	rbbp5	ddb2	XENTR_v90029685mg	gnb4	gnb5	wsb2	prr29	brwd1	smu1	taf5l	LOC100158567	fbxw4	XENTR_v90029934mg	gtf3c2	rbbp7	mlst8	tle1	dnai4	wdr32	wdr77	tle4	eipr1	fbxw5	katnb1	wdr37	LOC100145498	wdr82	wdr18	pwp2	tle1	tle2	wdr41	taf5	rnf111	grwd1	pank3	hdac8	bub3	ano8	ift122	tep1	wdsub1	arpc1a	fbxw7	strn	wdr3	dmxl1	pafah1b1	wdr12	tbc1d31	wdr3	wdr49	ik	snrnp40	gnb1	daw1	wdr44	XENTR_v90029933mg	utp15	ift122	traf7	tle2	LOC100125160	wdr77	cop1	rptor	zcchc7	nle1	stk36	dync1i1	itpk1	lyst	tbl2	tle4	tbl1xr1	XENTR_v90029950mg	smu1	XB1017155	dync1i2	prp19	srpk1	coro1c	fbxw5	eml4	wdr5	dnai1	XENTR_v900288731mg	wdr5	dcaf13	XENTR_v90027069mg	TEgg058p08.1-001	wdr70	cdc40	dcaf10	coro2b	wdr91	wrap53	wdr7	XENTR_v90027069mg	eed	fzr1	poc1b	XENTR_v90027077mg	utp18	coro1a	tuba1c	wdr18-prov	XENTR_v900276272mg	ciao1	coro2a	plaa	XENTR_v900265572mg	dmxl2	XENTR_v90027080mg	rbbp4	wsb1	tle4	llgl2	nol4l	fzr1	elp2	kif21b	atg16	rptor	wdr45	coro6	wdr1	gnb1	chaf1b	btrc	ift122	grwd1	tle2	wdr48	wrap73	prpf4	strap	XENTR_v90029942mg	XENTR_v90029930mg	mmp15	eml1	bub3	fbxw2	pak1ip1	thul16	wdr75	tbl1xr1	ercc8	wdr81	wdr45	gnb1l	wdr26
 PF13911	AhpC-TSA_2	prxl2c	ube2r2	prxl2a	prxl2b
 PF03462	PCRF	mtrf1l
@@ -234,7 +219,6 @@ PF15667	GDWWSH	c2orf73	LOC100135362
 PF16414	NPC1_N	npc1l1
 PF12075	KN_motif	ankrd38	kank3	ankrd15	kank1	csnk1d	kank3	kank1
 PF08321	PPP5	ppef1	pp5c	ppp5c	ppp5c	XENTR_v90026443mg
-PF12745	HGTP_anticodon2	
 PF10246	MRP-S35	mrps28
 PF00612	IQ	rnf32	iqca1	rps6kl1	invs	myh9	myo19	myo1a	myo7a	XENTR_v90030363mg	XENTR_v90030363mg	XENTR_v900275477mg	iqcd	lrriq4	XENTR_v900289262mg	ube3c	dennd1b	myh10	nlgn3	rpl11	myo1c	iqgap3	LOC100158525	gap43	iqgap1	iqcb1	spa17	myo9a	gap43	inpp5a.1	TNeu114l23.1-001	myo10	myh10	XENTR_v900275992mg	ube3c	iqgap2	XENTR_v900275477mg	myo19	nlgn3	iqce	raver2
 PF15282	BMP2K_C	aak1	aak1
@@ -260,7 +244,6 @@ PF01777	Ribosomal_L27e	rpl27
 PF15905	HMMR_N	gpank1	LOC779567
 PF15264	TSSC4	tssc4
 PF11027	DUF2615	smim14
-PF05225	HTH_psq	
 PF13603	tRNA-synt_1_2	lars2
 PF04801	Sin_N	polr3e	polr3e.1	polr3e	polr3e	polr3e
 PF15111	TMEM101	tmem101
@@ -279,7 +262,6 @@ PF05250	UPF0193	ywhae
 PF03720	UDPG_MGDP_dh_C	ugdh	ugdhl
 PF10581	Synapsin_N	syn1	syn3
 PF02450	LCAT	LOC100124780	pla2g15	lcat	lcat
-PF15062	ARL6IP6	
 PF00975	Thioesterase	TGas032h02.1-001	olah
 PF00833	Ribosomal_S17e	LOC100145026
 PF14204	Ribosomal_L18_c	rpl5	rpl5
@@ -337,7 +319,6 @@ PF02882	THF_DHG_CYH_C	mthfd1	mthfd2l	mthfd1	mthfd2	mthfd2l	mthfd1l
 PF09469	Cobl	cobl	XENTR_v900265741mg
 PF01170	UPF0020	thumpd2	thumpd2	trmt11	psmc1
 PF00868	Transglut_N	tgm6	tgm5	tgm3l.4	tgm3l.4	LOC594880	tgm3l.7	tgm2	tgm6	tgm3l.1	tgm1	tgm4
-PF05399	EVI2A	
 PF12485	SLY	sash3	samsn1	sash1
 PF02714	RSN1_7TM	tmem63a	rps17	tmem63a	tmem63a
 PF03839	Sec62	sec62	sec62	sec62
@@ -367,7 +348,6 @@ PF12460	MMS19_C	mms19	mms19
 PF10191	COG7	cog7
 PF10159	MMtag	c1orf35
 PF00554	RHD_DNA_bind	nfatc1	nfatc2	nfatc1	rela	nfatc3	nfat5	nfatc4	nfkb2	ccdc71l	rel	nfkb2
-PF04437	RINT1_TIP1	
 PF01369	Sec7	psd4	XENTR_v90028759mg	cyth2	cyth4	iqsec1	fbxo8	fbxo8	cyth3	cyth1	cyth2	LOC100037838	gbf1
 PF05571	DUF766	fst
 PF05781	MRVI1	XENTR_v90027045mg	XENTR_v90030090mg
@@ -386,7 +366,6 @@ PF05994	FragX_IP	cyfip2	cyfip2
 PF16455	UBD	dedd	ubtd2	ubtd1
 PF00503	G-alpha	gnaq	gnat2	nelfcd	gnai1	XENTR_v900288371mg	gnai2	gnat1	gnai1	gna13	gnao1	gnaz	mcoln2	XENTR_v900288372mg	gnao1	gna15	gna14	gnai3	gnat2	gnal	gnal	XENTR_v90029820mg	mcoln2	gnai2
 PF04697	Pinin_SDK_N	pnn
-PF08491	SE	
 PF04577	DUF563	pomgnt2	eogt	eogt	eogt
 PF14750	INTS2	ints2	TNeu021n01.1-001	ints2
 PF00091	Tubulin	tube1	rab5a	tubal3.2	tuba1b	XENTR_v90029816mg	tuba1cl.2	snrnp25	tuba8	tuba2	tubb2b	tuba1cl.3	tube1	tubb4b	tubal3.1	XENTR_v90029817mg	tubb4a	tubb	tubg1	tuba1a	tubb6	LOC548688	tuba1c	tubd1	tubal3.2	LOC100144986	tuba1b	tuba8	tubz1	tubg1	tuba1b	tuba3c	tuba1cl.3	tubb3	tubb3	tube1	tuba4b	tubd1	tuba5	XENTR_v90028643mg	tuba
@@ -395,8 +374,6 @@ PF01803	LIM_bind	ldb1	ldb1	ldb2
 PF00059	Lectin_C	XB5952892	colec10	kpna7	chodl	clec3a	clec10a	atrn	clec10a	XENTR_v90026146mg	clec4m	clec3b	XENTR_v90029378mg	clec10a	ly75	selp	slc16a10	LOC100124853	LOC100145420	XENTR_v90029031mg	pam	spata18b	dgcr2	rem1	chodl	clec4e	cdkn2d	pla2r1	XENTR_v90029377mg	XENTR_v900293792mg	colec12	mrc2	dgcr2	ncan	clec10a	psma4	igsf9b	MGC64513
 PF13019	Telomere_Sde2	sde2	sde2
 PF06886	TPX2	tpx2	tpx2
-PF15168	TRIQK	
-PF16769	MCM3AP_GANP	
 PF08752	COP-gamma_platf	copg1	copg2	copg1	copg2
 PF03959	FSH1	ovca2	ovca2	ovca2
 PF06747	CHCH	chchd10	chchd4	ndufa8	chchd1	chchd7	chchd7
@@ -426,7 +403,6 @@ PF01814	Hemerythrin	fbxl5
 PF10146	zf-C4H2	zc4h2
 PF11931	DUF3449	sf3a3
 PF15696	RAD51_interact	rad51ap1
-PF06294	CH_2	
 PF01030	Recep_L_domain	ppp1r12c	igf1r
 PF15682	Mustang	mustn1
 PF17219	YAF2_RYBP	rybp	rybp	yaf2
@@ -434,8 +410,6 @@ PF13328	HD_4	hddc3	hddc3	cbarp
 PF05361	PP1_inhibitor	ppp1r14b	ppp1r14a	ppp1r14b	ppp1r14c
 PF11841	DUF3361	fbxo21	elmo2
 PF07742	BTG	btg5.1	tob2	mgc75753	btg5.2	btg3	btg5.2	btg3	btg5.2	btg4	tob2	btg2	btg5.3	btg5.3	tob1	btg1	TNeu078c16.1-001
-PF07847	PCO_ADO	
-PF15753	BLOC1S3	
 PF06862	UTP25	utp25	utp25
 PF00230	MIP	XENTR_v90027431mg	XENTR_v900298101mg	aqp1	kitlg	sema4b	LOC100491830	aqp3	aqp9	XENTR_v900298102mg	LOC100489792	aqp5	aqp8	XB5993457	aqp7	XB5993457	mip	LOC100489930	aqp10
 PF16209	PhoLip_ATPase_N	atp11a	atp8b1	atp9a	atp8b3	atp8a1	rps7	atp10b	atp8a1	atp8b4	atp10d	atp11b	atp9a
@@ -471,7 +445,6 @@ PF06212	GRIM-19	ndufa13	ndufa13
 PF01384	PHO4	slc20a2	slc20a1
 PF07856	Orai-1	orai1
 PF08644	SPT16	supt16h
-PF01966	HD	
 PF16528	Exo84_C	exoc8
 PF09404	DUF2003	kics2
 PF14906	DUF4495	otos
@@ -500,7 +473,6 @@ PF07728	AAA_5	dnah5	dnah12	XENTR_v900307694mg	dnah11	dnah2	c1orf159	LOC100125184
 PF14679	FANCI_HD1	fanci
 PF10557	Cullin_Nedd8	cul4a	cul4b	cul4b	cul1	cul5	cul4a	cul4a	cul3	cul9	cul4a	cul2	pdlim3	cul4b	XENTR_v900277967mg
 PF16499	Melibiase_2	gla	naga	gla	naga
-PF13691	Lactamase_B_4	
 PF05178	Kri1	kri1
 PF03998	Utp11	utp11	utp11l
 PF03188	Cytochrom_B561	aldoa	cyb561	cyb561d2	elapor1	cybrd1	cybrd1	ngrn
@@ -527,7 +499,6 @@ PF01175	Urocanase	uroc1
 PF00018	SH3_1	ppp1r13b	trio	eps8	nhsl1	arhgap4	t2r15	frk	dlg1	stam	sh3rf1	grb2	src	vav1	XENTR_v90026967mg	tob1	sgsm3	tnk2	rasa1	tp53bp2	nck2	mpp7	sh3rf1	XENTR_v900305024mg	fnbp1	dlgh4	XENTR_v90026967mg	sptan1	skap2	XENTR_v900261202mg	mpp7	sorbs2	snx9	csk	sh3yl1	noxa1	sh3rf1	XENTR_v90027628mg	sh3rf3	yes1	dnmbp	yes1	ncf4	uqcrfs1	src	snap25	eps8l3	grap	sla2	eps8	hck	plcg1	eps8l3	pacsin2	plcg2	sh3rf2	sorbs2	dlgh4	skap2	srgap1	nck1	sh3rf1	prmt2	eps8l1	arhgap4	crk	sh3pxd2a	skap1	crkl	fchsd1	asap2	noxa1	sh3gl1	rasa1	ncf1	fnbp1	dlg1	trio	nck2	trio	dlgh4	gm2a	bcar1	mpp7	XENTR_v90029382mg	fchsd2	lyn	itsn1	dlg1	fnbp1	mgc147475	sgsm3	skap2	umad1	amph	btk	cdc34	efs	mark2	ncf2	arhgef9	fnbp1l	sorbs2	fam83b	sgsm3	ostf1	XENTR_v90027628mg	pacsin2	tp53bp2	vav3	eps8	sptan1	fyn	abl1	fchsd2	grap2	bcar1	sh3d19	ncf4	stam	myo1e.2	btk	sh3gl1	sh3gl2	LOC548790	XENTR_v90029365mg	stac2	LOC100496658	ankk1	MGC75999	csk	XENTR_v900263892mg	katnbl1	abl2	spata13	arhgef37
 PF00932	LTD	lmna	mgc145260	lmnb1	lmnb3	lmna	ide	lmnb1
 PF16100	RMI2	rmi2
-PF02129	Peptidase_S15	
 PF00278	Orn_DAP_Arg_deC	odc1	odc1	azin1	azin2	azin2
 PF15879	MWFE	ndufa1
 PF15715	PAF	pclaf
@@ -581,12 +552,10 @@ PF14634	zf-RING_5	LOC100485254	ccnb1ip1
 PF08295	Sin3_corepress	sin3a	sin3b
 PF00852	Glyco_transf_10	fut11	fut10	fut9	fut10	fut9	LOC100485897	fut3	fut9	fut6.2	fut4	fut5	fut11	fut7	fut6.2
 PF07286	DUF1445	TEgg044n20.1-001	dglucy
-PF05903	Peptidase_C97	
 PF06311	NumbF	mdm4	numb
 PF16484	CPT_N	cpt1b	cpt1al	cpt1al
 PF00281	Ribosomal_L5	rpl11	rpl11
 PF01028	Topoisom_I	top1.2	top1mt	top1.2	top1.2
-PF10420	IL12p40_C	
 PF04768	NAT	stag1
 PF01852	START	XENTR_v90030873mg	cert1	stard13	stard4	tmem221	stard6	stard15	LOC100490096	acot12	stard3	cert1	stard10	itga6	XENTR_v900297261mg	dlc1	stard7	LOC100145115
 PF01194	RNA_pol_N	polr2l.2	polr2l.1
@@ -634,13 +603,11 @@ PF03259	Robl_LC7	lamtor2	dynlrb1	dynlrb2	rab25
 PF08214	HAT_KAT11	phf5a	ep300	ep300
 PF00264	Tyrosinase	dct	tyr	tyr	dct	tyrp1	XENTR_v90029232mg
 PF15394	DUF4616	c14orf93
-PF06607	Prokineticin	
 PF14687	DUF4460	tcaim
 PF14551	MCM_N	LOC734092	mcm2	mcm5	mcm2	mcm3	mcm7	XENTR_v90026131mg	XENTR_v90026131mg	mcm7	mcm7	LOC100158601	mmcm6	zmcm6	mcm4	zmcm3
 PF07047	OPA3	opa3
 PF15395	DUF4617	resf1
 PF03522	SLC12	slc12a3	mob2.2	pus1	slc12a3	slc12a6	slc12a4	slc12a6	slc12a5	slc12a2	slc12a9
-PF15675	CLLAC	
 PF09396	Thrombin_light	f2	f2
 PF05184	SapB_1	psap	psap	psap
 PF05843	Suf	utp14a	XENTR_v90027895mg	tbx3	XENTR_v900297171mg	XENTR_v90030847mg	cstf3	XENTR_v900276791mg	XENTR_v900307641mg	smim15	XENTR_v90026258mg	XENTR_v90029715mg
@@ -659,7 +626,6 @@ PF16876	Lipin_mid	lpin1	lpin1	lin28a	lpin2	lpin2
 PF17144	Ribosomal_L5e	rpl5	rpl5
 PF01086	Clathrin_lg_ch	cltb	cltb	clta
 PF00917	MATH	trim37	spopl	traf4	spop	trim37	traf4
-PF06102	RRP36	
 PF12598	TBX	tbx3	tbx3	tbx2
 PF00562	RNA_pol_Rpb2_6	polr3b	polr2b	polr3b	polr1b	polr3b
 PF06444	NADH_dehy_S2_C	nd2
@@ -673,7 +639,6 @@ PF11945	WASH_WAHD	washc1	LOC549608	washc1	washc1
 PF06554	Olfactory_mark	XENTR_v90028685mg	omp
 PF15128	T_cell_tran_alt	tcta	tcta
 PF08514	STAG	stag3	XENTR_v90028987mg	stag3	LOC100486631	stag1
-PF01773	Nucleos_tra2_N	
 PF02894	GFO_IDH_MocA_C	LOC100488469
 PF05301	Acetyltransf_16	atat1	atat1
 PF10244	MRP-L51	mrpl51
@@ -700,12 +665,10 @@ PF07714	Pkinase_Tyr	braf	lrrc8d	t2r15	frk	rxfp3	src	epha6	musk	XENTR_v90030081mg
 PF00403	HMA	LOC100170482	ccs	atox1
 PF10568	Tom37	mtx3	kcne3	h2ac14	mtx1
 PF14968	CCDC84	cenatac
-PF13910	DUF4209	
 PF00255	GSHPx	gpx1	gpx7	LOC100145152	gpx3	gpx7	gpx3
 PF15508	NAAA-beta	naaa
 PF08081	RBM1CTR	mgc147226	LOC100135403
 PF03669	UPF0139	wdr83os
-PF10415	FumaraseC_C	
 PF00667	FAD_binding_1	nos3	ndor1	nos3	ndor1	hand1	igfbp1	elovl7	mtrr	mtrr
 PF04305	DUF455	XB5959486	XB5959486 [provisional]
 PF09294	Interfer-bind	ifngr1	LOC100145248	il10rb	ifnar2.1	ifnar2.2	ifnlr1	IFNLR	crp	ifngr2.2	IFNLR
@@ -745,7 +708,6 @@ PF00491	Arginase	agmat	arg2	agmat-prov	agmat	arg1	arg1
 PF01231	IDO	ido1
 PF14538	Raptor_N	rptor	rptor
 PF07653	SH3_2	cd2ap	sash3	sh3pxd2a	crk	mia2	shank2	uqcr11	vav1	cd2ap	mpp1	cd2ap	mia	sh3bp4	stac3	shank1	sash1	XENTR_v900303791mg	zdhhc6	cask	cask	mpp2	LOC100145259	LOC100145156	vav2	mcf2	vav3	pals2	eps8l3	macc1	otor	gm2a	dock2	vav2	samsn1	klhl17	shank1	tjp1	mia	XENTR_v90028118mg	XENTR_v90026874mg	arhgef7	TGas057l12.1-001
-PF13613	HTH_Tnp_4	
 PF08357	SEFIR	traf3ip3	XENTR_v90028659mg	il17rd
 PF00578	AhpC-TSA	prdx6	prdx3	prdx1	XENTR_v90030641mg	prdx6	prdx4	grk5	prdx2	prdx2	prdx1	MGC76137
 PF00610	DEP	dvl3	pikfyve	dvl1	depdc7	rapgef3	palm	XENTR_v900288383mg	dvl2	rapgef5	dvl1	depdc5	deptor	ube2t	rgs9	XENTR_v900267621mg	dvl3	depdc1b	rgs6	depdc1b	aass	plek	nek7	depdc1
@@ -758,7 +720,6 @@ PF11987	IF-2	eif5b
 PF14465	NFRKB_winged	nfrkb	pcbd1
 PF04389	Peptidase_M28	ermp1	tfrc	tfrc	naalad2	naalad2	qpct	ncln
 PF02602	HEM4	uros	uros
-PF02899	Phage_int_SAM_1	
 PF07934	OGG_N	ogg1
 PF15029	TMEM174	LOC100038281	tmem174.2
 PF00864	P2X_receptor	p2rx2	p2rx4
@@ -775,17 +736,14 @@ PF01145	Band_7	erlin2	XENTR_v900262811mg	erlin1	flot2	stoml3	phb	phb1	lamb2	flot
 PF16176	T-box_assoc	eomes	eomes	tbr1	tbr1
 PF08152	GUCT	ddx21	sec24a	sec24a
 PF05296	TAS2R	tas2r4	t2r25	t2r8	t2r14	t2r35	t2r45	t2r46	tas2r7	t2r48	t2r24	t2r36	t2r23	t2r38	t2r41	t2r2	t2r26	t2r10	t2r9	t2r15	t2r7	t2r22	tas2r39	t2r30	t2r5	t2r4	t2r34	t2r37	t2r49	t2r21	t2r43	t2r42	t2r50	t2r6	Tas2r9a	tas2r13	t2r52	t2r13	t2r19	t2r47	t2r3	tas2r13	t2r17	t2r53	tas2r8
-PF02070	NMU	
 PF14954	LIX1	lix1l	lix1l	lix1
 PF00375	SDF	slc1a5	slc1a2	slc1a5	ppp2r3c	slc1a3	slc1a4	slc1a6	slc1a3	slc1a4
 PF01020	Ribosomal_L40e	uba52
 PF10404	BHD_2	LOC100145629
 PF00185	OTCace	cad	XENTR_v90030749mg	otc	ppp3cc	XENTR_v90030749mg	LOC100125119	cad
-PF08771	FRB_dom	
 PF12265	CAF1C_H4-bd	grwd1	grwd1	rbbp4	mmp15	rbbp4	rbbp7-prov	rbbp7
 PF16529	Ge1_WD40	edc4
 PF02295	z-alpha	XENTR_v900294763mg
-PF16685	zf-RING_10	
 PF01042	Ribonuc_L-PSP	LOC496671	rida
 PF02403	Seryl_tRNA_N	sars1
 PF00900	Ribosomal_S4e	rps4
@@ -809,7 +767,6 @@ PF03083	MtN3_slv	slc50a1	XENTR_v900275172mg	XENTR_v900275171mg
 PF03226	Yippee-Mis18	crbn	ypel5	ypel1	ypel2	ypel1
 PF00413	Peptidase_M10	mmp16	mmp13	mmp17	tspan17	mmp28	mmp2	mmp13l	mmp14	mmp1	erfe	XENTR_v900308751mg	mmp1	mmp3	mmp3	mmp2	mmp19	LOC100127631	LOC100127856	usp19	mmp25	mmp21	mmp15	mmp11	mmp9.1	mmp13	mmp17	mmp7	mmp15
 PF00941	FAD_binding_5	aox1	xdh	aox1
-PF14980	TIP39	
 PF00626	Gelsolin	gsn	sec23b	gsn	svil	XENTR_v900274462mg	plekhg3	gsn	vill	sec23b	flii	vil1	LOC100136947	svil	svil	sec23a	josd1	capg	anxa2	XENTR_v900274461mg	flii	sec23b	nek6	vil1	XENTR_v90026043mg	XENTR_v90026042mg
 PF09379	FERM_N	frmd7	frmd4b	mylip	ezr	frmd3	LOC100036600	tln2	epb41l4a	nf2	RDX	ptpn13	epb4.1l3-prov	ptpn3	epb41l1	nploc4	epb4.1l3	epb41	XENTR_v900287357mg	star	epb41	RDX	pdha1	frmd6	LOC100485014	sts	topbp1	epb41l3	nf2	ptpn21	mylip	epb41l5	mylip	ptpn13	frmd7	frmd4a	epb41l3	vil2	epb41l4a	epb41l5	vil2	epb41l2
 PF15237	PTRF_SDPR	cavin1	XENTR_v90025920mg	cavin1
@@ -825,7 +782,6 @@ PF16674	UCH_N	usp37
 PF00784	MyTH4	plekhh2	arhgap39	myo10	myo10	XENTR_v900271202mg	XENTR_v900275992mg	myo7a
 PF00704	Glyco_hydro_18	chit1	XB5763442	ctbs	XB5763442	LOC548945	chid1	XB5763442 [provisional:chia]	chia	usp49	XB5763442 [provisional:chia]
 PF13306	LRR_5	LOC493197	lrrc8c	znf534	lhcgr	XB5838993 [provisional:chad]	lrfn5	tlr13	fshr	LOC100485206	lrrc4c	gp5
-PF08377	MAP2_projctn	
 PF01873	eIF-5_eIF-2B	eif5	eif5	eif2s2
 PF13843	DDE_Tnp_1_7	TxpB_Kobuta	TxpB_Uribo2	TxpB_Kobuta	TxpB_Kobuta	TxpB_Uribo1	pgbd5	TxpB_Uribo2
 PF09797	NatB_MDM20	naa25
@@ -871,7 +827,6 @@ PF13882	Bravo_FIGEY	nrcam	l1cam	nrcam
 PF16006	NUSAP	nusap1	nusap1
 PF13180	PDZ_2	htra1	psmd9	psmd9	XENTR_v90026664mg	pdzd8	psmd9	htra1
 PF10210	MRP-S32	mrpl42
-PF15092	UPF0728	
 PF00143	Interferon	ifn4	ifn5	ifn3	ifn1	ifn2
 PF05392	COX7B	cox7b
 PF03727	Hexokinase_2	hk1	smpd3	smpd3	hkdc1	hk1	hk2
@@ -887,11 +842,9 @@ PF02412	TSP_3	XENTR_v900269564mg	thbs1	thbs4	thbs3	thbs2	XENTR_v900269561mg	thbs
 PF02938	GAD	LOC100145033
 PF02689	Herpes_Helicase	pif1	pif1
 PF00988	CPSase_sm_chain	cps1	LOC100158506	LOC100125119
-PF05824	Pro-MCH	
 PF01171	ATP_bind_3	ctu1
 PF00248	Aldo_ket_red	XENTR_v900272263mg	akr1b1	XB5836416 [provisional]	XB5836416 [provisional]	akr1c2	LOC548351	XB5731323 [provisional]	atpsckmt	kcnab1	akr1a1	akr1b1	kcnab1	akr1c3	akr1c3	AKR7A2	kcnab2	prl.1	9030611n15rik	akr1c4	AKR7A2	LOC548351	XENTR_v900273482mg	XB5731323 [provisional]	XENTR_v900263043mg	LOC100127714	trim69.1	akr1c8	gclm	kcnab3	XENTR_v900272262mg	akr7a2	XB5994047	XENTR_v900263041mg	LOC116406435	cdkn1a	LOC594893	XB5731323	LOC734139	kcnab3	akr1c3	akr1d1
 PF05241	EBP	ebp	ebpl
-PF15794	CCDC106	
 PF03009	GDPD	LOC549927	gdpd5	gdpd1	gdpd5	gde1	LOC549927	gde1	gpcpd1	gdpd5	LOC100125107	mapk12
 PF08999	SP_C-Propep	sftpc
 PF16195	UBA2_C	uba2	uba2
@@ -913,7 +866,6 @@ PF09649	CHZ	hirip3	hirip3
 PF03941	INCENP_ARK-bind	incenp	ctdspl
 PF15242	FAM53	hjv	fam53a
 PF02037	SAP	sarnp	XENTR_v90027176mg	sarnp	hnrnpu	sltm	hnrpul2	gmppb	acin1	mrtfa	HNRPU	arl15	mrtfb	hnrnpul2	HNRPU	eri1	eri1	dppa2	myocd	hnrnpu
-PF07142	DUF1388	
 PF02191	OLF	olfml2b	XENTR_v900268921mg	olfm1	arl3l2	olfml2a	olfml3	olfm3	rab15	olfm2	gldn	olfm4	olfml2a
 PF04622	ERG2_Sigma1R	XENTR_v90030406mg	sigmar1
 PF01435	Peptidase_M48	zmpste24	specc1
@@ -930,11 +882,9 @@ PF08383	Maf_N	mafa	maf	nrl	Nrl	mafb
 PF01347	Vitellogenin_N	XENTR_v900286962mg	LOC100494633	LOC100494633	dnajc7	LOC100494633	XENTR_v900286961mg
 PF09057	Smac_DIABLO	diablo
 PF02372	IL15	il15	il15	il21
-PF14773	VIGSSK	
 PF05786	Cnd2	ncaph	ncaph	ncaph
 PF07780	Spb1_C	LOC100145257	ftsj3	XENTR_v900276631mg
 PF03068	PAD	XENTR_v90030142mg	creb1	padi2	XENTR_v90026816mg	padi2
-PF07732	Cu-oxidase_3	
 PF01546	Peptidase_M20	pm20d1	darmin	cndp2	cndp2	darmin	cndp1	pm20d1	XENTR_v90027135mg	acy1.1	acy1.1	XENTR_v90027135mg	cndp2	pm20d2
 PF03372	Exo_endo_phos	XENTR_v900302672mg	inpp5a.2	cnot6l	emilin2	synj2	dnase1l3	LOC734133	inpp5a.1	apex1	synj2	XENTR_v90026817mg	dnase1	apex2	smpd2	XENTR_v90025809mg	noct	inpp5a.1	ocrl	apex2	XENTR_v90028228mg	commd10	dnase1l3	tdp2	inpp5b	dnase1l3	pde4c	inpp5a.1	angel1	synj1	XENTR_v90025810mg	XENTR_v90030663mg	dnase1l3	tdp2	angel2	smpd3	smpd2	apex1	inpp5a.1
 PF07707	BACK	btbd6	klhl6	gan	btbd7	kbtbd2	gan	loxl2	ccdc14	kbtbd3	klhl5	enc1.2	kbtbd8	klhl40	klhl25	btbd6	klhl41	klhl10	gan	keap1	klhl4	btbd1	LOC100037891	klhl21	klhl24	klhl10	ipp	gmcl1	klhl8	klhl34	atp10d	klhl32	klhl31	klhl40	kbtbd4	ifngr1	klhl20	klhl4	klhl23	klhl30	btbd17	enc1	klhl38	cdkl5	btbd3	btbd9	klhl12	klhl13	btbd9	klhl17	klhl18	dad1	XENTR_v90027883mg	klhl20	c1galt1c1	XENTR_v90030619mg	klhl7	klhl13	klhl36	klhl8	klhl14	XENTR_v90030210mg	klhl22	bklhd5
@@ -943,7 +893,6 @@ PF12230	PRP21_like_P	SF3A1
 PF01821	ANATO	c3	LOC100170611	LOC101734099	LOC101734099	c3	c4a
 PF04731	Caudal_act	cdx1	cdx1	cdx2	cdx1	cdx1	cdx4
 PF02770	Acyl-CoA_dh_M	LOC100036613	acad9	XENTR_v900259333mg	mgc107841	ivd	XENTR_v900259333mg	acox1	acox2	mgc147631	vps53	acadsb	acox1	LOC100036613	acadsb	acad10	TEgg002p08.1-001	acads	mgc147631	gcdh	LOC548740	acadsb	ivd	mgc107841	acoxl	gcdh
-PF03491	5HT_transport_N	
 PF01958	DUF108	aspdh
 PF14999	Shadoo	sprn
 PF01501	Glyco_transf_8	large2	glt8d1	gyg1	gxylt2	gxylt1	glt8d1	glt8d2	gyg2	large2	LOC100127708	uggt2	xxylt1	gxylt1	glt8d1
@@ -1011,7 +960,6 @@ PF06657	Cep57_MT_bd	cep57l1	cep57
 PF07555	NAGidase	oga	oga	syt12
 PF02029	Caldesmon	cald1	LOC100124848	lad1	LOC100124848	lsp1	lsp1-prov
 PF09747	DUF2052	ccdc97
-PF02872	5_nucleotid_C	
 PF03853	YjeF_N	yjefn3	edc3	naxe	edc3
 PF07706	TAT_ubiq	tat	tat
 PF04505	CD225	ifitm1	syndig1	XENTR_v90028951mg	LOC101733140	prrt1	trarg1	ifitm3
@@ -1059,7 +1007,6 @@ PF10176	DUF2370	ndfip1	ndfip1
 PF10660	MitoNEET_N	cisd2	cisd1
 PF12004	DUF3498	syngap1	akap9	XENTR_v900260502mg	XENTR_v900260505mg	XENTR_v900260504mg	ctdsp1	XENTR_v900260503mg	XENTR_v900260505mg
 PF06602	Myotub-related	XB5960519	mtmr10	mtmr11	slc39a1l	sbf1	mtmr1	sbf2	eif3i	MGC145907	mtmr1	sbf2	mtmr7	sbf1	mtmr9	mtmr12	XENTR_v90031007mg	mtm1	sbf2	LOC100125154	mtmr10
-PF07890	Rrp15p	
 PF06337	DUSP	usp15	usp15	usp20	usp20	usp33
 PF10523	BEN	bend5	LOC100145654	pdss2	banp	nacc1	bend7	hivep3	banp	nacc2
 PF00535	Glycos_transf_2	galnt14	galnt13	slco5a1	galnt10	XENTR_v900257422mg	anxa10	galnt6.3	alg5	LOC100144992	corin	galnt10	galnt7	galnt1	galnt1	dpm1	galnt9	corin	galnt16	galnt11	galnt13	galnt7	galnt12	galnt4	pde1a	alg5	dpm1
@@ -1087,7 +1034,6 @@ PF07145	PAM2	paip2b	XENTR_v90026227mg	paip2b	tob2	XENTR_v90026227mg	atxn2l	XENTR
 PF11626	Rap1_C	terf2ip	terf2ip	rap1
 PF06209	COBRA1	nelfb	XENTR_v90030333mg	XENTR_v90030333mg
 PF04683	Proteasom_Rpn13	adrm1	adrm1	adrm1
-PF02818	PPAK	
 PF00788	RA	nkap	rassf4	XENTR_v90025727mg	sys1	rgl3	rassf7	rassf3	myo9a	ldlrad4	grb10	rassf3	XENTR_v900277043mg	ralgds	LOC100170579	rassf1	ralgds	rasip1	apbb1ip	ralgds	cox7b	arhgap20	rassf6	XENTR_v900292481mg	rassf2	rapgef6	rapgef2	XENTR_v900275992mg	atp5mk	rgl2	dgkq	dck.1	rin2	ldlrad4	myo10	rassf9	atp5mk	rapgef5	rassf2
 PF01885	PTS_2-RNA	trpt1
 PF01370	Epimerase	sdr39u1	tsta3	ndufa9	gfus	tdh
@@ -1103,16 +1049,13 @@ PF03318	ETX_MTX2	LOC100145764
 PF02252	PA28_beta	psme2	psme1	psme3	psme1	psme2	psme3
 PF03920	TLE_N	tle3	tle2	tle2	tle5	tle4	tle4	tle2	tle5	tle2	tle4	tle1	tle1	tle1	tle4	LOC100037863
 PF01479	S4	rps9	rps4	imp3
-PF13167	GTP-bdg_N	
 PF00146	NADHdh	ND1	nd1
 PF04836	IFRD_C	ifrd2	ifrd1
 PF03798	TRAM_LAG1_CLN8	cers6	XENTR_v90026128mg	cers2	cers3	cers1	tlcd3a	tram2	tram1	tram2	tlcd4	cers5
 PF13897	GOLD_2	tmed8	acbd3	acbd3
 PF10453	NUFIP1	nufip1	nufip1
 PF15684	AROS	rps19bp1
-PF15449	Retinal	
 PF03493	BK_channel_a	kcnt2l	kcnt2l	kcnma1	kcnt1	kcnt2	XENTR_v900289292mg
-PF10873	CYYR1	
 PF00644	PARP	parp12	parp6	XENTR_v90030021mg	parp3	parp14.3	parp3	tnks2	hist2h2bf	kctd2	fmnl2	tnks2	parp1	XENTR_v90026815mg	XENTR_v90030022mg	rab40b	XENTR_v90027648mg	LOC100170623	parp16	tnks2	XENTR_v900276494mg	LOC100490338	tiparp	parp8
 PF01139	RtcB	rtcb
 PF00899	ThiF	XENTR_v90026334mg	sae1	uba6	nae1	sae1	uba3	uba5	atg7	uba3	XENTR_v90029584mg	uba2	uba2
@@ -1152,7 +1095,6 @@ PF05915	DUF872	tmem230	TEgg138d08.1-001
 PF06870	RNA_pol_I_A49	polr1e	polr1e
 PF14792	DNA_pol_B_palm	polm	polb	poll	polb	polb	poll.2	polm
 PF04212	MIT	rps6kl1	vps4b	mitd1	capn7	ulk3	mitd1	echdc2	rps6kc1	LOC100158600	vps4b	TGas003o01.1-001	snx15
-PF16641	CLIP1_ZNF	
 PF05334	DUF719	fam114a1
 PF03635	Vps35	plxna2	vps35
 PF01015	Ribosomal_S3Ae	rps3a
@@ -1170,10 +1112,8 @@ PF15324	TALPID3	kiaa0586	TEgg144m09.1-001
 PF14853	Fis1_TPR_C	fis1
 PF09333	ATG_C	atg2b	sema3e	atg2b	vps13a	atg2b	atg2a	atg2b
 PF03782	AMOP	THSD3	ism1	ism2
-PF12090	Spt20	
 PF03271	EB1	XENTR_v900278141mg	mapre1	mapre2	XENTR_v900278141mg
 PF00965	TIMP	timp2	timp-1
-PF16756	PALB2_WD40	
 PF00779	BTK	btk	rasal1	fbxo46	t2r15	rasa3	btk	rasa2	nck2
 PF13000	Acatn	slc33a1
 PF09310	PD-C2-AF1	pou2af1
@@ -1221,7 +1161,6 @@ PF11028	DUF2723	tmem260
 PF00957	Synaptobrevin	vamp2	sec22b	vamp8	vamp8	vamp3	vamp7	vamp4	LOC100127560	vamp3	vamp3	ykt6	sec22b
 PF00786	PBD	cdc42se1	cdc42ep3	XB5822256	pak5	XB5748694	cdc42se2-A	pak2	XB5822256 [provisional:cdc42ep2]	pak2	was	cdc42se1	cdc42se2-B	pak4	pak1	pak5	znf385d	LOC733735	wasl	was-prov	cdc42ep4	wasl
 PF12185	IR1-M	ranbp2
-PF16399	Aquarius_N	
 PF14161	FAM110_N	mettl13	fam110d	fam110c
 PF13774	Longin	sec22b	vamp7	sec22a	ykt6	ykt6	sec22b
 PF08913	VBS	tln2	XENTR_v900303562mg	tln2	tln1
@@ -1245,11 +1184,8 @@ PF06400	Alpha-2-MRAP_N	uck2	lrpap1	LOC100038258
 PF03660	PHF5	phf5a
 PF09190	DALR_2	cars2	cars2
 PF09752	DUF2048	abhd18
-PF04821	TIMELESS	
 PF02724	CDC45	fosb	LOC779545
-PF06979	TMEM70	
 PF03986	Autophagy_N	atg3
-PF14008	Metallophos_C	
 PF00276	Ribosomal_L23	mrpl23	rpl23a	mrpl23-prov
 PF03874	RNA_pol_Rpb4	polr2d	crcp
 PF02466	Tim17	ndufa11	ndufa11	timm23	timm22	tmem135	timm22	timm17a	timm17b	timmdc1
@@ -1270,33 +1206,26 @@ PF00318	Ribosomal_S2	rpsa	mrps2
 PF02803	Thiolase_C	acat1	XENTR_v90028292mg	acaa2	acat1	acaa2	hadhb	LOC101734931	scp2	sdsl	acaa1	acat2	hadhb
 PF03476	MOSC_N	LOC100488668	mtarc1
 PF16014	SAP130_C	sap130	sap130
-PF09045	L27_2	
 PF17047	SMP_LBD	XENTR_v90025724mg	XENTR_v90026098mg	XENTR_v90029425mg	gpat3	rgcc	XENTR_v90029961mg	XENTR_v90025745mg	XENTR_v90026323mg	XENTR_v90025722mg	gpat3	esyt3	XENTR_v90026322mg	LOC100145291
 PF15792	LAS2	c18orf54
-PF11865	DUF3385	
 PF01016	Ribosomal_L27	mrpl27	mrpl27
 PF14771	DUF4476	proser1
 PF16278	zf-C2HE	aptx	aptx
-PF15443	DUF4630	
 PF10508	Proteasom_PSMB	psmd5
 PF11875	DUF3395	dnajc11
 PF02580	Tyr_Deacylase	dtd1	sec22c
 PF14676	FANCI_S2	fanci
 PF00348	polyprenyl_synt	ppp3cb	pdss2	fdps	pdss1	ggps1	XENTR_v90027614mg
 PF08648	DUF1777	snrnp27
-PF00074	RnaseA	
 PF00307	CH	gabra1	sptbn5	tagln	adgrd1	XENTR_v900273183mg	lcp1	actn4	nav2	actn3	XENTR_v900272541mg	flna	XENTR_v90028848mg	cnn2	mical3	specc1l	LOC100145120	iqgap3	utrn	XENTR_v900272561mg	nav3	XENTR_v900278142mg	XENTR_v900265664mg	LOC100127767	pls1	parvb	lmo7	myoz1	dus4l	macf1	lcp1	actn1	actn2	specc1l	LOC100124996	actn1	XENTR_v90030150mg	mical2	lrch2	ehbp1	smtn	iqgap2	gas2l1	XENTR_v900272562mg	cnn3	TGas014p14.1-001	TGas022k16.1-001	actn3	dennd1b	micall1	iqgap1	TGas067b03.1-001	sptbn4	LOC100127553	nav2	parvb	lrch4	arhgef7	LOC100145182	mapre2	XENTR_v90028647mg	micall2	XENTR_v900267371mg	lrch1	cnn2	micall2	specc1	pls3	mapre1	tagln2	cnn1	lrch2	micall1	syne1	ehbp1l1	XENTR_v900307801mg	smtn	snrnp70
 PF06905	FAIM1	faim	faim	faim	faim
 PF09992	NAGPA	nagpa
 PF07830	PP2C_C	ppm1b	ppm1a	ppm1b	ppm1a
 PF03951	Gln-synt_N	glul-prov	glul-like.1	glul	glul
-PF16788	ATF7IP_BD	
 PF08264	Anticodon_1	lars1	iars1	vars2	lars2	iars1	iars2	lars1
-PF15818	CCDC73	
 PF02190	LON_substr_bdg	LOC100145688	crbn	lonp2	lonrf2
 PF06565	DUF1126	efhc2	efhc2	XENTR_v900261291mg	efhc1	nme7	efhc1
 PF08746	zf-RING-like	nsmce1	nsmce1
-PF13914	Phostensin	
 PF05871	ESCRT-II	vps25
 PF07837	FTCD_N	ftcd	ftcd	TGas028n11.1-001	XB5818974
 PF01400	Astacin	XENTR_v900260871mg	astl2f	rarg	XB5949052 [provisional]	astl2c	tll1	bmp1	XENTR_v900260874mg	bmp1	mep1a	LOC549415	XENTR_v90028860mg	tll2l	aarsd1	bmp1	mep1a	XENTR_v90028862mg	tll2l	atg2b	XENTR_v900260873mg	XENTR_v90028861mg	LOC594901	mep1b	cldn17.3	hpcal4	astl2d.1	astl2c	XENTR_v900260872mg	astl	astl2g	XENTR_v900260872mg	mep1b	accs
@@ -1323,12 +1252,10 @@ PF01217	Clat_adaptor_s	XENTR_v900290261mg	ap1s3	ap1s3	ap1ar	ankrd9	dnajc5g	ap1m1
 PF13886	DUF4203	tmem198	XENTR_v900275883mg
 PF17297	PEPCK_N	pck1	pck1	pck1	pck2	pck1	pck1
 PF00180	Iso_dh	XENTR_v900270281mg	XENTR_v900270281mg	idh1	idh3g	adamts17	idh3a	idh3a	idh1	idh3g	csde1	XENTR_v900270281mg	idh3b	idh2
-PF00087	Toxin_TOLIP	
 PF04969	CS	cacybp	nudcd2	cacybp	usp19	ptges3	usp19	nudcd3	usp19	itgb1bp2	dnaaf4	nudc	cyb5r4	ptges3	cyb5r4	nudc	nudcd1	nudcd2	nudcd2	nudcd3	sugt1	sugt1
 PF04884	DUF647	rusf1
 PF15075	DUF4542	c17orf98
 PF08271	TF_Zn_Ribbon	tshz1	gtf2b	dlx4	brf1	gtf2e1	gtf2e1	brf1
-PF15558	DUF4659	
 PF11365	SOGA	mtcl1
 PF08687	ASD2	shroom1	shroom3	shroom4	shroom2
 PF08423	Rad51	rad51c	rad51	xrcc3	rad51c	XENTR_v90029650mg	xrcc3	rad51d	rad51
@@ -1369,10 +1296,8 @@ PF07260	ANKH	ankh
 PF03028	Dynein_heavy	dnah1	dnah14	XENTR_v900307692mg	XENTR_v90026166mg	dnah11	dnah7	c1orf159	dnah12	XENTR_v90027920mg	dnah2	XENTR_v900300772mg	dnah5	LOC100036695	dnah1	entpd1	LOC100170584
 PF05270	AbfB	gja8	spata18a
 PF04161	Arv1	arv1
-PF16608	TNRC6-PABC_bdg	
 PF10391	DNA_pol_lambd_f	polm	polb	poll	polb	polb	poll.2	polm
 PF16493	Meis_PKNOX_N	nipa1	meis2	pknox2	meis1	meis3	pknox2	tab3
-PF15923	DUF4745	
 PF10591	SPARC_Ca_bdg	smoc1	sparc	spock2	sparc	spock3
 PF01214	CK_II_beta	csnk2b	csnk2b
 PF02019	WIF	wif1
@@ -1383,7 +1308,6 @@ PF04046	PSP	zcchc8	sf3b2	zcchc8
 PF00551	Formyl_trans_N	LOC100127737	mtfmt	aldh1l2	aldh1l1
 PF03836	RasGAP_C	iqgap3	iqgap1	iqgap2	XENTR_v90030392mg
 PF10206	WRW	atp5mf
-PF07662	Nucleos_tra2_C	
 PF04598	Gasdermin	sowahd
 PF13349	DUF4097	fam185a
 PF08539	HbrB	prr5
@@ -1400,7 +1324,6 @@ PF00060	Lig_chan	dedd2	grin2a	grid1	XENTR_v900282161mg	XENTR_v900282161mg	grin2c
 PF14048	MBD_C	mbd2	mbd3	mbd3	mbd2
 PF14763	HPS3_C	hps3
 PF02225	PA	pradc1	rnf13	tfrc	sppl2b	rnf149	naalad2	rnf130	tfrc	naalad2	sppl2b	LOC100124963	LOC100145171	rnf13	t2r49
-PF15764	DUF4693	
 PF02194	PXA	snx14	snx13	LOC100127563	snx14	snx14
 PF06094	GGACT	ggact
 PF06773	Bim_N	bcl2l11
@@ -1429,13 +1352,11 @@ PF02889	Sec63	hfm1	usp1	LOC100127710	LOC100145098	st3gal3
 PF06058	DCP1	dcp1a	XENTR_v900286642mg	dcp1b	XENTR_v900286642mg
 PF16551	Quaking_NLS	qki
 PF06119	NIDO	rpl37	gnaz	myl4	rhobtb1	nid2	nid2
-PF09133	SANTA	
 PF02629	CoA_binding	acly	suclg1	suclg1	acly	suclg1
 PF02933	CDC48_2	vcp	nsf	vcp	XENTR_v90026289mg
 PF07452	CHRD	chrd.1	chrd.1
 PF04698	Rab_eff_C	mlph	myrip
 PF01938	TRAM	cdk5rap1	cdk5rap1	cdkal1
-PF14533	USP7_C2	
 PF01012	ETF	etfb	etfa	etfa
 PF09775	Keratin_assoc	krtcap2
 PF00326	Peptidase_S9	prepl	fap	dpp8	apeh	LOC779598	XENTR_v900302192mg	dpp10	dpp4	XENTR_v900302193mg	dpp4	dpp9	dpp6	dpp6	dpp9	dpp10	prep
@@ -1450,11 +1371,8 @@ PF04825	Rad21_Rec8_N	rec8	rec8	rad21
 PF00044	Gp_dh_N	gapdh	gapdh
 PF16517	Nore1-SARAH	rassf6	XENTR_v900292481mg	rassf4	rassf2	rassf3	rassf1	rassf3	rassf2
 PF08623	TIP120	cand1
-PF07202	Tcp10_C	
 PF10595	UPF0564	fam161a	fam161a
 PF04845	PurA	purb	pura
-PF15230	SRRM_C	
-PF00958	GMP_synt_C	
 PF08672	ANAPC2	anapc2
 PF14780	DUF4477	nepro
 PF07946	DUF1682	ccdc47	ccdc47
@@ -1467,7 +1385,6 @@ PF08069	Ribosomal_S13_N	XENTR_v90029951mg	rps13
 PF02678	Pirin	pir
 PF14575	EphA2_TM	epha4	epha2	ephb4	epha8	XENTR_v900261001mg	ephb1	epha6	tprg1	ephb3	epha4
 PF01342	SAND	sp110	XENTR_v90029862mg	gmeb1
-PF03632	Glyco_hydro_65m	
 PF14662	KASH_CCD	XENTR_v90030089mg
 PF04628	Sedlin_N	trappc2	trappc2l
 PF04658	TAFII55_N	daglb	daglb	taf7
@@ -1485,7 +1402,6 @@ PF15159	PIG-Y	pigy
 PF03299	TF_AP-2	tfap2a	csrp2	tfap2c	tnfrsf11b	tfap2a	tfap2b	tfap2b	XENTR_v900259022mg	tnfrsf11b	tfap2d	tfap2e	tfap2e	tfap2c	tfap2a
 PF00155	Aminotran_1_2	kyat3	alas1	alas1	tat	tat	got2	gcat	kyat1	kyat3	gcat	got1	alas2	aadat	got2	gpt2	spata18a	sptlc1
 PF09166	Biliv-reduc_cat	blvra	blvra
-PF15619	Lebercilin	
 PF16381	Coatomer_g_Cpla	copg1	copg2	copg1	copg2
 PF02525	Flavodoxin_2	nqo1	nqo1	nqo1
 PF00462	Glutaredoxin	glrx2	glrx	glrx5	MGC147163	glrx2	MGC147163	glrx3	glrx3
@@ -1499,7 +1415,6 @@ PF06455	NADH5_C	nd5
 PF12129	Phtf-FEM1B_bdg	phtf1	otud7a
 PF10629	DUF2475	fam166b	fam166c	XENTR_v900276172mg
 PF00817	IMS	POLI	polk	poli	POLI
-PF08510	PIG-P	
 PF03081	Exo70	exoc7
 PF07177	Neuralized	XENTR_v90028539mg	neurl1b	neurl4	neurl1	neurl4	neurl2	LOC100145805
 PF00289	Biotin_carb_N	mccc1	acaca	kiaa0586	pc.1	plcl2	LOC100125118	acacb
@@ -1547,7 +1462,6 @@ PF07443	HARP	smarcal1	XENTR_v90028124mg
 PF16034	JAKMIP_CC3	jakmip1	jakmip1	rida	jakmip3
 PF00446	GnRH	gnrh1	gnrh1	gnrh2
 PF12569	NARP1	naa15	naa16	naa15	naa15
-PF15153	CYTL1	
 PF10457	MENTAL	stard3	stard3nl
 PF15898	PRKG1_interact	ppp1r12b	ppp1r12a
 PF06941	NT5C	nt5m
@@ -1582,7 +1496,6 @@ PF16179	RHD_dimer	nfatc2	nfatc1	rela	nfatc3	nfat5	nfatc4	nfkb2	ccdc71l	rel	nfkb2
 PF00133	tRNA-synt_1	lars1	iars1	vars2	lars2	iars1	iars2	lars1
 PF10475	Vps54_N	vps50	vps54
 PF12497	ERbeta_N	esr2	esr2	esr2
-PF12145	Med12-LCEWAV	
 PF02806	Alpha-amylase_C	amy2b	LOC100125163	LOC100125163	amy2a	gbe1	amy2b
 PF02100	ODC_AZ	LOC100127795	oaz1
 PF01749	IBB	kpna6	kpna2	kpna7	kpna2	XENTR_v90028085mg	kpna1	kpna1	XENTR_v90028085mg	kpna2	kpna7	kpna3	kpna6
@@ -1617,7 +1530,6 @@ PF00573	Ribosomal_L4	rpl4	mrpl4	mrpl4
 PF08490	DUF1744	pole
 PF05879	RHD3	XENTR_v90028176mg	XENTR_v90026947mg	XENTR_v90026941mg	XENTR_v90026391mg	XENTR_v900281741mg	XENTR_v90025896mg	XENTR_v90026945mg	LOC101735070	XENTR_v90028173mg	LOC105945998	XENTR_v90026948mg	XENTR_v90026939mg	XENTR_v90026940mg	XENTR_v90028175mg
 PF02453	Reticulon	rtn2	rtn4	rtn4	rtn4	rtn1	rtn4	rtn3	rtn4	RTN4	rtn1	RTN4
-PF16727	REV1_C	
 PF07773	DUF1619	tctn2	tctn2	tctn3	tctn1	tctn1	XENTR_v90030144mg
 PF14617	CMS1	cmss1
 PF08285	DPM3	dpm3
@@ -1634,7 +1546,6 @@ PF01115	F_actin_cap_B	capzb	capzb	XENTR_v900272201mg
 PF06365	CD34_antigen	LOC779603
 PF00812	Ephrin	efna3	efna1	XENTR_v90030017mg	efna5	efna1	efnb3	efnb1	efna2	XENTR_v90030806mg	efnb2
 PF00095	WAP	XENTR_v90026196mg	calhm6	XENTR_v90030744mg	cep152	anos1	XENTR_v90026197mg
-PF12297	EVC2_like	
 PF17218	CBX7_C	cbx7	cbx8	cbx6	cbx4	syngr2
 PF16002	Headcase	heca	heca
 PF08702	Fib_alpha	fgb	fgb	fam171a2	fga
@@ -1662,12 +1573,10 @@ PF12066	DUF3546	rangrf	srrt
 PF05831	GAGE	piwil3
 PF09817	Zwilch	zwilch	zwilch
 PF06701	MIB_HERC2	mib2	herc2	mib1	mib1	hectd1	hectd1	mib2	mib1
-PF14846	DUF4485	
 PF12631	MnmE_helical	gtpbp3
 PF05395	DARPP-32	ppp1r1b	ppp1r1a	ppp1r1c
 PF06762	LMF1	nsrp1	lmf2
 PF16646	AXIN1_TNKS_BD	XENTR_v90030148mg	axin1
-PF10273	WGG	
 PF10235	Cript	cript
 PF11560	LAP2alpha	XENTR_v90026850mg	XENTR_v90026848mg	XENTR_v90026799mg	fbln5	XENTR_v90029364mg	XENTR_v90027186mg
 PF14727	PHTB1_N	bbs9	bbs9
@@ -1704,7 +1613,6 @@ PF07297	DPM2	dpm2	dpm2
 PF04880	NUDE_C	XENTR_v900272603mg	XENTR_v900272604mg	mfsd8	ndel1	nde1	ndel1
 PF01381	HTH_3	edf1
 PF01080	Presenilin	psen2	psen2	psen1
-PF04949	Transcrip_act	
 PF05556	Calsarcin	myoz3	XENTR_v90028599mg	myoz2	myoz1
 PF15347	PAG	pag1
 PF09326	NADH_dhqG_C	ndufs1
@@ -1774,7 +1682,6 @@ PF12317	IFT46_B_C	neurod2
 PF10225	NEMP	nemp1
 PF04241	DUF423	LOC100145747	XENTR_v90030265mg
 PF10513	EPL1	jade1	epc2	brd1	jade3	brpf1	epc1	actn4	epc2	brd1	LOC100127822	LOC779492	brpf3	brpf1	phf17	polg	sec24a
-PF02184	HAT	
 PF01327	Pep_deformylase	pdf
 PF07842	GCFC	tfip11	ppp1r32	XENTR_v900309713mg	LOC100145438	tfip11
 PF13625	Helicase_C_3	ercc3	ercc3	XENTR_v90028115mg
@@ -1801,7 +1708,6 @@ PF05104	Rib_recp_KP_reg	rrbp1	ktn1	rrbp1	rrbp1
 PF15254	CCDC14	ccdc14	XENTR_v900287522mg	XENTR_v900287523mg	ccdc14
 PF05207	zf-CSL	dnajc24	dnajc24	dph3	zcsl3
 PF04868	PDE6_gamma	pde6h	pde6g
-PF07731	Cu-oxidase_2	
 PF02155	GCR	XENTR_v90028358mg	nr3c1
 PF12196	hNIFK_binding	XENTR_v90030373mg	nifk
 PF17034	zinc_ribbon_16	mios	mios	LOC100145742
@@ -1809,7 +1715,6 @@ PF06546	Vert_HS_TF	hsf2	XENTR_v900281363mg	hsf3	XENTR_v900281362mg
 PF02212	GED	XENTR_v90030437mg	rnf8	XENTR_v90027194mg	XENTR_v90027194mg	dnm3	dnm2	mx1	dnm2	dnm2	XENTR_v90027194mg
 PF03357	Snf7	chmp7	chmp5	chmp1b	chmp5	chmp2b	chmp6	XENTR_v900278591mg	aco2	chmp3	chmp1b	chmp4b	chmp1a	chmp1a	chmp2a
 PF04379	DUF525	LOC549852	gnpat	LOC100158620	brpf3
-PF09416	UPF1_Zn_bind	
 PF12037	DUF3523	atad3
 PF13925	Katanin_con80	katnb1	katnb1	katnbl1
 PF15304	AKAP2_C	palm2akap2
@@ -1827,7 +1732,6 @@ PF05700	BCAS2	bcas2	XENTR_v900285501mg
 PF05053	Menin	men1	men1
 PF03881	Fructosamin_kin	XENTR_v900257252mg	fn3k	fn3k	XENTR_v900257251mg	fn3krp
 PF07064	RIC1	LOC100170625	ric1
-PF06758	DUF1220	
 PF13862	BCIP	bccip	bccip
 PF06907	Latexin	rarres1	rarres1
 PF00266	Aminotran_5	scly	agxt	XENTR_v90028738mg	nfs1	tmod1	scly	psat1	psat1	agxt
@@ -1841,7 +1745,6 @@ PF00630	Filamin	gatad2a	XENTR_v900307802mg	trim2	XENTR_v90027397mg	poglut3	flna	
 PF07691	PA14	XENTR_v90026135mg	znf519	pkhd1l1.1	b4galnt4	b4galnt4
 PF04189	Gcd10p	alg13l	trmt6
 PF02734	Dak2	dak	ube2j1
-PF10427	Ago_hook	
 PF02828	L27	pals2	mpp7	lin7a	cask	lin7b	uqcr11	lin7a	cask	mpp2	mpp7	LOC100145156	mpp7
 PF06470	SMC_hinge	smc1b	XENTR_v90028592mg	XENTR_v90028721mg	smc1b	ndfip1	ercc2	map6
 PF01769	MgtE	slc41a2	slc41a2	slc41a3	slc41a2	slc41a2
@@ -1859,7 +1762,6 @@ PF03919	mRNA_cap_C	rngtt	rngtt
 PF10190	Tmemb_170	tmem170a
 PF01974	tRNA_int_endo	tsen34	tsen2
 PF12534	Pannexin_like	LOC493197	lrrc8c	LOC100485206	XB964897	lrrc8b	lrrc8e	lrrc8a	lrrc8d
-PF17125	Methyltr_RsmF_N	
 PF07710	P53_tetramer	XENTR_v900285372mg	tp73	rad51	tp53
 PF00790	VHS	tom1l1	hgs	tom1	gga1	lars1	stam	stam	hgs	hgs	hgs	gga1	gga3	gga3	tom1l1
 PF06424	PRP1_N	prpf6	XENTR_v900309721mg
@@ -1896,10 +1798,7 @@ PF02864	STAT_bind	XENTR_v90025921mg	stat1	stat1	faxdc2	XENTR_v90025922mg	stat4	s
 PF12213	Dpoe2NT	pole2
 PF00320	GATA	gata4	orc6	gata4	mta1	XENTR_v90028957mg	gata3	XENTR_v90030336mg	mta1	gata1	gatad2a	gata4	trps1	gata6	gatad2b	gata5	gata2	gatad2a	XENTR_v900261211mg
 PF12251	zf-SNAP50_C	snapc3
-PF15235	GRIN_C	
-PF16171	CENP-T_N	
 PF03185	CaKB	prr11	kcnmb4	kcnmb3
-PF14443	DBC1	
 PF00010	HLH	msgn1	myf5	tcf15	mxd3	GNRHR2/nmI	tcf21	XENTR_v90028712mg	tfeb	LOC116411068	neurod4	max	mycn	hes6.1	LOC733709	dlst	tfeb	hes5.2	XENTR_v90025752mg	id4	XENTR_v90028298mg	hand1	esr-5	max	neurod4	usf2	arnt2	usf1	mnt	tfap4	clock	npas4	srebf2	hes5.9	sertad3	neurod2	neurod1	bcap29	hand2	figla	XB5993342	hes5.1	mxd3	mxd1	bhlhe41	XENTR_v90030829mg	neurog1	id2	sptlc3	atoh7	twist2	id3	bhlhe40	hes5.5	twist1	LOC733782	tcf4	twist1	neurog1	neurog3	tcf3	myog	tfec	clock	olig3	mycl	tcf12	mlx	apoc1	ilrun	tal1	ferd3l	hes5.5	usf3	bhlhe40	mitf	syt4	Bmal1	hes7.1	XENTR_v90028903mg	myog	hey1	hes4	myc	hes7.2	mlxip	mxi1	sim2	mespb	myod1	twist2	mycn	hes5.3	hnrnpk	myf6	mga	hes5.5	neurod6	bhlhe22	msgn1	hes6.2	msc	olig4	usf2	arnt2	hes1	mxd4	ascl2	arntl2	ube2e2	tcf15	myf5	tcf15	mlxip	arnt	hes5.7	mespa	rpe	mxi1	cep170
 PF04054	Not1	cnot1	cnot1	cnot1
 PF05131	Pep3_Vps18	vps18	vps18
@@ -1908,12 +1807,10 @@ PF06441	EHN	XENTR_v90027478mg	ephx1	ephx1
 PF14918	MTBP_N	mtbp	mtbp
 PF02199	SapA	psap	psap	psap
 PF14722	KRAP_IP3R_bind	MGC146293	itprid2
-PF15207	TMEM240	
 PF01465	GRIP	golga4	ras-dva1	golga1	gcc1
 PF16880	EHD_N	ehd3	ehd1	ehd3	ehd4	ehd4	Srl	ehd1	ehd2
 PF08243	SPT2	XENTR_v90029809mg	spty2d1	spty2d1	XENTR_v90029809mg
 PF15867	Dynein_attach_N	ccdc103
-PF02628	COX15-CtaA	
 PF08433	KTI12	kti12	kti12	pstk
 PF08699	ArgoL1	eif2c2	ago4	piwil4	blvrb	ago4	ago2	piwil3	piwil2	ago2	piwil2
 PF06469	DUF1088	nbeal3	lrba
@@ -1921,7 +1818,6 @@ PF14724	mit_SMPDase	smpd4	smpd4
 PF12736	CABIT	themis2	XENTR_v90028294mg	garem2	themis	mcm3
 PF02630	SCO1-SenC	sco2
 PF02036	SCP2	hsd17b4	sphk2	hsdl2	stoml1	stoml1	scp2	sdsl
-PF15351	JCAD	
 PF10198	Ada3	tada3
 PF02180	BH4	bcl2l2	bcl2l1	bcl2l2
 PF11894	Nup192	nup205	nup205
@@ -1967,7 +1863,6 @@ PF10480	ICAP-1_inte_bdg	itgb1bp1
 PF04420	CHD5	get1	get1
 PF06632	XRCC4	xrcc4	xrcc4	xrcc4
 PF01846	FF	prpf40a	arhgap5	prpf40a	arhgap35	tcerg1l	LOC100127820	LOC100127671	qpctl	tcerg1
-PF10231	DUF2315	
 PF01687	Flavokinase	rfk
 PF06229	FRG1	cdkn2c
 PF02870	Methyltransf_1N	mgmt
@@ -1986,7 +1881,6 @@ PF15167	DUF4581	mturn
 PF03189	Otopetrin	otop1	otop2	LOC101731580	LOC100496487	otop3	shisa2	shisa2
 PF02210	Laminin_G_2	TNeu066f19.1-001	lama4	LOC100127647	nell1	slit3	slit3	slit2	snrpf	XENTR_v900281054mg	tspear	pros1	crb1	pros1	nrxn3	cntnap2	b3galt6	nell2	gas6	fat1	pros	inpp5a.1	slit1	adarb1	cntnap4	XENTR_v90027349mg	slc7a14	XENTR_v90028104mg	cntnap1	crb2	lama3	cspg4b	col11a2p1	panx1	XENTR_v900306567mg
 PF01200	Ribosomal_S28e	rps28p9
-PF13971	Mei4	
 PF10149	TM231	tmem231
 PF01909	NTP_transf_2	papolg	tent2	papola	tent4b	papolg	papola	tent2	rpl35a
 PF05196	PTN_MK_N	ptn	mdk
@@ -2015,7 +1909,6 @@ PF06963	FPN1	slc40a1
 PF10262	Rdx	mien1	selenot	ncoa6
 PF05210	Sprouty	spred2	spred1	spry4	spry2	spry2	spred2	spry3	spry1	spred1
 PF12640	UPF0489	c5orf22	TEgg058p12.1
-PF14138	COX16	
 PF00835	SNAP-25	snap25	snap23	snap23	LOC100491227
 PF02263	GBP	gbp6	MGC145306	rnd3	gbp4	gbp6	gbp1	rnf112	rnf112.1	atl3	gbp1	LOC100488013	atl2	LOC100488013	atl3	atl1	LOC100145295	rnf112	LOC100495160	atl1	ipmk	atl1	gmnn	TGas143j10.1-001	gbp7
 PF05507	MAGP	mfap2
@@ -2029,7 +1922,6 @@ PF08390	TRAM1	XENTR_v90026128mg	tram2	tram1	tram2
 PF10585	UBA_e1_thiolCys	uba6
 PF15243	ANAPC15	anapc15
 PF01541	GIY-YIG	XENTR_v90027123mg	XENTR_v90026622mg
-PF15031	DUF4528	
 PF03029	ATP_bind_1	gpn3	gpn1	gpn2
 PF16700	SNCAIP_SNCA_bd	sncaip
 PF00996	GDI	gad1.1	gdi2	gdi2	gdi1	gdi1
@@ -2045,7 +1937,6 @@ PF01331	mRNA_cap_enzyme	rngtt	rngtt
 PF13820	Nucleic_acid_bd	ncoa6
 PF00109	ketoacyl-synt	alx1
 PF04572	Gb3_synth	LOC100494545	XENTR_v900272071mg	LOC101733668	LOC100490678	LOC100497665	XENTR_v900275872mg	XENTR_v90026029mg	LOC549416	LOC100497665	LOC100493872	LOC100495967	LOC100494225	XENTR_v90027210mg	XENTR_v90026027mg	LOC100494225	ndufaf2
-PF12772	GHBP	
 PF01121	CoaE	dcakd	coasy
 PF11857	DUF3377	mmp15	mmp16	usp19	mmp14	mmp15
 PF11878	DUF3398	dock6	TEgg004n06.1-001	stag3	dock10
@@ -2088,7 +1979,6 @@ PF16368	CEBP1_N	cpeb1	cpeb1
 PF10996	Beta-Casp	cpsf3	cpsf3	utp6	cpsf3	cpsf2
 PF13793	Pribosyltran_N	prps1	slc45a1	prpsap2	prpsap1	prps2	prps1
 PF03567	Sulfotransfer_2	hs6st2	chst10	hs2st1	hs2st1	chst13	txnrd3	crhbp	chst8	chs6st-1	chst11	chst12
-PF12938	M_domain	
 PF12739	TRAPPC-Trs85	trappc8	trappc8
 PF16114	Citrate_bind	acly	acly
 PF15501	MDM1	mdm1	mdm1	mdm1
@@ -2098,8 +1988,6 @@ PF16644	NEXCaM_BD	slc9a2l	slc9a1
 PF00355	Rieske	XB5959486	uqcrfs1	uqcrfs1	cmahp	XB5959486 [provisional]	XB5992703
 PF04799	Fzo_mitofusin	mfn1	mfn1	mfn2	mfn2
 PF00480	ROK	gne	gne
-PF03715	Noc2	
-PF10491	Nrf1_DNA-bind	
 PF00488	MutS_V	msh6	rabggtb	msh5
 PF16661	Lactamase_B_6	XENTR_v90029826mg	cpsf2	utp6
 PF16097	FXR_C3	fxr1	fxr1
@@ -2112,7 +2000,6 @@ PF13383	Methyltransf_22	mettl24
 PF01794	Ferric_reduct	steap4.2	grm2	mprip	duox2	nox1	mprip	nox4	cybb	cybb	nox5
 PF12770	CHAT	ttc28
 PF02144	Rad1	rad1
-PF16206	Mon2_C	
 PF02516	STT3	stt3a	stt3a
 PF09740	DUF2043	uvssa	uvssa
 PF06398	Pex24p	tecpr1
@@ -2141,7 +2028,6 @@ PF03127	GAT	tom1	gga1	lars1	gga1	gga3	gga3	tom1l1
 PF12533	Neuro_bHLH	neurod4	neurod6	neurod4	neurod2	neurod1
 PF13864	Enkurin	LOC496799	enkur	enkur
 PF00183	HSP90	hsp90aa1.2	tra1	hsp90ab1	hsp90aa1.2	hsp90aa1.1	hsp90aa1.1	hsp90aa1.1	hsp90ab1	hsp90b1
-PF08659	KR	
 PF15290	Syntaphilin	TEgg060i08.1-001	sybu	sybu
 PF09103	BRCA-2_OB1	brca2	brca2
 PF15471	TMEM171	tmem171
@@ -2158,8 +2044,6 @@ PF14565	IL22	IL22
 PF01965	DJ-1_PfpI	srp72	gatd3ala	park7
 PF03194	LUC7	luc7l	luc7l3	luc7l	luc7l3	luc7l3	luc7l2	luc7l2	luc7l3
 PF00727	IL4	il4
-PF01229	Glyco_hydro_39	
-PF14932	HAUS-augmin3	
 PF00930	DPPIV_N	dpp4	dpp9	dpp10	dpp6	dpp6	fap	XENTR_v900302193mg	dpp9	XENTR_v900302191mg	dpp10	LOC779598	dpp8	dpp4
 PF16193	AAA_assoc_2	wrnip1
 PF00027	cNMP_binding	cks2	hcn3	rapgef3	XENTR_v90026756mg	prkar2b	hcn1	prkar1b	t2r19	cnga4	pnpla6	cngb3	LOC100498055	XENTR_v90025929mg	wnt8b	epm2a	cnga4	kcnh5	XENTR_v90026619mg	cnga3	XENTR_v90029905mg	prkg2	prkar1a	XENTR_v90030974mg	rhbdf1
@@ -2171,7 +2055,6 @@ PF08983	DUF1856	avpr1a
 PF14698	ASL_C2	asl
 PF06482	Endostatin	col18a1	XENTR_v90028507mg	col18a1	col18a1
 PF08666	SAF	nans
-PF14631	FancD2	
 PF13378	MR_MLE_C	enosf1	enosf1
 PF12422	Condensin2nSMC	ncapg2
 PF04145	Ctr	slc31a1	slc31a2	slc31a2
@@ -2191,7 +2074,6 @@ PF00373	FERM_M	frmd7	plekhh2	frmd8	frmpd3	frmd4b	mylip	ezr	frmd3	LOC100036600	fe
 PF08164	TRAUB	aatf	aatf
 PF16199	Radical_SAM_C	XENTR_v900298348mg	elp3	elp3
 PF01505	Vault	mvp	mvp	XENTR_v900289461mg
-PF01168	Ala_racemase_N	
 PF15389	DUF4612	c1orf21
 PF16764	Sharpin_PH	XENTR_v90028606mg
 PF01464	SLT	lyg2
@@ -2204,14 +2086,11 @@ PF08766	DEK_C	ssh1	sh3glb2	ssh3	dek	dek	dek
 PF16198	TruB_C_2	LOC100145077	trub1
 PF05839	Apc13p	anapc13.1	anapc13
 PF00467	KOW	gpkow	rps4	rpl26	supt5h	rpl27	supt5h
-PF15115	HDNR	
 PF10373	EST1_DNA_bind	smg7	XENTR_v90029419mg	XENTR_v90030687mg	nudt21	smg5
 PF08562	Crisp	crispl	crisp1.7	crisp1.7	crisp1.7	LOC100127722	crispl	crisp1.3
 PF09596	MamL-1	rtn4	b3gnt3.1
 PF08424	NRDE-2	nrde2
 PF08524	rRNA_processing	ccdc59	ccdc59
-PF05046	Img2	
-PF15246	NCKAP5	
 PF13906	AA_permease_C	slc7a2.2	slc7a3	slc7a4	slc7a2.1
 PF07406	NICE-3	c1orf43	c1orf43
 PF02140	Gal_Lectin	rab15
@@ -2277,11 +2156,9 @@ PF10203	Pet191_N	coa5
 PF10397	ADSL_C	adsl
 PF02463	SMC_N	smc1b	cspg6	XENTR_v90028592mg	XENTR_v90028721mg	smc6	smc1b	smc4l1	ercc2	map6
 PF05770	Ins134_P3_kin	itpk1	XB5961849 [provisional:itpk1]	XB5961849	itpk1
-PF14473	RD3	
 PF02204	VPS9	nkap	als2	cox7b	gapvd1	rin2	ppm1a	gal.2	ppm1a	LOC100127878	gal.2
 PF12896	ANAPC4	anapc4	anapc4	XENTR_v90030045mg	actn1
 PF04568	IATP	atp5if1
-PF03972	MmgE_PrpD	
 PF09073	BUD22	srfbp1	srfbp1
 PF07540	NOC3p	noc3l
 PF06584	DIRP	lin9
@@ -2305,7 +2182,6 @@ PF03647	Tmemb_14	tmem14a	tmem14c
 PF02014	Reeler	aldoa	reln	reln	elapor1	spon1	spon1	ngrn
 PF00174	Oxidored_molyb	suox	suox
 PF11952	XTBD	nkrf	wdr6	cdkn2aipnl	cdkn2aipnl	nkrf
-PF01902	Diphthami_syn_2	
 PF00881	Nitroreductase	zfp91
 PF01279	Parathyroid	pthlh
 PF04053	Coatomer_WDAD	copb2	copb2	copa	copa
@@ -2313,7 +2189,6 @@ PF16172	DOCK_N	dock3	dock4	dock2
 PF11029	DAZAP2	dazap2
 PF09032	Siah-Interact_N	cacybp	cacybp
 PF10419	TFIIIC_sub6	XB5913757
-PF15321	ATAD4	
 PF08159	NUC153	nol10	nol10	esf1	esf1
 PF00675	Peptidase_M16	uqcrc2	nrdc	spire2	angptl2	uqcrc2	XENTR_v90028405mg	pitrm1	uqcrc1	pmpcb	LOC734137	uqcrc1	pmpca	pmpcb
 PF14702	hGDE_central	agl
@@ -2329,12 +2204,10 @@ PF13869	NUDIX_2	nudt21
 PF05454	DAG1	dag1	dag1
 PF01979	Amidohydro_1	crmp1	gda	XENTR_v90026808mg	dpysl2	dpysl3	cad	XENTR_v90030749mg	dpysl4	LOC100125119	marveld1	cad	dpysl4	amdhd1	dpysl5	XENTR_v90030749mg	crmp1	XB5950266 [provisional]	amdhd1	amdhd2	cep20	dpysl4	dpysl3
 PF01509	TruB_N	LOC100145077	trub1	Trub2
-PF07941	K_channel_TID	
 PF00999	Na_H_Exchanger	slc9a7	slc9a7	mia3	slc9b2	slc9a1	slc9a9	slc9a2l	slc9a6	slc9a7
 PF11608	Limkain-b1	marf1	TGas088l22.1-001
 PF05438	TRH	trh	XENTR_v90030078mg
 PF10487	Nup188	nup188
-PF10392	COG5	
 PF04777	Evr1_Alr	qsox2	LOC613045	foxo3	qsox2
 PF08961	NRBF2	serf2
 PF01929	Ribosomal_L14e	rpl14	rpl14
@@ -2362,9 +2235,7 @@ PF06842	DUF1242	tmem167b	tmem167a	tmem167b
 PF01073	3Beta_HSD	hsd3b7	XB986526 [provisional:hsd3b7]	nsdhl	LOC100145113	ppil3	adipoq	XENTR_v90026343mg
 PF01315	Ald_Xan_dh_C	aox1	xdh	aox1
 PF03694	Erg28	TTpA001n02.1-001	erg28
-PF08017	Fibrinogen_BP	
 PF01990	ATP-synt_F	atp6v1f
-PF15099	PIRT	
 PF07744	SPOC	rbm15b	ncoa4	dido1	XENTR_v900287881mg	cdk17	cdk17
 PF15226	HPIP	XENTR_v90028141mg
 PF09468	RNase_H2-Ydr279	rnaseh2b	rnaseh2b
@@ -2372,7 +2243,6 @@ PF00368	HMG-CoA_red	hmgcr
 PF01841	Transglut_core	tgm6	tgm5	tgm3l.4	b4galt7	tgm3l.4	tgm3l.2	LOC100486532	tgm3l.7	tgm2	LOC594880	tgm4	tgm2	tgm6	tgm3l.1	tgm1
 PF00692	dUTPase	XENTR_v900293061mg	XENTR_v900293061mg
 PF03909	BSD	gtf2h1	bsdc1	bsdc1	XENTR_v900284361mg	syap1	XENTR_v900284361mg
-PF17103	Stealth_CR4	
 PF16908	VPS13	vps13a	sema3e
 PF00207	A2M	a2ml1	XENTR_v90025855mg	XENTR_v90026159mg	ptcd2	LOC101734099	XENTR_v90027477mg	XENTR_v90025883mg	a2m	XENTR_v900261671mg	LOC100487578	XENTR_v900258462mg	XENTR_v90025857mg	pzp	c3	XENTR_v900261521mg	XENTR_v900258503mg	a2m	XENTR_v90025848mg	XENTR_v900275911mg	acap2	a2ml1	XENTR_v90026974mg	ovos2	XENTR_v90026147mg	pzp	XENTR_v90027475mg	XENTR_v900258521mg	XENTR_v90026151mg	XENTR_v90027473mg	XENTR_v90025854mg	XENTR_v900261682mg	LOC101734099	c3	LOC100170611	XENTR_v90026147mg	XENTR_v90026867mg	mug1	pzp	gpr37	c4a	XENTR_v90027474mg
 PF06624	RAMP4	serp1	serp2
@@ -2388,12 +2258,8 @@ PF01699	Na_Ca_ex	LOC100487899	cyp2a6.1	slc24a5	slc24a3	inhbc.1	slc8a2	SLC8A3	slc
 PF07923	N1221	strip1
 PF07994	NAD_binding_5	isyna1	isyna1
 PF07000	DUF1308	TGas015c11.1
-PF02347	GDC-P	
 PF10248	Mlf1IP	LOC100135130	mlf2
-PF13916	Phostensin_N	
-PF05327	RRN3	
 PF05028	PARG_cat	parg
-PF12932	Sec16	
 PF12769	PNTB_4TM	LOC100490887	nnt
 PF06468	Spond_N	spon2	spon1	spon1	spon2
 PF05761	5_nucleotid	nt5c2	nt5dc3	XENTR_v90030173mg	stab2	nt5dc2	LOC100135182
@@ -2405,7 +2271,6 @@ PF01693	Cauli_VI	rnaseh1	mgc146443	rnaseh1
 PF01244	Peptidase_M19	dpep1	dpep2
 PF07412	Geminin	gmnn	gmnn	mcidas
 PF14382	ECR1_N	exosc1	exosc2
-PF03832	WSK	
 PF07767	Nop53	nop53	gltscr2-prov
 PF16678	HOIP-UBA	rnf31	rnf31	rnf31	rnf31
 PF15964	CCCAP	LOC100145006	sdccag8
@@ -2425,7 +2290,6 @@ PF04084	ORC2	MGC69466	orc2
 PF09762	KOG2701	XENTR_v90026935mg	ccdc93	ccdc93
 PF08557	Lipid_DES	degs3	degs2	degs1	degs3
 PF12947	EGF_3	XENTR_v90027653mg	mgc89178	scube2	scube2	astn1	thbs1	fbn2	umod.1	rhobtb1	nid2	nid2	panx1	thbs2	nell1	XENTR_v90028825mg	mgc89178	XENTR_v90027910mg	stab2
-PF10382	DUF2439	
 PF01026	TatD_DNase	tatdn1	tatdn3
 PF02296	Alpha_adaptin_C	gtf2e2	ap2a2	ap2a2	ap2a1
 PF09380	FERM_C	frmd7	XENTR_v900273541mg	frmd4b	XENTR_v900287354mg	ezr	frmd3	LOC100036600	epb41l4a	nf2	RDX	ptpn13	epb4.1l3-prov	ptpn3	epb41l1	nploc4	epb4.1l3	epb41	star	epb41	ptpn14	RDX	pdha1	LOC100485014	sts	topbp1	epb41l3	nf2	ptpn21	mylip	epb41l5	ptpn13	XENTR_v900287353mg	frmd7	XENTR_v900279482mg	frmd4a	epb41l3	vil2	epb41l4a	epb41l5	vil2	epb41l2
@@ -2450,7 +2314,6 @@ PF02017	CIDE-N	dffa-prov	cideb	cidec	dffb	dffb	cidea
 PF00245	Alk_phosphatase	XENTR_v900259305mg	alpi.1	alpi.2	alpi.1	XENTR_v900259303mg	XENTR_v900259304mg	XENTR_v900259302mg	alpl
 PF15067	FAM124	fam124a	fam124b	fam124a
 PF10516	SHNi-TPR	nasp	nasp
-PF13251	DUF4042	
 PF01103	Bac_surface_Ag	samm50	XENTR_v90027253mg	samm50
 PF15904	LIP1	XENTR_v900276042mg	stk11ip	stk11ip
 PF00635	Motile_Sperm	mospd2	vapb	mospd2	vapa	XENTR_v90027520mg	mospd1	mospd3
@@ -2465,11 +2328,9 @@ PF06248	Zw10	zw10	zw10
 PF01992	vATP-synt_AC39	atp6v0d1	atp6v0d2
 PF15784	GPS2_interact	ncor2	ncor1	stard4	ncor1	ncor1
 PF04193	PQ-loop	slc66a2.1	gnai1	mpdu1	XB5903316	slc66a3	XENTR_v900272251mg	XENTR_v900272242mg	slc66a2.1	mgc69309	mgc69309	slc66a1l	slc66a2.2	slc66a3	XENTR_v900272252mg	XB5947741	ctns
-PF14858	DUF4486	
 PF00726	IL10	il10	il10
 PF12577	PPARgamma_N	PPARG
 PF07562	NCD3G	XENTR_v90028314mg	XENTR_v90030012mg	foxn3	XENTR_v900300071mg	XENTR_v900264852mg	XENTR_v900270301mg	XENTR_v90028320mg	XENTR_v90026514mg	XENTR_v90026481mg	XENTR_v90025773mg	XENTR_v90026472mg	XENTR_v900300052mg	XENTR_v90026692mg	XENTR_v90026638mg	XENTR_v90026477mg	XENTR_v90030595mg	XENTR_v900296391mg	XENTR_v90026460mg	XENTR_v90026999mg	XENTR_v90030591mg	XENTR_v900265341mg	XENTR_v90028308mg	XENTR_v90026483mg	XENTR_v90026503mg	XENTR_v90029999mg	XENTR_v90030609mg	XENTR_v90026507mg	XENTR_v90029640mg	XENTR_v90027006mg	XENTR_v900265802mg	XENTR_v90030601mg	XENTR_v90026502mg	XENTR_v90026551mg	LOC100492970	frs2	XENTR_v900259952mg	XENTR_v90026395mg	XENTR_v90028332mg	XENTR_v90030600mg	XENTR_v900265311mg	XENTR_v900283253mg	XENTR_v90026489mg	XENTR_v90029997mg	XENTR_v90030586mg	XENTR_v90029616mg	XENTR_v90030594mg	stam2	XENTR_v90026685mg	XENTR_v90026400mg	XENTR_v90026466mg	XENTR_v90030238mg	XENTR_v900265842mg	XENTR_v90029457mg	XENTR_v90030605mg	XENTR_v90025824mg	XENTR_v90029448mg	XENTR_v90029622mg	XENTR_v90026582mg	XENTR_v90028327mg	XENTR_v90025831mg	XENTR_v90028329mg	XENTR_v900302361mg	XENTR_v900294522mg	XENTR_v90030004mg	XENTR_v900309062mg	agl	XENTR_v90029618mg	wdr89	XENTR_v90026587mg	XENTR_v90029441mg	XENTR_v90026537mg	XENTR_v90026532mg	XENTR_v90027016mg	XENTR_v90025826mg	grm7	XENTR_v90030001mg	XENTR_v900264992mg	XENTR_v90026465mg	XENTR_v90026681mg	XENTR_v900257761mg	XENTR_v90026492mg	XENTR_v90029455mg	XENTR_v900270251mg	XENTR_v90030245mg	XENTR_v900264911mg	XENTR_v900265002mg	XENTR_v90030910mg	XENTR_v90026777mg	XENTR_v900264941mg	XENTR_v90026583mg	XENTR_v90028316mg	XENTR_v90026533mg	XENTR_v900294421mg	XENTR_v90029464mg	XENTR_v900265001mg	XENTR_v900266245mg	XENTR_v90026520mg	XENTR_v90030903mg	XENTR_v90029451mg	XENTR_v90030901mg	XENTR_v90030250mg	XENTR_v90026469mg	XENTR_v90026509mg	XENTR_v90026463mg	mob3b	XENTR_v90028333mg	XENTR_v90027930mg	XENTR_v90028322mg	XENTR_v900296431mg	XENTR_v90030603mg	XENTR_v90026488mg	XENTR_v90026513mg	XENTR_v90030247mg	XENTR_v90028305mg	XENTR_v90030589mg	XENTR_v90026538mg	XENTR_v90027001mg	XENTR_v90030246mg	XENTR_v90026019mg	XENTR_v90026480mg	XENTR_v90030615mg	XENTR_v900305921mg	XENTR_v90030613mg	XENTR_v90030606mg	XENTR_v900264951mg	XENTR_v900302441mg	XENTR_v90026539mg	XENTR_v900296242mg	XENTR_v90026535mg	XENTR_v90030003mg	XENTR_v900302512mg	XENTR_v900294372mg	nek2	XENTR_v90026397mg	XENTR_v90026683mg	ptpre	XENTR_v90028328mg	XENTR_v90030909mg	XENTR_v90029628mg	XENTR_v90029459mg	XENTR_v90026519mg	XENTR_v90027008mg	cdc27	XENTR_v90026490mg	XENTR_v90030587mg	XENTR_v90030598mg	XENTR_v90029615mg	XENTR_v90028331mg	XENTR_v90026998mg	XENTR_v900296192mg	XENTR_v90026497mg	XENTR_v90026456mg	XB5879808	XENTR_v900300102mg	XENTR_v900265792mg	XENTR_v90026541mg	grm6	XENTR_v90030905mg	XENTR_v900257762mg	XENTR_v90029450mg	XENTR_v90029460mg	XENTR_v90028318mg	XENTR_v90027029mg	XENTR_v90030255mg	XENTR_v900305971mg	XENTR_v90026464mg	XENTR_v900265461mg	XENTR_v90027274mg	XENTR_v90030602mg	XENTR_v90026680mg	XENTR_v90029462mg	XENTR_v900264751mg	XENTR_v90026453mg	XENTR_v90028317mg	XENTR_v900302331mg	atp5mk	XENTR_v90030254mg	gng2	XENTR_v90027765mg	XENTR_v90028319mg	XENTR_v90025827mg	ulk1	XENTR_v90028307mg	XENTR_v90026512mg	XENTR_v90027010mg	XENTR_v900265301mg	mtch2	XENTR_v90029621mg	XENTR_v90026547mg	XENTR_v90028309mg	XENTR_v900296412mg	XENTR_v90026454mg	XENTR_v900272761mg	XENTR_v90029631mg	XENTR_v90026496mg	XENTR_v90025775mg	XENTR_v90030006mg	XENTR_v90026589mg	XENTR_v90030902mg	XENTR_v90026687mg	XENTR_v900270171mg	XENTR_v900283342mg	XENTR_v900294674mg	XENTR_v900264931mg	XENTR_v90029995mg	XENTR_v900296292mg	XENTR_v90028335mg	trappc8	XENTR_v90025829mg	sesn1	LOC100492970	XENTR_v90026478mg	XENTR_v900265241mg	XENTR_v900265481mg	XENTR_v90026527mg	XENTR_v90029635mg	XENTR_v900296362mg	XENTR_v90028904mg	XENTR_v900302481mg	ccpg1	XENTR_v90029466mg	XENTR_v90030604mg	XENTR_v90029449mg	XENTR_v90028312mg	grm3	XENTR_v90030237mg	XENTR_v90030240mg	XENTR_v90026693mg	XENTR_v90026529mg	XENTR_v90025830mg	XENTR_v90026996mg	grm4	XENTR_v90026511mg	XENTR_v900309111mg	XENTR_v90030614mg	fbxl8	XENTR_v90030607mg	XENTR_v90030590mg	XENTR_v90030596mg	XENTR_v90027000mg	XENTR_v90026461mg	XENTR_v900285971mg	XENTR_v90026528mg	XENTR_v90029630mg	rhoa.2	XENTR_v90028338mg	XENTR_v90029620mg	XENTR_v90030002mg	XENTR_v90026997mg	XENTR_v900302431mg	XENTR_v900258343mg	XENTR_v900265182mg	XENTR_v900258111mg	XENTR_v90026682mg	XENTR_v90026501mg	XENTR_v90029463mg	XENTR_v900266862mg	XENTR_v900265061mg	XENTR_v900303392mg	XENTR_v900296341mg	cox7a1	XENTR_v900258321mg	XENTR_v90025779mg	XENTR_v90026588mg	XENTR_v90029469mg	LOC100491800	XENTR_v90026526mg	XENTR_v900265053mg	XENTR_v900283061mg	grm1	XENTR_v90029444mg	XENTR_v900309221mg	XENTR_v90029447mg	XENTR_v90029445mg	XENTR_v90026473mg	XENTR_v90029638mg	XENTR_v90026522mg	XENTR_v900266891mg	XENTR_v900309154mg	XENTR_v90030593mg	XENTR_v900264701mg	XENTR_v900285982mg	LOC100496766	XENTR_v900264573mg	cstpp1	XENTR_v90025778mg	XENTR_v90026508mg	XENTR_v90029453mg	XENTR_v90030610mg	XENTR_v900272751mg	XENTR_v90030904mg	LOC100497076	XENTR_v90026517mg	XENTR_v900265441mg	XENTR_v900309192mg	XENTR_v90028029mg	XENTR_v90029998mg	XENTR_v90028336mg	XENTR_v90028936mg	XENTR_v90026474mg	XENTR_v90030918mg	XENTR_v90028330mg	XENTR_v90026545mg	XENTR_v90029632mg	XENTR_v900270222mg	XENTR_v900294561mg	XENTR_v900294672mg	XENTR_v90026578mg	XENTR_v90029625mg	XENTR_v90030235mg	XENTR_v900264622mg	XENTR_v90030011mg	XENTR_v90026479mg	XENTR_v900265151mg	XENTR_v90026521mg	XENTR_v900264763mg	XENTR_v90025774mg	XENTR_v90027032mg	XENTR_v90030242mg
-PF03511	Fanconi_A	
 PF09320	DUF1977	dnajc18	dnajb12	dnajb12	dnajb14
 PF04106	APG5	atg5
 PF01641	SelR	msrb2	msrb1	msrb2
@@ -2477,11 +2338,9 @@ PF06047	SynMuv_product	nkap
 PF03345	DDOST_48kD	ddost	XENTR_v90027754mg	ddost
 PF14641	HTH_44	proc
 PF05735	TSP_C	thbs1	thbs4	thbs3	thbs2	XENTR_v900269561mg	thbs4	gpd1l
-PF08561	Ribosomal_L37	
 PF06966	DUF1295	XB5780651
 PF14694	LINES_N	lins1
 PF16533	SOAR	XENTR_v900300383mg	XENTR_v900279842mg	XENTR_v900300382mg	stim1	XENTR_v90026431mg	stim2	XENTR_v90027314mg	stim1
-PF15669	CCDC24	
 PF09496	CENP-O	XENTR_v90025712mg	cenpo	cenpo
 PF15678	SPICE	spice1
 PF03034	PSS	ptdss2	ptdss1
@@ -2502,7 +2361,6 @@ PF04774	HABP4_PAI-RBP1	serbp1	serbp1	habp4	serbp1
 PF06090	Ins_P5_2-kin	ippk
 PF00051	Kringle	pex5	musk	kremen2	mst1	kremen1	plat	ror2	f2	f2	kremen2	prss12	plat	habp2-prov	hgf
 PF06951	PLA2G12	nodal3.1	pla2g12a	pla2g12b	pla2g12a
-PF08631	SPO22	
 PF02881	SRP54_N	srp54
 PF14976	FAM72	LOC549108	fam72a	fam72a
 PF00473	CRF	cdyl2
@@ -2517,11 +2375,9 @@ PF15136	UPF0449	TEgg108c21.1
 PF02170	PAZ	ago4	piwil4	dicer1	blvrb	ago4	piwil3	ago2	piwil3	piwil2	ago2	piwil2
 PF06617	M-inducer_phosp	cdc25c	cdc25a	cdc25b	cdc25b	cdc25a	cdc25c
 PF05091	eIF-3_zeta	eif3d
-PF15129	FAM150	
 PF10856	DUF2678	tmem243
 PF14517	Tachylectin	XENTR_v90029780mg	LOC100145764	XB5962542 [provisional]	mgc108497	XENTR_v90026215mg
 PF11527	ARL2_Bind_BART	arl2bp	cfap36	cfap36
-PF01291	LIF_OSM	
 PF01743	PolyA_pol	trnt1
 PF08646	Rep_fac-A_C	rpa1	rpa1
 PF15069	FAM163	fam163b	fam163b
@@ -2536,7 +2392,6 @@ PF02493	MORN	morn5	jph1	jph3	XENTR_v90026759mg	setd7	ankmy1	jph1	LOC779504	als2	
 PF10507	TMEM65	tmem65
 PF02301	HORMA	mad2l1	hormad1	mad2l2	mad2l2
 PF12548	DUF3740	smad6	sulf2	sulf1	sulf1	sulf1
-PF02582	DUF155	
 PF00916	Sulfate_transp	LOC101732374	slc26a6	slc26a6	slc26a4.3	slc26a4	slc26a7	slc26a3.1	slc26a3.2	slc26a4l	slc26a9	slc26a2.2	slc26a4l	slc26a9	slc26a6	slc26a10	slc26a6	slc26a4.3
 PF13088	BNR_2	neu3.1	neu3.3	neu4	neu1	neu3.3	neu3.1	neu3.1	ulk3	neu3.2
 PF00231	ATP-synt	atp5f1c
@@ -2553,15 +2408,12 @@ PF00135	COesterase	ache	ces3.4	bche	nlgn1	nlgn3	nlgn4x	LOC394897	nlgn1	XENTR_v90
 PF07684	NODP	tdrd7	notch1
 PF11788	MRP-L46	mrpl46
 PF01062	Bestrophin	best2	XENTR_v900268281mg	best2	best3	sp7	best1	best4
-PF15772	UPF0688	
 PF16508	NIBRIN_BRCT_II	LOC733826	nbn	nbn
 PF09738	LRRFIP	lrrfip2
-PF11597	Med13_N	
 PF02171	Piwi	ago4	piwil4	blvrb	ago4	piwil3	ago2	piwil3	piwil2	ago2	piwil2
 PF00918	Gastrin	xt6l	gast
 PF04841	Vps16_N	caprin2
 PF15187	Augurin	ecrg4	lmcd1
-PF06789	UPF0258	
 PF07001	BAT2_N	prrc2a	ankrd2	bat2d	prrc2c	prrc2c
 PF05978	UNC-93	unc93b1	mfsd11	tspan12
 PF00806	PUF	reep1
@@ -2583,12 +2435,9 @@ PF02544	Steroid_dh	mgc146850	srd5a1	tecr	srd5a1	srd5a3	srd5a3	tecr	tecr
 PF08518	GIT_SHD	git1	git2	git2	git2
 PF15503	PPP1R35_C	XENTR_v90030064mg	LOC100145073
 PF16121	40S_S4_C	rps4
-PF07326	DUF1466	
 PF00659	POLO_box	rab11fip4l	plk4	plk5	plk1	rab11fip4l	plk2	plk1
 PF08683	CAMSAP_CKK	XENTR_v90028934mg	camsap1	camsap3	XENTR_v90028934mg	XENTR_v90028934mg
 PF07534	TLD	oxr1	tbc1d24.1	tbc1d24	tldc2	ndufaf4	tbc1d24.2
-PF04916	Phospholip_B	
-PF16667	MPDZ_u10	
 PF03105	SPX	xpr1	xpr1
 PF01422	zf-NF-X1	mras	nfx1	nfxl1
 PF16835	SF3A2	sf3a2	sf3a2
@@ -2603,7 +2452,6 @@ PF01496	V_ATPase_I	atp6v0a2	atp6v0a1	atp6v0a1	tcirg1	tcirg1	atp6v0a2	atp6v0a2	at
 PF15152	Kisspeptin	kiss1	KiSS1
 PF16540	MKLP1_Arf_bdg	kif23	kif23	kif23
 PF03815	LCCL	coch	slc2a7	crispld2	dcbld1
-PF07819	PGAP1	
 PF01268	FTHFS	mthfd1	mthfd1	nefl	mthfd1l
 PF15061	DUF4538	XENTR_v90030042mg
 PF00080	Sod_Cu	sod3	abcb6	ccs	sod1	tnip2	LOC100170435
@@ -2623,7 +2471,6 @@ PF14744	WASH-7_mid	washc4
 PF10265	Miga	XENTR_v900273731mg	miga1	miga1	XENTR_v90027383mg	miga1	XENTR_v90027462mg	LOC100125001	XENTR_v90025951mg	miga2
 PF00764	Arginosuc_synth	ass1	ass1
 PF05404	TRAP-delta	LOC100170417	ssr4
-PF15982	TMEM135_C_rich	
 PF13833	EF-hand_8	capns2	LOC100144965	capn11	gca	capn1	LOC100125139	tnnc1	XENTR_v90029956mg	hpcal1	slc25a24	pef1	capn2	LOC100135241	micu3	clxn	capn1	micu1	guca1al	hpcal1	myl9	guca1bl	clxn	duox2	capn3	XENTR_v90026250mg	ryr1	actn1	kcnip4	efcab11	XENTR_v90026443mg	LOC100145791	lpcat2	rcvrn.2	tnfsf10l	lpcat2	ocm3	snx2	kcnip3	kcnip1	myl12b	capsl	pdcd6	guca1a	pdcd6	ppp1r3b	LOC100158626	myl12b	sri	capn2	capsl	lpcat1	tnnc2	ncald	zdhhc20
 PF16212	PhoLip_ATPase_C	atp11a	atp8b1	atp9a	atp8b3	rps7	atp10b	XENTR_v90029900mg	atp8a1	atp8b4	LOC100145017	atp11b	atp9a
 PF10245	MRP-S22	mrps22
@@ -2637,13 +2484,10 @@ PF15907	Itfg2	h2ac14	itfg2
 PF16741	mRNA_decap_C	dcp1a	XENTR_v900286641mg	dcp1b
 PF04068	RLI	LOC549889	tsr3	abce1	abce1
 PF08217	DUF1712	ccz1b	ccz1b	ccz1
-PF14759	Reductase_C	
 PF16019	CSRNP_N	csrnp1	tmem91	csrnp1	tmem91
 PF07700	HNOB	gucy1a2	gucy1a2
-PF15509	DUF4650	
 PF10205	KLRAQ	ppp1r21
 PF04137	ERO1	ero1a	znf403	ero1b	ero1b
-PF07670	Gate	
 PF11543	UN_NPL4	nploc4
 PF01419	Jacalin	zg16	LOC100170438	XENTR_v90026809mg
 PF13966	zf-RVT	XENTR_v90028407mg	XENTR_v90030072mg	XENTR_v90028671mg
@@ -2659,7 +2503,6 @@ PF10158	LOH1CR12	borcs5	borcs5
 PF03813	Nrap	inhba	nol6
 PF10277	Frag1	LOC116411111	tmem150b	XENTR_v90029835mg	acta1	tmem150b	pgap2	XENTR_v90028553mg	XENTR_v900270872mg	XENTR_v90029829mg	bc014685	dram1	tmem150a	tmem150b
 PF00561	Abhydrolase_1	abhd6	serhl	ephx2	abhd8	abhd2	bat5	abhd5	ephx4	abhd4	abhd11	abhd14b	abhd16a	mest	abhd5	abhd14a	serhl	abhd6	ephx2	lipa	bphl	abhd11	abhd11	spg21	abhd3	abhd4
-PF13361	UvrD_C	
 PF04147	Nop14	nop14	LOC394902	dgkz
 PF03031	NIF	ctdsp2	ctdnep1	timm50	ctdp1	XENTR_v90029925mg	ctdp1	ctdspl2	ublcp1	timm50	ctdspl	ctdsp1	ctdspl	ublcp1
 PF09111	SLIDE	smarca1	smarca5
@@ -2703,7 +2546,6 @@ PF16026	MIEAP	nudt12	spata18b
 PF00831	Ribosomal_L29	rpl35	rpl35	rpl35
 PF09736	Bud13	LOC100145651
 PF08569	Mo25	cab39l	cab39
-PF10514	Bcl-2_BAD	
 PF03810	IBN_N	pgap4	tnpo1	ipo4	ipo11	slc38a7	xpo5	ipo5	ipo4	xpo1	ipo7	ipo13	xpo6	ipo8	cse1l	ipo5	ipo9	xpo5	tnpo2	ipo11	ipo11	tnpo2	ipo9
 PF01249	Ribosomal_S21e	rps21
 PF04617	Hox9_act	hoxa9	gfod2	hoxb9
@@ -2732,7 +2574,6 @@ PF04133	Vps55	leprot
 PF05001	RNA_pol_Rpb1_R	XENTR_v900284101mg	polr2a
 PF15494	SRCR_2	tmprss5	tmprss4	tmprss13	tmprss4	tmprss2.12	tmprss2.15	tmprss15
 PF10280	Med11	med11
-PF04871	Uso1_p115_C	
 PF06814	Lung_7-TM_R	tmem87b	gpr107	gpr107	tmem87b	tmem87a	LOC100158639	tmem87a
 PF04140	ICMT	icmt	LOC100127802
 PF00254	FKBP_C	XENTR_v900276581mg	fkbp4	fkbp9	fkbp15	fkbp10	fkbp7-prov	fkbp14	fkbp7	fkbp6	fkbp14	fkbp14	fkbp1b	LOC496501	aipl1	fkbp10	fkbp2	aip	fkbp8	fkbp11	fkbp6	fkbp7	XENTR_v90028486mg	fkbp3
@@ -2775,9 +2616,7 @@ PF04961	FTCD_C	ftcd	ftcd	TGas028n11.1-001
 PF03942	DTW	dtwd1	dtwd2
 PF08442	ATP-grasp_2	sucla2	sucla2	LOC496495	suclg2	suclg2
 PF00206	Lyase_1	adsl	asl
-PF03328	HpcH_HpaI	
 PF00386	C1q	caprin2	LOC100124953	cbln4	XENTR_v90030762mg	otol1	cc2d2a	adipoq	c1qtnf4	emilin2	st6galnac4	emilin1	LOC100145510	cbln1	col8a1	c1ql1-prov	col10a1	c1qtnf12	emilin1	c1qtnf1	col8a2	adipoq	c1qtnf3	gabbr1	c1qtnf9b	cbln2	c1qtnf12	c1ql1
-PF15925	SOSSC	
 PF06831	H2TH	neil1	neil3	LOC100127771	neil2	tff3.8	LOC100124806
 PF04922	DIE2_ALG10	alg10
 PF13023	HD_3	hddc2
@@ -2794,7 +2633,6 @@ PF00077	RVP	mxd4	XENTR_v90026421mg
 PF02146	SIR2	sirt7	sirt3.2	sirt5	sirt4	sirt6	sirt1	sirt1	sirt2	sirt7	sirt1
 PF05349	GATA-N	gata4	gata4	XENTR_v90028957mg	XENTR_v900261212mg	gata4	gata6	gata5
 PF08626	TRAPPC9-Trs120	trappc9	trappc9
-PF14377	DUF4414	
 PF01161	PBP	pebp4	mrpl38	mrpl38	mrpl38	pebp1.2	pebp1.2
 PF14875	PIP49_N	XENTR_v900271372mg	dipk1a	dipk1b	XENTR_v900297472mg	dipk1c	XENTR_v900297473mg	dipk1a
 PF11577	NEMO	ikbkg	optn	optn
@@ -2802,7 +2640,6 @@ PF09346	SMI1_KNR4	gnpat	LOC100158620
 PF06730	FAM92	cibar1	cibar1	cibar2
 PF09757	Arb2	fam172a
 PF02078	Synapsin	syn1	syn3	XENTR_v90030084mg
-PF07093	SGT1	
 PF00459	Inositol_P	impa2	inpp1	inpp1	bpnt1	bpnt2	impa1	impad1
 PF15275	PEHE	kansl1	msl1	LOC100491917	kansl1l
 PF08073	CHDNT	chd3	chd4	chd5
@@ -2866,7 +2703,6 @@ PF01826	TIL	muc2	XENTR_v900283714mg	XENTR_v900283715mg	bmper	spata18a	bmper	itm2
 PF05216	UNC-50	unc50
 PF10213	MRP-S28	LOC548768
 PF12215	Glyco_hydr_116N	XENTR_v900280371mg	LOC100145361	XENTR_v900280372mg
-PF04987	PigN	
 PF11914	DUF3432	egr1
 PF00970	FAD_binding_6	cyb5r2	XENTR_v90030278mg	cyb5r4	cyb5r3	cyb5r1	cyb5r4
 PF13934	ELYS	ahctf1	ddx10
@@ -2886,8 +2722,6 @@ PF11465	Receptor_2B4	ndufa11
 PF11547	E3_UbLigase_EDD	ubr5
 PF00107	ADH_zinc_N	adh1	adh1	arhgdig	ADH1C	ptgr2	ptgr1.2	ltb4dh	cryz	LOC100135160	ptgr2	mecr	adh5	XB5816429 [provisional:mecr]	ptgr1.3	sord	adh6	adh4	adh1	cryz	ptgr1.3	ptgr3	ADH10B	tp53i3	adh1b	adh5	adh1a	LOC100170432	ADH8B	adh1c	adh1
 PF15044	CLU_N	cluh
-PF14529	Exo_endo_phos_2	
-PF16766	CID_GANP	
 PF13599	Pentapeptide_4	sv2a
 PF04734	Ceramidase_alk	asah2	asah2
 PF13392	HNH_3	zmynd19
@@ -2897,7 +2731,6 @@ PF14739	DUF4472	ccdc78	XENTR_v900288991mg
 PF08080	zf-RNPHF	mrpl18	hnrnph1
 PF00017	SH2	tns1	shb	ptpn6	t2r15	frk	vav1	grb2	src	stat4	tob1	chn2	rasa1	vav2	XENTR_v90025921mg	shf	she	syk	stat3.1	zap70	nck2	grb7	XENTR_v900305024mg	stat1	socs7	bcar3	XENTR_v900261202mg	socs4	tns1	ptpn11	csk	tepsin	tas2r39	zap70	XENTR_v900276721mg	stap1	she	fes	grb10	shc1	dapp1	yes1	yes1	uqcrfs1	src	faxdc2	grap	sla2	vav2	hck	stat2	plcg1	lcp2	plcg2	bglap	socs3l	nck1	crk	XENTR_v90026181mg	shf	crkl	sh2d4a	stat1	rasa1	bcar3	blnk	pik3r1	nck2	XENTR_v90025922mg	shd	XENTR_v900285111mg	ptpn11b	gm2a	socs3	socs5	lyn	SOCS2	chn1	stat1	btk	blnk	nkap	stap2	stat2	sh2b2	socs4	tas2r39	jak2	XENTR_v90029430mg	socs1	ptpn11b	socs6	vav3	socs2	fyn	sh2b3	shd	abl1	cish	blnk	grap2	fer	btk	tns2	cish	XENTR_v90026874mg	klhl21	LOC100496658	MGC75999	fer	csk	abl2	katnbl1	mprip
 PF03827	Orexin_rec2	hcrtr2
-PF15386	Tantalus	
 PF06027	SLC35F	slc35f2	slc35f6	slc35f1	slc35f2	slc35f4
 PF16422	COE1_DBD	ebf3	LOC100135240	coe3l	ebf2	ebf2	ebf3
 PF02886	LBP_BPI_CETP_C	MGC108117	XENTR_v90030551mg	MGC108117	bpi4	bpi4	LOC100145779	pltp
@@ -2907,19 +2740,16 @@ PF10154	DUF2362	c12orf4	c12orf4
 PF12931	Sec16_C	sec31a	sec31a
 PF05021	NPL4	nploc4
 PF06155	DUF971	tmlhe	tmlhe	bbox1	bbox1
-PF09607	BrkDBD	
 PF12416	DUF3668	abca1	cep120
 PF02229	PC4	sub1
 PF02209	VHP	rdh5	ablim2	dmtn	XENTR_v90026186mg	XENTR_v900274461mg	vil1	dmtn	svil	LOC100136947	vill	vil1	svil	svil	LOC100170541
 PF07989	Cnn_1N	cdk5rap2
 PF02377	Dishevelled	dvl3	dvl1	dvl2	dvl3	dvl1
 PF11851	DUF3371	tfec	tfeb	tfeb	mitf	syt4
-PF13543	KSR1-SAM	
 PF13506	Glyco_transf_21	ugcg
 PF16177	ACAS_N	arl9	tmem101	aacs
 PF08527	PAD_M	creb1	padi2	XENTR_v90026816mg	padi2
 PF02911	Formyl_trans_C	LOC100127737	mtfmt	aldh1l2	aldh1l1
-PF16783	FANCM-MHF_bd	
 PF05405	Mt_ATP-synt_B	atp5pb
 PF16183	Kinesin_assoc	XENTR_v900280041mg	ventx3.1	kif1b	kif1a	XENTR_v900298222mg	kif14l	dync1i2	kif1c
 PF07571	TAF6_C	srsf2	XENTR_v90029007mg	uba52
@@ -2946,7 +2776,6 @@ PF00383	dCMP_cyt_deam_1	dctd	LOC100127602	cda	cda	adat2	cdadc1	dctd
 PF08477	Roc	lrrk1	lrrk2	mfhas1	rabl3	ift22	XENTR_v90029314mg	XENTR_v900299901mg	rabl6	mfhas1	XENTR_v90030087mg
 PF07743	HSCB_C	hscb
 PF04004	Leo1	leo1
-PF15392	Joubert	
 PF07850	Renin_r	atp6ap2	atp6ap2
 PF11718	CPSF73-100_C	cpsf3	cpsf3	cpsf3
 PF14762	HPS3_Mid	hps3
@@ -2961,7 +2790,6 @@ PF15802	DCAF17	dcaf17
 PF02969	TAF	srsf2	XENTR_v90029007mg	uba52
 PF11262	Tho2	LOC100145575	thoc2
 PF04750	Far-17a_AIG1	XENTR_v90028473mg	XENTR_v90028473mg	aig1
-PF15807	MAP17	
 PF08718	GLTP	cptp	gltp	plekha8	gltp	gltpd2
 PF04050	Upf2	upf2	LOC100158573
 PF02778	tRNA_int_endo_N	tsen2
@@ -3017,7 +2845,6 @@ PF16545	CCM2_C	XENTR_v90026611mg
 PF09749	HVSL	usb1
 PF07111	HCR	nop58	cchcr1
 PF13344	Hydrolase_6	pgp	cecr5	hdhd5	hdhd2
-PF07985	SRR1	
 PF16863	NtCtMGAM_N	gaa	adamts4
 PF01595	DUF21	cnnm2	cnnm2	osbpl8	cnnm4
 PF13041	PPR_2	ptcd1
@@ -3054,7 +2881,6 @@ PF10256	Erf4	chic2	golga7
 PF04181	RPAP2_Rtr1	pabir3
 PF08150	FerB	LOC100125064	myof	klhl42	otof	XENTR_v900290371mg	map2k5	myof.1	fer1l6	myof.1	mgc107884
 PF16218	Peptidase_C101	otulin
-PF15313	HEXIM	
 PF08726	EFhand_Ca_insen	myoz1	sptan1	actn3	actn1	sptan1	actn3	actn1	actn2	actn4
 PF05997	Nop52	rrp1b	rrp1b	rrp1b	XENTR_v90029911mg
 PF13402	Peptidase_M60	LOC100145172	XENTR_v900262191mg	XENTR_v90027083mg	XENTR_v90027083mg
@@ -3091,13 +2917,11 @@ PF01146	Caveolin	cav3.2	XB5922676	CAV1	cav3.2	cav3.1	cav2	cav1
 PF17035	BET	brd4	kri1	brd2	brd4	brd3	brd2	brd2	brd3	brd3	brdt
 PF07888	CALCOCO1	sipa1l3	tax1bp1	tax1bp1	calcoco2	LOC779554
 PF13892	DBINO	ino80	smarca1	smarca5
-PF15296	Codanin-1_C	
 PF02784	Orn_Arg_deC_N	odc1	odc1	azin1	azin2	azin2
 PF05859	Mis12	LOC549562	mis12
 PF06487	SAP18	sap18
 PF02005	TRM	LOC779562
 PF05529	Bap31	bcap29	bcap31
-PF12513	SUV3_C	
 PF04934	Med6	med6
 PF00293	NUDIX	nudt13	mpp2	nudt5	srsf5	nudt2	cuta	dcp2	pfkfb4	LOC594920	nudt6	dcp2	nudt4	nudt2	nudt17	nudt12	nudt5	LOC594920	nudt1	XENTR_v900257342mg	idi1
 PF16046	FAM76	fam76b
@@ -3106,7 +2930,6 @@ PF12478	DUF3697	XENTR_v900282391mg	ubap2
 PF07803	GSG-1	gsg1l	XENTR_v90027151mg	gsg1l
 PF12480	DUF3699	LOC100158565
 PF02138	Beach	lrba	nbeal2	wdfy3	nsmaf	nbeal3	trpv3	lyst
-PF06448	DUF1081	
 PF08831	MHCassoc_trimer	cd74
 PF09067	EpoR_lig-bind	epor	prlr	il6st
 PF05090	VKG_Carbox	ggcx
@@ -3114,7 +2937,6 @@ PF10477	EIF4E-T	eif4enif1	eif4enif1	eif4enif1
 PF02192	PI3K_p85B	pik3cb	pik3ca	pik3ca
 PF02475	Met_10	trmt12	trmt5
 PF01431	Peptidase_M13	mmel1	mmel1	ece2	ece1
-PF01813	ATP-synt_D	
 PF03155	Alg6_Alg8	alg6	alg6	alg8	alg8-prov
 PF08209	Sgf11	atxn7l3
 PF01663	Phosphodiest	enpp4	enpp1	enpp6	pigo	ciao2a	XENTR_v90029493mg	enpp7-l	enpp2	enpp3	enpp2	enpp3	pigo	pigg	enpp7
@@ -3145,7 +2967,6 @@ PF06220	zf-U1	wbp4	LOC734007	snrpc	zmat5-prov	zmat5	wbp4
 PF00690	Cation_ATPase_N	atp2a3	atp2b3	atp1a1	atp13a5l.2	atp2c1	ift88	LOC100494846	atp1a3	LOC100125191	atp1a2	atp12a	XENTR_v90030516mg	nt5dc2	atp13a-like	atp1a3	XENTR_v90029850mg	XENTR_v90030516mg	atp13a5	atp12a-like	atp2a3	atp12a-like	atp13a5l.2	atp1a1	atp2c2	atp12a	atp2a1	atp1a2
 PF04434	SWIM	map3k1	zswim1
 PF11357	Spy1	spdya	spdyc
-PF16413	Mlh1_C	
 PF01265	Cyto_heme_lyase	hccs	hccs
 PF00246	Peptidase_M14	cpo.1	prph2l	cpb1	aebp1	agtpbp1	agbl3	cpa1	agbl5	agtpbp1	cpb2	XENTR_v90026554mg	cpz	cpn1	cpm	cpe	agbl2	LOC100490370	IL-9	mfn1	cpz	LOC100135269	LOC549720	XENTR_v90026008mg	LOC100127849	LOC100489361	agbl2	cpa6	cpz	cpe	cpa1-prov	cpa1
 PF01212	Beta_elim_lyase	tha1
@@ -3155,14 +2976,12 @@ PF08147	DBP10CT	ddx54
 PF03792	PBC	pbx1	colec11	pbx1	pbx2
 PF13778	DUF4174	ssg1	ssg1	ccdc80	srpx2	srpx
 PF03137	OATP	slco1a2	slco1b3	slco2a1	slco4a1	slco5a1	slco1b3	XENTR_v90025754mg	slco2b1	XENTR_v900291811mg	slco4a1	XENTR_v900291813mg	XENTR_v90025757mg	XENTR_v90025755mg
-PF16090	DUF4819	
 PF12820	BRCT_assoc	TEgg011f05.1-001	brca1	brca1
 PF01937	DUF89	pank4	armt1	pank4
 PF15280	BORA_N	bora
 PF00857	Isochorismatase	isoc1	isoc2
 PF03368	Dicer_dimer	dicer1
 PF12455	Dynactin	dctn1	dctn1	dctn1
-PF00497	SBP_bac_3	
 PF17205	PSI_integrin	mmd	itgb5	itgb6	cyth2	itgb1
 PF00270	DEAD	recql5	dus2	ddx27	dhx38	ddx41	DHX33	ddx18	ddx43	ddx1	ddx49	skiv2	ddx25	ddx39b	sec24a	LOC549535	gnl3l	hfm1	rbm18	recql4	ddx6	eif4a2	ddx52	eif4a3	eif4a2	ddx5	ddx25	recql4	polq	ddx58	XB5817455	XENTR_v90030711mg	ddx54	ddx49	dhx33	ddx10	XENTR_v90030466mg	ddx25	ddx3x	ddx55	ddx4	dhx15	XENTR_v90029899mg	zbtb1	ddx56	blm	ddx47-prov	ddx19b	ddx23	ddx52	alb	dicer1	ascc3	dhx16	dhx15	cacna2d1	wrn	LOC100135374	ddx4	LOC779469	XENTR_v90027641mg	ddx47	ddx39a	ddx54	sec24a	recql	XENTR_v90030888mg	ddx31	cip2a	st3gal3	ddx59	DHX33	dhx30	XENTR_v90027641mg	polq	LOC549967	XENTR_v900307452mg	ddx39a	dhx57	ddx46	dhx36	ddx56	LOC100135117	ddx52	ddx18	ddx21	XENTR_v90029710mg	eif4a1	ddx10	XENTR_v900263352mg	ythdc2	ddx42	ddx52-prov
 PF14939	DCAF15_WD40	dcaf15	TNeu068p16.1-001
@@ -3180,7 +2999,6 @@ PF14643	DUF4455	XENTR_v90029876mg	XENTR_v90029876mg
 PF15045	Clathrin_bdg	clba1	aftph
 PF12799	LRR_4	ppp1r7	XENTR_v900270351mg	ppp1r42	XB964897	XENTR_v90029994mg
 PF04153	NOT2_3_5	cnot2	cnot2	cnot3
-PF03253	UT	
 PF17217	UPA	unc5b	unc5a
 PF08227	DASH_Hsk3	blzf1	blzf1
 PF06373	CART	LOC100170597	mgc145330
@@ -3193,7 +3011,6 @@ PF04495	GRASP55_65	gorasp2	gorasp2	gorasp2	slitrk5	slitrk5	gorasp1
 PF01833	TIG	plxna1	znf519	LOC100135240	XENTR_v90028002mg	plxna2	ebf2	mst1r	hip1r	XENTR_v900275121mg	aatf	XENTR_v90030041mg	XENTR_v90026135mg	ebf2	plxnb3	plxna4	camta2	exoc2	camta1	ebf3	plxnd1	plxnd1	ebf3	pkhd1l1.1	mau2
 PF00186	DHFR_1	dhfr	dhfr
 PF11817	Foie-gras_1	trappc11	trappc11
-PF15281	Consortin_C	
 PF17048	Ceramidse_alk_C	asah2	asah2
 PF01031	Dynamin_M	dnm1	rnf8	XENTR_v90027194mg	XENTR_v90027194mg	dnm3	dnm2	mx1	dnm2	dnm2	XENTR_v90027194mg	XENTR_v90027194mg	dnm1
 PF16045	LisH_2	ofd1	LOC733523	slc2a11.3
@@ -3228,7 +3045,6 @@ PF10447	EXOSC1	exosc1
 PF00012	HSP70	hspa13	hyou1	hspa5	tut7	hspa1l	hspa14	hsp105	hspa8	hyou1	hspa4	hsp70	hspa9	hspa13	hsp70	hspa1a
 PF14967	FAM70	tmem255a	tmem255b	tmem255a
 PF10263	SprT-like	sprtn	sprtn	XENTR_v900295962mg
-PF10354	DUF2431	
 PF16205	Ribosomal_S17_N	XENTR_v90030821mg	rps11
 PF10251	PEN-2	diras2
 PF03868	Ribosomal_L6e_N	rpl6	rpl6
@@ -3307,7 +3123,6 @@ PF09329	zf-primase	mcm10
 PF00204	DNA_gyraseB	top2a	XENTR_v90028506mg	LOC779457	top2a	LOC100038293	top2a	top2b
 PF06080	DUF938	mettl26	mettl26	LOC496705
 PF07774	DUF1620	emc1	XENTR_v90028426mg
-PF15453	Pilt	
 PF05625	PAXNEB	elp4
 PF02173	pKID	creb1	creb1	atf1
 PF00688	TGFb_propeptide	nodal	kcng2	gdf1	nodal1	tgfb1	nodal3-A	inhbc.1	tgfb2	bmp4	poldip2	nodal3-B	bmp5	nodal	bmp7.1	nodal3.1	nodal3-C	gdf3	bmp6	gdf7	bmp7.1	nodal5.2	gdf5	gdf1	bmp7.2	nodal1	gdf1	bmp2	bmp8	bmp7.2	nodal5	admp	derriere	inhba	lefty	bmp4	inhbb
@@ -3318,11 +3133,9 @@ PF11799	IMS_C	POLI	poli	POLI
 PF11032	ApoM	apom	apom
 PF05010	TACC	tacc2	tacc3	tacc3	LOC100125117	tacc3	tacc2
 PF00583	Acetyltransf_1	kat2b	XB5761890	nat8.1	ribc1	aanat	XB5762451	elp3	XENTR_v90029020mg	naa60	XENTR_v90030366mg	naa10	sat1	nat16	LOC100145100	naa40	naa20	sat1	XB5892957	gnpnat1	XENTR_v900306982mg	XB5892957	nat8l	lrrk1	mkln1	elp3	naa50	nat8.7	XENTR_v90027976mg	XENTR_v900298349mg	XENTR_v90029022mg	nat14	nat8l	hisat	naa30	cml
-PF06463	Mob_synth_C	
 PF04811	Sec23_trunk	sec23b	sec23a	plekhg3	josd1	anxa2	sec23b
 PF15163	Meiosis_expr	meig1
 PF04135	Nop10p	nop10
-PF10155	DUF2363	
 PF00380	Ribosomal_S9	mrps9	rps16
 PF09807	ELP6	XENTR_v900285483mg	elp6	XENTR_v900285483mg	elp6
 PF04925	SHQ1	shq1	shq1
@@ -3338,7 +3151,6 @@ PF13085	Fer2_3	sdhb
 PF06421	LepA_C	guf1
 PF02275	CBAH	XENTR_v90026442mg	naaa
 PF09637	Med18	med18	med18
-PF02637	GatB_Yqey	
 PF04990	RNA_pol_Rpb1_7	XENTR_v900284102mg	polr2a
 PF00834	Ribul_P_3_epim	rpe	rpe
 PF03020	LEM	tmpo	lemd1	lemd1	lemd3	emd	LOC779487
@@ -3367,7 +3179,6 @@ PF02961	BAF	baf-l	nr1d1
 PF01532	Glyco_hydro_47	gpr162	man1b1	edem2	gpr162	man1a2	XENTR_v900296842mg	TEgg059h20.1-001	edem2	edem1	cenpm	XENTR_v900296841mg
 PF15997	DUF4772	znf395	znf395	znf395
 PF10444	Nbl1_Borealin_N	cdca8	cdca9	cdca9
-PF14593	PH_3	
 PF04180	LTV	ltv1
 PF11277	Med24_N	med24
 PF08608	Wyosine_form	tyw1	tyw1
@@ -3399,12 +3210,10 @@ PF04928	PAP_central	papolg	papolg	papola	papola	rpl35a
 PF10247	Romo1	romo1
 PF03036	Perilipin	plin2	plin2	plin3	plin2	LOC594876
 PF13234	rRNA_proc-arch	skiv2
-PF12045	DUF3528	
 PF15797	DUF4706	hinfp
 PF10264	Stork_head	stox2	stox1
 PF10559	Plug_translocon	sec61a1
 PF12777	MT	dnah1	dnah14	dnah11	dnah7	c1orf159	dnah12	XENTR_v900307693mg	dnah2	dnah5	LOC100036695	dnah1	entpd1	dnah9	LOC100170584
-PF08065	K167R	
 PF01085	HH_signal	LOC100145111	shh	dhh	chmp1a
 PF10165	Ric8	ric8a	ric8b
 PF16869	CNDH2_M	ncaph2	ncaph2
@@ -3436,7 +3245,6 @@ PF08356	EF_assoc_2	rhot2	rhot2
 PF10046	BLOC1_2	bloc1s2
 PF05033	Pre-SET	suv39h2	suv39h2	setdb2	ehmt1	setdb2	suv39h2	XENTR_v900279921mg	ehmt1	setdb2
 PF06003	SMN	smndc1	smn1	LOC100144954	LOC100144954	smn1
-PF15372	DUF4600	
 PF15251	DUF4588	hapstr1	hapstr1
 PF02671	PAH	gon4l	XENTR_v90029730mg	gon4l	gon4l	sin3a	sin3b	XENTR_v90029730mg	gon4l	XENTR_v90029730mg	gon4l
 PF00670	AdoHcyase_NAD	ahcyl2	ahcy	ahcyl1
@@ -3490,7 +3298,6 @@ PF01936	NYN	marf1	TGas088l22.1-001
 PF00565	SNase	snd1	snd1
 PF06473	FGF-BP1	fgfbp1	fgfbp2	LOC100036657	fgfbp3
 PF15694	Med26_M	med26	crsp7
-PF15795	Spec3	
 PF08703	PLC-beta_C	plcb1	plcb3	plcb2
 PF08312	cwf21	u2surp	srrm2
 PF10272	Tmpp129	tmem129
@@ -3520,18 +3327,15 @@ PF02436	PYC_OADA	pc.1
 PF02844	GARS_N	gart
 PF16698	ADAM17_MPD	adam17	adam17
 PF10537	WAC_Acf1_DNA_bd	baz1b
-PF05715	zf-piccolo	
 PF10197	Cir_N	leng1	cwc25	cwc25
 PF12610	SOCS	socs5	socs4	socs4
 PF01956	DUF106	LOC779530	emc3	elp1	XENTR_v90028022mg
 PF03184	DDE_1	tigd3	pogz	pogz	pogz
 PF01096	TFIIS_C	tcea3	plscr4	tcea3	tcea3	nox4	tcea1
-PF12144	Med12-PQL	
 PF03731	Ku_N	xrcc6	xrcc6	xrcc5
 PF14778	ODR4-like	odr4	odr4
 PF13472	Lipase_GDSL_2	iah1	pafah1b3	pafah1b2
 PF12333	Ipi1_N	tex10	tex10
-PF08599	Nbs1_C	
 PF14630	ORC5_C	orc5l	orc5	ptpru
 PF00119	ATP-synt_A	atp6
 PF14324	PINIT	pias4	pias4	pias2	pias2	pias1	btnl10.2	pias3
@@ -3542,7 +3346,6 @@ PF11037	Musclin	ostn
 PF15223	DUF4584	skida1	skida1
 PF00225	Kinesin	XENTR_v900278092mg	fstl3	kif1b	kif5b	LOC100127546	XENTR_v90028948mg	kif2a	setx	kif16b	kif21a	cenpe	kif2c	XENTR_v90029492mg	kif3a	XENTR_v900298222mg	kif14l	kif4a	kifc2	kif3c	kif3b	kifc3	kif6	XENTR_v90026765mg	LOC100145686	XENTR_v90025975mg	kifc3	LOC100145032	LOC100124946	XENTR_v900280041mg	kif21a	ventx3.1	kif9	crygdl.17	kif18a	kif22	LOC100145121	LOC100145702	kif1c	kif5a	kif11	kif23	kif15	kif4a	kif17	kif1a	LOC779607	kif26a	kif23	kif21b	XENTR_v900289462mg	kif20a-prov	kif11	kif18a	kif20b	kif23	dcun1d5	TNeu055b15.1-001	kif5a	XENTR_v900273071mg	kif2c	dync1i2	bhmt	kif4a
 PF02885	Glycos_trans_3N	tymp	tymp
-PF03937	Sdh5	
 PF05197	TRIC	tmem38a	tmem38b
 PF05724	TPMT	tpmt	asap1
 PF00662	Proton_antipo_N	nd5
@@ -3560,17 +3363,14 @@ PF05282	AAR2	LOC100127613	aar2
 PF09731	Mitofilin	immt
 PF16531	SAS-6_N	sass6.2	sass6	gsr	sass6.2	sass6	sass6.2
 PF12295	Symplekin_C	sympk	sympk
-PF10495	PACT_coil_coil	
 PF01114	Colipase	clps
 PF04968	CHORD	itgb1bp2	chordc1	chordc1
 PF03051	Peptidase_C1_2	blmh	blmh
 PF13176	TPR_7	anapc7	rpap3	ttc8	XENTR_v90025813mg	cfap20dc	gpsm1	rpap3	rapsn	ttc28	anapc7	nphp3	gpsm1
 PF00909	Ammonium_transp	rhag	rhcg	rhbg	rhagl	rhbg	rhd	ror1
-PF15037	IL17_R_N	
 PF02996	Prefoldin	vbp1	clstn1	c19orf2	c19orf2	XENTR_v90030647mg	clstn1	uri1
 PF16094	PAC1	psmg1	psmg1
 PF02586	SRAP	rarres1	hmces
-PF12436	USP7_ICP0_bdg	
 PF01263	Aldose_epim	galm
 PF07992	Pyr_redox_2	etfdh	aifm2	txnrd2	aifm1	pyroxd1	sqor	gsr	MGC147163	fdxr	MGC147163
 PF04678	MCU	mcub	mcu	XENTR_v90026600mg	abcb7	nkx2-2
@@ -3579,7 +3379,6 @@ PF12894	ANAPC4_WD40	XENTR_v90030045mg	coro2a	wdr35	wdr32	wdr17	wdr32	XENTR_v9003
 PF10253	PRCC	prcc	odf2	prcc
 PF00014	Kunitz_BPTI	spint2	spint1	XENTR_v90030200mg	ambp	papln	app	app	aplp2	LOC100490088	cep152	tfpi2	tfpi2	XENTR_v900275512mg
 PF02840	Prp18	prpf18
-PF12489	ARA70	
 PF07978	NIPSNAP	nipsnap2	nipsnap3a	nipsnap1
 PF00145	DNA_methylase	trdmt1	dnmt1	dnmt3a	dnmt3a
 PF13174	TPR_6	ttc21b	srp72	trappc12	ttc39a	srp72	ttc32	evl	nrp1	srp72	LOC496794	ttc39a
@@ -3593,7 +3392,6 @@ PF10494	Stk19	stk19	stk19
 PF13918	PLDc_3	pld3
 PF14077	WD40_alt	wdr18	wdr18-prov
 PF03453	MoeA_N	gphn	cass4	gphn
-PF14769	CLAMP	
 PF01780	Ribosomal_L37ae	rpl37a
 PF00300	His_Phos_1	tigar	pgam2	pgam5	bpgm	pfkfb4	pfkfb2	pfkfb2	pgam1	ubash3b	pgam5	pfkfb1	pgam1	tigar	pfkfb3	pfkfb4	pgam2	ephb3
 PF16704	Rab_bind	ras-dva1
@@ -3609,7 +3407,6 @@ PF02188	GoLoco	gpsm1	rgs12	gpsm1
 PF15974	Cadherin_tail	pcdhga3	LOC100125046	pcdhac2	pcdhgc5	pcdha13	pcdhac2	pcdhga11	pcdhga11	pcdhgc4
 PF08917	ecTbetaR2	tgfbr2
 PF02297	COX6B	coa6	cox6b1	cox6b1
-PF10036	RLL	
 PF17004	SRP_TPR_like	srp72	LOC496794	srp72	srp72
 PF09049	SNN_transmemb	snn
 PF13695	zf-3CxxC	rtp3	rtp3	rtp3	zar1	zar1	TGas108k08.1-001
@@ -3627,7 +3424,6 @@ PF00327	Ribosomal_L30	rpl7	rpl7l1	mrpl30	mrpl30
 PF16095	COR	lrrk1	mfhas1	lrrk2	mfhas1
 PF04819	DUF716	tmem45a	teddm1	tmem45b	tmem45b
 PF00581	Rhodanese	cdc25b	tstd2	cdc25b	dusp16	dusp4	XB996291 [provisional]	tstd2	tst	dusp8	dusp7	mpst	caskin1	cdc25a	dusp5	fth1.1	cdc25a	dusp6	tbck	styxl1	tst	LOC733815	dusp4	cdc25c	cdc25c	cep41
-PF15180	NPBW	
 PF04096	Nucleoporin2	nup98	LOC100145055	XENTR_v90028601mg
 PF04557	tRNA_synt_1c_R2	LOC100145804
 PF06401	Alpha-2-MRAP_C	uck2	lrpap1	LOC100038258
@@ -3643,7 +3439,6 @@ PF02817	E3_binding	dlat	XENTR_v900280742mg	dlat	dbt
 PF13867	SAP30_Sin3_bdg	sap30	sap30l	sap30l	sap30
 PF10510	PIG-S	pigs	pigs
 PF00303	Thymidylat_synt	tyms	tyms
-PF14765	PS-DH	
 PF16979	SIN1_PH	mapkap1
 PF05038	Cytochrom_B558a	cyba
 PF12933	FTO_NTD	fto
@@ -3667,7 +3462,6 @@ PF12052	VGCC_beta4Aa_N	cacnb1	cacnb1	unc50	cacnb2	cacnb3	cacnb4
 PF15285	BH3	becn1
 PF00542	Ribosomal_L12	mrlp12	mrpl12
 PF04739	AMPKBI	prkab1	prkab2
-PF06093	Spt4	
 PF09754	PAC2	psmg2
 PF00923	TAL_FSA	rnf20	taldo1	taldo1
 PF04828	GFA	cenpv	cenpv
@@ -3689,7 +3483,6 @@ PF02815	MIR	XENTR_v900289769mg	itpr1	sdf2l1	ryr1	sdf2l1	itpr2	sdf2	pomt1	XENTR_v
 PF11864	DUF3384	tsc2	tsc2
 PF01575	MaoC_dehydratas	XENTR_v90030774mg	hsd17b4
 PF10436	BCDHK_Adom3	pdk4	bckdk	pdk1	pdk3	pdk3
-PF09368	Sas10	
 PF13092	CENP-L	cenpl	cenpl
 PF01799	Fer2_2	aox1	xdh	aox1
 PF08043	Xin	xirp2
@@ -3707,7 +3500,6 @@ PF00579	tRNA-synt_1b	yars2	yars2	wars2	wars1	yars	yars1
 PF13716	CRAL_TRIO_2	bnip2	gtf2e1.2	Prune2	lysmd4	atcay	bnip2	XENTR_v90030725mg	sestd1	mcf2	mcf2l2	sestd1	XENTR_v90027901mg	bnipl	arhgap1	bnipl	ankk1	arhgap8
 PF08543	Phos_pyr_kin	pdxk	XENTR_v900299102mg
 PF12064	DUF3544	zmynd8	zmynd8
-PF12491	ApoB100_C	
 PF07683	CobW_C	zng1b	cbwd2
 PF05924	SAMP	mrps14
 PF05620	DUF788	tmem208
@@ -3733,12 +3525,10 @@ PF07565	Band_3_cyto	slc4a3	slc4a8	slc4a10	XENTR_v900297832mg	fam43a	XENTR_v90030
 PF16418	CNOT1_HEAT	cnot1	cnot1	cnot1
 PF09799	Transmemb_17	Tmem17-b	XENTR_v90027903mg	tmem17-a
 PF02738	Ald_Xan_dh_C2	aox1	xdh	aox1
-PF17065	UPF0669	
 PF01154	HMG_CoA_synt_N	hmgcs1
 PF00411	Ribosomal_S11	mrps11	rps14	mrps11
 PF13880	Acetyltransf_13	esco2
 PF16489	GAIN	adgrb1	adgrf1	adgrb3	rab15	adgrf1	XENTR_v900287291mg
-PF10525	Engrail_1_C_sig	
 PF16900	REPA_OB_2	rpa1	rpa1
 PF00341	PDGF	vefg	vegfd	pdgfb	vegfa	vegfa	pdgfa	vegfb	pdgfb	radx	pdgfa	tnnt3	znf410	nucb1
 PF04048	Sec8_exocyst	mipep
@@ -3782,11 +3572,9 @@ PF02752	Arrestin_C	XENTR_v900292087mg	arrdc3	lmnb3	sag	arrdc2	arrdc4	arrb2	XENTR
 PF01017	STAT_alpha	XENTR_v90025921mg	stat1	XENTR_v900261981mg	stat1	faxdc2	stat4	stat2	XENTR_v900261982mg	stat2	mprip	stat1	stat3.1
 PF13445	zf-RING_UBOX	XENTR_v90026268mg	rnf32	XENTR_v90028045mg	XENTR_v90028574mg	XENTR_v90030053mg	XENTR_v90026754mg	XENTR_v90030057mg	XB5949753 [provisional]	trim36	trim63	LOC100491015	XENTR_v900293701mg	LOC108644458	mid1	XENTR_v90027772mg	LOC733764	XENTR_v90029665mg	XB5949753	XENTR_v90026753mg	trim36	traf7	XENTR_v900285752mg	XENTR_v90027667mg	XENTR_v90030083mg	XENTR_v90027958mg	dtx2	XB5759442	XENTR_v90029982mg	XENTR_v90030052mg	hpse	XENTR_v90028573mg	sowahb	XENTR_v900305102mg	XENTR_v90027490mg	LOC100495443	XENTR_v90026263mg	trim32	XENTR_v90028485mg	XENTR_v90030056mg	LOC779483	trim2	LOC100492977	XENTR_v90026267mg	XENTR_v90030050mg	trim33	pdlim1	XENTR_v90026262mg	XENTR_v900301131mg	XENTR_v90028580mg	XB5729271	XENTR_v90029561mg	XB5772270	XENTR_v90030051mg	LOC108644814	tbck	XENTR_v90026265mg	XENTR_v900297581mg	trim13	XENTR_v90027967mg	trim33	XENTR_v90030436mg	XENTR_v90026269mg	XENTR_v90030115mg	XENTR_v90027918mg	XENTR_v90029417mg	trim55	XENTR_v90028242mg	XENTR_v90027483mg	XENTR_v90026752mg	XENTR_v90029565mg	XENTR_v90029556mg	lonrf2	XENTR_v90029522mg	rc3h1	LOC101731288	XB5998702 [provisional:trim25]	fastkd3	XENTR_v90028248mg	fastkd3	XB5762393	trim36	XENTR_v90026785mg	XENTR_v90029416mg	XENTR_v90028953mg	XB5998702	rnf114	trim2	XENTR_v900280402mg
 PF16070	TMEM132	tmem132a	tmem132d	tmem132d
-PF08596	Lgl_C	
 PF15926	RNF220	rnf220.2	rnf220.1
 PF03489	SapB_2	psap	psap	psap
 PF11411	DNA_ligase_IV	lig4	lig4
-PF11628	TCR_zetazeta	
 PF15012	DUF4519	smco4
 PF16498	SWIRM-assoc_3	smarcc2	smarcc1	pou2f1	smarcc2
 PF02230	Abhydrolase_2	lypla1	lyplal1	lypla1	lypla2
@@ -3795,7 +3583,6 @@ PF05746	DALR_1	rars2	rars1
 PF04112	Mak10	naa35
 PF00037	Fer4	abce1	abce1
 PF07998	Peptidase_M54	XENTR_v90030070mg
-PF08571	Yos1	
 PF09696	Ctf8	chtf8
 PF17085	UCMA	ucma
 PF16562	HECW_N	hecw1
@@ -3809,9 +3596,7 @@ PF07962	Swi3	tipin
 PF16158	N_BRCA1_IG	ilrun	nbr1
 PF01090	Ribosomal_S19e	rps19
 PF02676	TYW3	tyw3	tyw3	TEgg079i13.1-001
-PF08615	RNase_H2_suC	
 PF01182	Glucosamine_iso	pgls	gnpda1	pgls	gnpda2	h6pd	h6pd	gnpda2
-PF15742	DUF4686	
 PF02780	Transketolase_C	tktl2	XENTR_v900289201mg	cyct	tkt	bckdhb	pdhb
 PF02661	Fic	ficd	ficd
 PF10504	DUF2452	c1orf50
@@ -3828,7 +3613,6 @@ PF08772	NOB1_Zn_bind	nob1p-prov	nob1	nob1
 PF06464	DMAP_binding	dip2c	dip2a	gnptab	abhd14a	dip2c	dip2c	dnmt1
 PF10239	DUF2465	fam98a	fam98a	LOC100145158
 PF10374	EST1	nudt21	XENTR_v90029419mg	smg7	smg5
-PF01507	PAPS_reduct	
 PF10417	1-cysPrx_C	prdx6	prdx3	prdx1	XENTR_v90030641mg	prdx6	prdx4	grk5	prdx2	prdx2	prdx1	MGC76137
 PF00178	Ets	erg	etv1	etv3	spi1	etv2	spib	XENTR_v90027650mg	elf2	etv6	ets1	ets2	elf1	fli1	etv3	etv6	saxo2	elk4	etv1	gabpa	spi1	etv6	erf	spdef	XENTR_v900280211mg	ehf	XENTR_v90027763mg	elf5	elk3	gabpa	ets2	LOC613064
 PF15712	NPAT_C	npat
@@ -3843,7 +3627,6 @@ PF16559	GIT_CC	git1	git2	git2	git2
 PF01709	Transcrip_reg	LOC100135399
 PF01391	Collagen	LOC100124865	XENTR_v90030288mg	LOC100490088	LOC100124852	XENTR_v90030200mg	XENTR_v90030288mg	glul	hacl1	fcn1	fcn3	col8a1	c1ql1-prov	LOC100037917	MGC107908	LOC594984	MGC107780	c1qtnf3	acod1	colec12	opnpl	gldn	LOC100124781	col13a1	col4a1	col11a2p1	igsf9b	otol1	LOC100496945	c1ql1	col17a1	colec10	col21a1	LOC100124870	col9a2	emid1	slc19a3.2	XENTR_v90027526mg	ifnl3	col11a2	emilin1	col1a1	col2a1	col3a1	LOC100496945	col1a2	col8a2	col18a1	XENTR_v900268891mg	psma4	XENTR_v900302902mg	col11a2	rsl24d1	col6a2	LOC100492872	col1a1	col5a1	XB5952892	XENTR_v90028350mg	col25a1.2	XENTR_v90028713mg	XENTR_v90030762mg	dennd4a	col6a2	XENTR_v900268893mg	XENTR_v90030289mg	col25a1.2	adipoq	col11a1	col27a1	col18a1	XENTR_v90030299mg	col5a2	XENTR_v90030462mg	col18a1	col4a2	LOC594984	gpm6b	LOC100145133	XENTR_v90030331mg	c1qtnf9b	col2a1	emid1	col6a2	XENTR_v90030293mg	LOC548398	MGC107780	LOC100496945	col9a3	cc2d2a	XB5954422	col1a2	col14a1	XENTR_v90028507mg	LOC100124865	col4a6	col2a1	col24a1	col10a1	emilin1	XENTR_v90028349mg	c1qtnf1	adipoq	LOC100496945	fcn1	gabbr1	MGC108470	fcn2	col11a2	LOC100496945	col3a1	fcn3	ankle1	col12a1
 PF04815	Sec23_helical	sec23b	sec23b	sec23a	plekhg3	josd1	anxa2	sec23b
-PF06025	DUF913	
 PF02812	ELFV_dehydrog_N	glud1	XENTR_v90026261mg	XENTR_v90026261mg
 PF00152	tRNA-synt_2	nars1	dars1	XENTR_v90027912mg	LOC100145238	kars1	dars1	LOC100145033	klhdc1	dars1	kars1
 PF11722	zf-TRM13_CCCH	trmt13
@@ -3851,7 +3634,6 @@ PF05132	RNA_pol_Rpc4	polr3d
 PF15799	CCD48	LOC100037887	LOC100038296	XENTR_v90030208mg
 PF05362	Lon_C	lonp2
 PF03153	TFIIA	gtf2a1	gtf2a1l	gtf2a1l	gtf2a1l
-PF05593	RHS_repeat	
 PF04906	Tweety	ttyh2	ttyh1	mbnl2	LOC733778	ttyh2	ttyh1	ttyh1	ttyh3
 PF06068	TIP49	ruvbl2	ruvbl2	ruvbl1
 PF06529	Vert_IL3-reg_TF	nfil3
@@ -3862,7 +3644,6 @@ PF08914	Myb_DNA-bind_2	terf2ip	terf2ip	rap1
 PF13821	DUF4187	gpatch11
 PF02198	SAM_PNT	erg	ehf	etv6	XENTR_v90027650mg	ets1	etv6	ets2	fli1	elf5	gabpa	ets2	spdef	gabpa	etv6
 PF04629	ICA69	ica1	XENTR_v90030206mg	ica1
-PF15173	FAM180	
 PF10184	DUF2358	c6orf136
 PF01588	tRNA_bind	yars1
 PF01454	MAGE	nsmce3
@@ -3881,7 +3662,6 @@ PF04822	Takusan	dlg5	dlg5
 PF07572	BCNT	cfdp1
 PF01754	zf-A20	zfand5	zfand3	otud7a	zfand5	zfand6	zfand5	rabgef1	zfand6
 PF10147	CR6_interact	gadd45gip1	gadd45gip1	gadd45gip1-prov	gadd45gip1
-PF08123	DOT1	
 PF17256	ANAPC16	anapc16
 PF05544	Pro_racemase	l3hypdh
 PF05502	Dynactin_p62	dctn4	dctn4
@@ -3889,9 +3669,7 @@ PF04670	Gtr1_RagA	rragd	rraga	rragc
 PF09068	EF-hand_2	XENTR_v900273432mg	utrn	dmd	dtna	drp2
 PF15333	TAF1D	LOC100135149
 PF02765	POT1	pot1
-PF09734	Tau95	
 PF04118	Dopey_N	dop1a	fgl1b	dop1a	dopey2
-PF09042	Titin_Z	
 PF00040	fn2	ly75	mmp2	mrc2	mmp2	pla2r1	fn1	fn1	mmp9.1	sel1l
 PF13908	Shisa	LOC779586	shisa4	XENTR_v90026367mg	shisa3	shisa9
 PF03726	PNPase	pnpt1	pnpt1	pnpt1
@@ -3899,7 +3677,6 @@ PF00752	XPG_N	fen1	LOC100145302	fen1	ercc5	ercc5	pop4
 PF01658	Inos-1-P_synth	isyna1	isyna1
 PF06668	ITI_HC_C	LOC779593	itih5	rtf2	LOC594926	LOC779593	itih5
 PF00208	ELFV_dehydrog	glud1	XENTR_v90026261mg	XENTR_v90026261mg
-PF01757	Acyl_transf_3	
 PF16909	VPS13_C	vps13a	sema3e	vps13b
 PF11571	Med27	med27
 PF05679	CHGN	csgalnact2	XENTR_v90027940mg	chsy1	chpf2	csgalnact2	csgalnact1	b4galnt4	XENTR_v90030959mg	b4galnt4	XENTR_v90030959mg
@@ -3907,8 +3684,6 @@ PF02990	EMP70	XENTR_v90027807mg	pacsin3	tm9sf2	tm9sf2	LOC447968
 PF01702	TGT	qtrt1	qtrt2	qtrt2
 PF13419	HAD_2	pudp	XENTR_v90028445mg	ephx2	ephx2	nanp	hdhd1a1
 PF12347	HJURP_C	mef2d	mef2c	mef2d	mef2c
-PF15490	Ten1_2	
-PF08652	RAI1	
 PF05586	Ant_C	antxrl	antxr2	antxr1	antxr2
 PF04676	CwfJ_C_2	cwf19l2	cwf19l1	cwf19l2	LOC733944	cwf19l2
 PF14652	DUF4457	katnip
@@ -3916,7 +3691,6 @@ PF13181	TPR_8	naa15	pp5c	mterf4	dazap2	ttc21b	c21orf91	LOC100145573	ttc7b	h2bc12
 PF09047	MEF2_binding	cabin1
 PF03450	CO_deh_flav_C	aox1	xdh	aox1
 PF15112	DUF4559	cxorf38
-PF12971	NAGLU_N	
 PF12335	SBF2	sbf1	sbf2	sbf1	sbf2	sbf2	kiaa0513
 PF09773	Meckelin	tmem67	LOC100486474
 PF05615	THOC7	thoc7	thoc7
@@ -3934,17 +3708,13 @@ PF15375	DUF4602	TGas141c24.1-001	spint1
 PF10587	EF-1_beta_acid	eef1b	eef1d	eef1b2	eef1d
 PF08551	DUF1751	tmem115
 PF09788	Tmemb_55A	pip4p2	pip4p1	pip4p1
-PF14987	NADHdh_A3	
-PF16360	GTP-bdg_M	
 PF09033	DFF-C	dffa-prov
 PF14767	RPA_interact_M	rpain
 PF07686	V-set	scn4b	siglecl1	XENTR_v90026917mg	calr	XB5942349	scn3b	XENTR_v90029776mg	tecr	LOC734127	hepacam2	XENTR_v90026903mg	hapln3	vps4b	XENTR_v900257953mg	XENTR_v900287962mg	erg	XENTR_v90030934mg	XENTR_v90025879mg	LOC734126	btnl2	hapln1	XENTR_v90025939mg	XB5829483	XENTR_v90028798mg	vsig1	XENTR_v900269005mg	usp12	XENTR_v900274122mg	LOC100158538	cxadr	cadm2	LOC100135351	XENTR_v90026857mg	btn2a2	cd200r1	XENTR_v90030997mg	XENTR_v90026914mg	ptgfrn	bcam	vsig1	XENTR_v90025988mg	XENTR_v90029774mg	XENTR_v90030990mg	XENTR_v90025986mg	XENTR_v90027616mg	XENTR_v90028800mg	nectin1l1	MGC108125	btn1a1	XENTR_v90030989mg	XENTR_v90028059mg	XENTR_v900287542mg	XENTR_v90026202mg	XENTR_v90030988mg	mospd3	fut4	igl	mxra8	hnrnpd	XENTR_v900287541mg	LOC734127	LOC100145553	XENTR_v90028797mg	LOC100127843	mpzl2	tor2a	nectin2	XENTR_v900288443mg	XENTR_v90027560mg	hhla2	XENTR_v90030987mg	hepacam	btn2a1	igsf3	XENTR_v90030992mg	gpa33	sarnp	XENTR_v90028756mg	cadm2	XENTR_v90028943mg	XENTR_v90028795mg	XENTR_v90030132mg	XENTR_v900305012mg	XENTR_v90025940mg	ncan	XENTR_v90027989mg	LOC548369	LOC779471	nectin3	mpzl1	LOC734128	XENTR_v900301791mg	XENTR_v900269002mg	vtcn1	XENTR_v90030126mg	XENTR_v90028062mg	XB5961956	XENTR_v90026906mg	XENTR_v90029400mg	XENTR_v90029777mg	XENTR_v90030984mg	XENTR_v90028054mg	XENTR_v90030983mg	vstm2b	XENTR_v90026084mg	XENTR_v90030991mg	mpz	XENTR_v90028431mg	XENTR_v900279872mg	XENTR_v900302663mg	jam2	LOC100493192	XENTR_v900280611mg	XENTR_v90026208mg	TGas141p18.1-001	cd276	LOC549739	XB5889096 [provisional]	trac	mgc147231	trem2	ctsb	XENTR_v900297733mg	havcr1	itga8	XENTR_v900262071mg	XENTR_v90026222mg	XENTR_v90030981mg	XENTR_v90030993mg	XENTR_v90030493mg	npnt	XENTR_v90030994mg	XENTR_v90027425mg	XENTR_v900293961mg	cxadr	XENTR_v900301792mg	XENTR_v90030135mg	XENTR_v90030996mg	arsb	LOC496762	ighx	LOC100135349	XENTR_v90028201mg	nectin4	XENTR_v90030121mg	XENTR_v900269071mg	XENTR_v90028794mg	vsig2	LOC496887	mybpc2	XENTR_v900297731mg	LOC100135262	LOC734131	XENTR_v90029398mg	XENTR_v90030118mg	vtcn1	igsf3	XENTR_v90026205mg	XENTR_v90030494mg	sec31a	XENTR_v900275581mg	mpzl2	XENTR_v900262102mg	XENTR_v900309352mg	nectin1	XENTR_v900284321mg	btnl8	XENTR_v90026901mg	LOC100490037	XB5734592	tapbp	XB5717875	XENTR_v900280561mg	slc8a1	XB5846708 [provisional]	tmem87a	vstm2b	scn2b	XENTR_v90030995mg	XENTR_v90027422mg	btn2a2	vps18	LOC100145016	f11r	esam	XENTR_v90028707mg	LOC100489120	XENTR_v90030491mg	clmp	meis1	XENTR_v90028799mg	LOC101732679	XB5846708 [provisional]	tex26	XENTR_v90027281mg	vepp1	btnl8	XENTR_v90030134mg	LOC100496169	kpna7	XENTR_v90028755mg	XENTR_v90026916mg	XENTR_v90027413mg	vsir	cxadr	siglecl2	XENTR_v90026897mg	scn4b	XENTR_v90028057mg	XENTR_v90030130mg	ighx	LOC101731445	mpzl3	LOC100488699	XENTR_v900279881mg	cdc6	XB5949738	u2af2	XENTR_v90030982mg	XENTR_v90030986mg	LOC105945166	bcam	igsf21	XENTR_v90027066mg	XB5962421	XENTR_v900274191mg	XENTR_v90029775mg	XENTR_v90027415mg	vsig1	atp2b1	rell1
-PF12877	DUF3827	
 PF07558	Shugoshin_N	sgo1	sgo1
 PF12726	SEN1_N	LOC100145435
 PF14429	DOCK-C2	dock6	dock8	dock3	dock4	dock2	dock10
 PF01040	UbiA	ubiad1	coq2	ubiad1	cox10
-PF10258	RNA_GG_bind	
 PF02747	PCNA_C	clip1
 PF08474	MYT1	st18	myt1	myt1l
 PF17208	RBR	scml4	scml2	scmh1	scmh1	rasl12
@@ -3953,7 +3723,6 @@ PF10473	CENP-F_leu_zip	LOC100127686	cenpf
 PF04712	Radial_spoke	rsph6a
 PF11819	DUF3338	frmd4a	frmd4a	frmd4b
 PF00609	DAGK_acc	dgka	dgkb	dgkq	dgkd	dgkq	dgkk	dgkb	dgki	dgkz	dgkh
-PF15127	SmAKAP	
 PF12423	KIF1B	kif1b	kif1a	ventx3.1	XENTR_v900298222mg
 PF08447	PAS_3	epas1	hif1a	npas3	per3	sim2	per1	hif1a	npas3	per2	npas4	per1	per2	cep170
 PF11977	RNase_Zc3h12a	n4bp1	khnyn	zc3h12c
@@ -3976,7 +3745,6 @@ PF08166	NUC202	pelp1
 PF14647	FAM91_N	rpl15	fam91a1
 PF14784	ECSIT_C	ecsit	ecsit
 PF00387	PI-PLC-Y	plcb2	plcb1	plch1	XENTR_v900259281mg	plcd4	plcl2	plcb3	LOC100125098	plcg1	plcg2	XENTR_v90027448mg	pou2f1	LOC100496658	plch2	XENTR_v90030386mg
-PF05609	LAP1C	
 PF08315	cwf18	cbfa2t3	cbfa2t3
 PF15870	EloA-BP1	XB5934250	XB5934250 [provisional]	wdr53
 PF01064	Activin_recp	acvr1b	tgfbr1	acvr2b	acvr1b	acvr2a	acvr2a	tgfbr1	tgfbr1	bmpr1b	acvr2b
@@ -4010,10 +3778,8 @@ PF15467	SGIII	scg3	scg3
 PF01399	PCI	psmd3	psmd12	psmd12	psmd13	XENTR_v900264382mg	cops4	cops2	eif3s10	gps1	cops3	pcid2	psmd3	eif3e	EIF3C	eif3a	psmd13	EIF3A	psmd6	eif3a	eif3m	psmd11	eif3c	gtf3c5	cops7b
 PF08923	MAPKK1_Int	lamtor3
 PF02759	RUN	rundc3a	lgals3	plekhm2	sfswap	rusc1	sgsm3	dennd5a	plekhm1	sgsm3	stx6	rufy2	sgsm1	XENTR_v900279091mg	sgsm2	rufy1	rufy3	dennd5b	rufy2	XENTR_v90030511mg	mapre2	sgsm1	dennd5a	rundc3b	sgsm3
-PF16038	TMIE	
 PF01951	Archease	zbtb8os
 PF09088	MIF4G_like	ncbp1	ncbp1
-PF15006	DUF4517	
 PF00591	Glycos_transf_3	tymp	tymp
 PF04034	Ribo_biogen_C	tsr3	LOC549889
 PF00890	FAD_binding_2	sdha	ap1b1	sdha
@@ -4021,7 +3787,6 @@ PF06292	DUF1041	cadps	unc13a	cadps	XENTR_v900262763mg	XENTR_v900262762mg	XENTR_v
 PF15156	CLN6	cln6
 PF15627	CEP76-C2	cep76
 PF12578	3-PAP	mtmr11	mtmr10	mtmr10	mtmr12
-PF03676	UPF0183	
 PF10590	PNP_phzG_C	cdk5rap3	pnpo
 PF09027	GTPase_binding	fam83b	tnk2
 PF07156	Prenylcys_lyase	pcyox1
@@ -4031,7 +3796,6 @@ PF00002	7tm_2	XB5962421	vipr2	XENTR_v900284663mg	XENTR_v90027443mg	chadl	lgmn	cr
 PF08729	HUN	ubn1	LOC100135129
 PF03712	Cu2_monoox_C	dbh	XENTR_v90028397mg	abat	XENTR_v90029798mg	pspc1
 PF01192	RNA_pol_Rpb6	polr2f
-PF04129	Vps52	
 PF05721	PhyH	phyhdla.1	phyhdla.1	phyhd1	phyh	phyhdla.1	phyhd1	gpr180
 PF06784	UPF0240	ndufaf4	ndufaf4
 PF02291	TFIID-31kDa	taf9b
@@ -4047,8 +3811,6 @@ PF01239	PPTA	fnta	rabggta	ptar1
 PF04266	ASCH	trip4
 PF13012	MitMem_reg	Psmd7	cops6	psmd7	cops6	psmd7	XENTR_v900257982mg	psmd14	eif3f	cops6	cops6
 PF01108	Tissue_fac	ifngr1	LOC100145248	il10rb	ifnar2.2	ifnar2.1	IFNLR	ifnlr1	crp	ifngr2.2	IFNLR
-PF06331	Tfb5	
-PF04073	tRNA_edit	
 PF11573	Med23	med23
 PF12547	ATXN-1_C	rnf125
 PF12047	DNMT1-RFD	dnmt1
@@ -4089,7 +3851,6 @@ PF04909	Amidohydro_2	rims2
 PF08711	Med26	tcea3	med26	plscr4	eloa	tceanc2	tcea3	LOC100497894	tcea3	tceanc	LOC100144956	LOC100144964	iws1	tcea1
 PF03348	Serinc	serinc2	serinc1.1	serinc3	serinc1.1
 PF11635	Med16	med16	med16
-PF12248	Methyltransf_FA	
 PF09794	Avl9	avl9	XENTR_v900308711mg	dennd6a
 PF12934	FTO_CTD	fto
 PF15909	zf-C2H2_8	asb8
@@ -4110,7 +3871,6 @@ PF16969	SRP68	srp68	LOC100158589
 PF05179	CDC73_C	hrpt2	cdc73
 PF12403	Pax2_C	pax8	pax8	higd1a	scd
 PF02762	Cbl_N3	cblb	cbl	cbl-prov	cblb
-PF09064	Tme5_EGF_like	
 PF02354	Latrophilin	rab15
 PF05907	DUF866	czib
 PF02207	zf-UBR	XENTR_v900284251mg	ubr4	XENTR_v900284251mg	XENTR_v900284251mg	ubr2	ubr2	XENTR_v900284251mg	XENTR_v900284251mg
@@ -4133,7 +3893,6 @@ PF01128	IspD	crppa
 PF08939	DUF1917	bles03	c11orf68
 PF04847	Calcipressin	rcan2	rcan1	dscr1	rcan2	rcan3
 PF15014	CLN5	cln5
-PF16860	CX9C	
 PF16519	TRPM_tetra	trpm1	trpm3
 PF16725	Nucleolin_bd	nvl
 PF01566	Nramp	slc11a2	slc11a1
@@ -4141,7 +3900,6 @@ PF03747	ADP_ribosyl_GH	XENTR_v90030692mg	dcun1d2	adprs	adprh	adprh	adprh	adprs	a
 PF02060	ISK_Channel	kcne3	kcne1	kcne3
 PF01569	PAP2	plppr1	XB5961369	plpp7	g6pc1.1	plppr2	plpp6	gpnmb	sgpp1	plpp5	dolpp1	XB5961369	plpp7	g6pc1.3	plpp1	LOC779477	sgpp1	plpp4	plpp1	plpp3	plppr4	plppr3	plpp6	plpp1	plpp5	dolpp1	plpp2	g6pc1.2
 PF03980	Nnf1	LOC100037873	pmf1
-PF15086	UPF0542	
 PF00092	VWA	hs6st2	matn3	itih5	vwa1	col21a1	col6a2	LOC100490088	matn2	LOC100124852	vepp1	XENTR_v90030200mg	col14a1	itgae	matn1	antxr1	vwf	matn1	cachd1	cacna2d1	antxrl	LOC779593	antxr2	vwf	itih5	XENTR_v90026189mg	coch	clca1.1	itga11	LOC101731775	LOC779593	col6a2	cacna2d1	XENTR_v900265691mg	LOC101731775	best1	rtf2	antxr2	LOC594926	col6a2	itga1	col12a1	cacna2d2
 PF00615	RGS	snx14	grk5	grk1	grk5	axin1	axin2	rgs4	rgs1	XENTR_v90030625mg	snx14	zc3h6	rgs16	ahsg	XENTR_v90030148mg	grk7	rgs12	snx14	rgs2	rgs20	grk5	rgs9	snx13	rgs2	rgs18	axin2	XENTR_v900259732mg	rgs5	mgc69353	rgs20	rgs6	grk6	rgs19	rgs1	rgs10	LOC779463	grk4
 PF00250	Forkhead	foxp4	foxp4	foxd5	foxn3	ctsw	foxi1e	foxd1	foxo4	foxp2	foxo3	foxa1	foxn3	foxr1	crip2	Foxq1	foxa1	foxn4	foxg1	foxa2	foxn5	foxl1	foxn3	vegfd	foxi2	XENTR_v90027470mg	foxp2	qrich2	foxn3	foxh1	foxi1	foxc1	foxd3	foxh1	foxl1	foxn4	XENTR_v90028391mg	foxo1	foxn3	foxj3	foxa2	foxj2	foxp2	foxa4	gcdh	nr2f6	foxb1	foxj1	foxn2	LOC734087	foxl2	nop16	foxi2	foxf1	XENTR_v90030557mg	LOC734087	foxf2	foxp1	foxo6	foxk2	foxd4l1.2	foxi2	foxf1	foxj1.2	foxi1c	foxr1	foxc2
@@ -4166,10 +3924,7 @@ PF16901	DAO_C	gpd2	LOC779615	gpd2
 PF00531	Death	ripk1	thoc1	ankdd1b	irak1	nfkb2	XB5829846	rab21	cradd.2	ank3	XENTR_v900275632mg	dthd1	tnfrsf10b	ngfr	dapk1	fas	dapk1	noct	tnfrsf10b	nradd	cpeb1	XB5829846	ank2	ripk1	myd88	tnfrsf1a	hbz	tnfrsf21	nfkb2	mdm2	ankdd1a	cradd.1	unc5b	tnfrsf10b	fas	unc5a
 PF00082	Peptidase_S8	pcsk7	pcsk4	pcsk2	pcsk5	tpp2	tspan31	mbtps1	mbtps1	furin	fur2	vsig1	vip	tpp1
 PF06480	FtsH_ext	afg3l1	spg7	afg3l2
-PF02934	GatB_N	
 PF13879	KIAA1430	cfap97d1	TNeu001n23.1-001	ntng1	cfap97	cfap97
-PF15473	PCNP	
-PF15104	DUF4558	
 PF10267	Tmemb_cc2	tmcc1	tmcc3	tmcc1	tmcc2	tmcc2
 PF14222	MOR2-PAG1_N	psme2	fryl
 PF08038	Tom7	tomm7
@@ -4201,16 +3956,11 @@ PF08934	Rb_C	rbl1
 PF00384	Molybdopterin	ndufs1
 PF09258	Glyco_transf_64	extl2	ext2	extl2	ext2	ext1	ext1	extl3	XENTR_v90029827mg	extl3
 PF09465	LBR_tudor	lbr	lbr
-PF12157	DUF3591	
-PF11721	Malectin	
 PF16689	APC_N_CC	mrps14	apc
 PF09531	Ndc1_Nup	ndc1
-PF08427	DUF1741	
 PF08526	PAD_N	XENTR_v90026816mg	creb1	padi2	padi2
 PF15008	DUF4518	c3orf38	c3orf38	c3orf38
-PF11057	Cortexin	
 PF05653	Mg_trans_NIPA	nipa2	nipa2	nipal2	mgc108429	nipal3	nipal4
-PF04423	Rad50_zn_hook	
 PF08293	MRP-S33	mrps33	XENTR_v90029678mg
 PF12542	CWC25	cwc25	cwc25
 PF00123	Hormone_2	gcg	adcyap1	adcyap1	gcg	gip
@@ -4228,7 +3978,6 @@ PF16696	ZFYVE21_C	zfyve21	zfyve21	zfyve21	LOC550098
 PF01261	AP_endonuc_2	XB5765667	hyi
 PF00534	Glycos_transf_1	glt1d1	glt1d1	gtdc1	alg1	alg1	alg2	LOC100158632	alg11	piga
 PF05670	DUF814	rnf149	ccdc25
-PF06350	HSL_N	
 PF13271	DUF4062	LOC100496167	tep1
 PF00253	Ribosomal_S14	rps29	mrps14	tmem170a
 PF10350	DUF2428	thada
@@ -4258,7 +4007,6 @@ PF01222	ERG4_ERG24	dhcr7	XENTR_v900267351mg	dhcr7	XENTR_v900267352mg	lbr	tm7sf2	
 PF15063	TC1	tcim	LOC100145578
 PF14975	DUF4512	TEgg055k19.1
 PF01694	Rhomboid	rhbdf2	rhbdl2	tp63	rhbdf1	rhbdf2	rhbdl2	parl	rhbdd2	LOC100036610
-PF01204	Trehalase	
 PF03097	BRO1	cln8	brox	rhpn1	pdcd6ip	rhpn2	pdcd6ip	XENTR_v90028544mg	ptpn23	kri1	LOC100170608
 PF00828	Ribosomal_L27A	rpl27a	rpl27a	mrpl15	mrpl15
 PF15068	FAM101	rflna	rflnb
@@ -4271,7 +4019,6 @@ PF07984	NTP_transf_7	tent5b	tent5c	tent5c
 PF07574	SMC_Nse1	nsmce1	nsmce1
 PF04902	Nab1	nab1	nab1
 PF04874	Mak16	mak16
-PF16656	Pur_ac_phosph_N	
 PF00858	ASC	scnn1a-prov	scnn1d	scnn1a	scnn1b	scnn1a	scnn1g
 PF09771	Tmemb_18A	cnep1r1
 PF02186	TFIIE_beta	gtf2e2	gtf2e2
@@ -4290,7 +4037,6 @@ PF00757	Furin-like	ppp1r12c	igf1r
 PF08621	RPAP1_N	LOC100170469
 PF07859	Abhydrolase_3	aadacl3	XENTR_v90029431mg	afmid	lipe	nceh1	aadac	aadac
 PF10390	ELL	hook2
-PF16791	Connexin40_C	
 PF02928	zf-C5HC2	kdm5a	kdm5c	kdm5c
 PF15125	TMEM238	LOC105945276
 PF00733	Asn_synthase	asns	asns	asns	asns	asnsd1
@@ -4367,13 +4113,11 @@ PF17045	CEP63	deup1	deup1
 PF06512	Na_trans_assoc	scn3a	scn5a	scn5a	scn1a	scn8a
 PF08567	PH_TFIIH	XENTR_v900284363mg	gtf2h1
 PF00359	PTS_EIIA_2	pcyt1b
-PF10461	Peptidase_S68	
 PF15137	DUF4571	c21orf62	c21orf62
 PF03957	Jun	junb
 PF08072	BDHCT	TEgg056k20.1-001	blm
 PF01624	MutS_I	msh6	LOC100145639
 PF00638	Ran_BP1	ranbp3	ranbp1	nup50	ranbp2	ranbp3	nup50
-PF10430	Ig_Tie2_1	
 PF00664	ABC_membrane	abcc10	abcb6	abcb5	cstf2	abcc10	XENTR_v900275252mg	abcb8	XENTR_v900293182mg	cftr	LOC100493583	XB950724 [provisional:abcb1]	abcb1	abcb8	LOC100485969	LOC116406449	dbp	XENTR_v900293181mg	XENTR_v90027931mg	abcc4	XENTR_v90025866mg	LOC116406449	abcc9	qki	abcb6	abcc3	rnf130
 PF07289	BBL5	myf5	bbs5
 PF05793	TFIIF_alpha	gtf2f1	LOC100124929
@@ -4386,7 +4130,6 @@ PF14542	Acetyltransf_CG	natd1
 PF08409	DUF1736	tmtc1	tmtc3	tmtc2	tmtc4	LOC100145573	tmtc2
 PF03946	Ribosomal_L11_N	mrpl11	rpl12	XENTR_v900284824mg	rpl12
 PF04901	RAMP	ramp1	ramp3	ramp3
-PF10488	PP1c_bdg	
 PF03145	Sina	siah2	siah1
 PF01416	PseudoU_synth_1	trim55	pus3	pusl1	pus3
 PF04685	DUF608	LOC100145361
@@ -4422,11 +4165,9 @@ PF00176	SNF2_N	hells	hltf	rad54b	smarcal1	chd3	csrnp3	shprh	hltf	chd9	chd5	rad54
 PF08839	CDT1	cdt1
 PF05020	zf-NPL4	nploc4
 PF15990	UPF0767	smim12
-PF15785	SMG1	
 PF03109	ABC1	coq8a	adck1	adck1	coq8b	LOC100127866
 PF09286	Pro-kuma_activ	tpp1	pinx1
 PF00034	Cytochrom_C	cyct	cycs	cyct
-PF13846	DUF4196	
 PF00636	Ribonuclease_3	dicer1	Drosha	drosha
 PF04103	CD20	ms4a1	ms4a1	XB5734924	entrep2	LOC100125002	XB5734924	fam189a1
 PF02104	SURF1	surf1	ppp4r1
@@ -4435,7 +4176,6 @@ PF04567	RNA_pol_Rpb2_5	polr3b	polr2b	polr3b	polr3b
 PF04910	Tcf25	tcf25
 PF11911	DUF3429	tmem69
 PF14632	SPT6_acidic	proc
-PF11798	IMS_HHH	
 PF14811	TPD	cdin1
 PF06910	MEA1	XENTR_v90030168mg	mea1
 PF08288	PIGA	piga
@@ -4465,8 +4205,6 @@ PF15133	DUF4569	tasl
 PF08332	CaMKII_AD	camk2b	camk2b	camk2a	camk2g	camk2a	camk2d	camk2d	camk2g	camk2b
 PF08153	NGP1NT	gnl2
 PF14700	RPOL_N	nedd4
-PF05049	IIGP	
-PF15718	MNR	
 PF14678	FANCI_S4	fanci
 PF06859	Bin3	XENTR_v900300652mg
 PF01238	PMI_typeI	mpi
@@ -4478,7 +4216,6 @@ PF00647	EF1G	MGC76278	MGC76278	eef1g
 PF00777	Glyco_transf_29	clvs2	st3gal6	st6gal2	siat 8C	st6galnac5	st6galnac4	siat7E	st3gal8	st6gal2	st3gal3	st6gal1	st3gal3	st3gal5	st3gal4	st3gal1	myh4	st3gal4	st8sia4	st8sia1	st3gal6	st3gal3	st8sia2	st3gal2.1	st3gal4	st3gal8	st6galnac5	st6galnac3	siat7b	st6galnac6	st8sia5	3Gal-VI	st3gal1	st8sia6	st3gal5	st6galnac2	st6galnac2	st8sia6	aip
 PF16053	MRP-S34	mrps34
 PF04727	ELMO_CED12	elmod3	cyp2c19	elmod3	fbxo21	elmod1	elmo2
-PF00489	IL6	
 PF01922	SRP19	srp19	srp19
 PF14839	DOR	tp53inp1	tp53inp2
 PF01661	Macro	macroh2a1	XENTR_v90030021mg	XENTR_v90030216mg	lysmd4	parp9	XENTR_v90030022mg	XENTR_v90030725mg	parp9	macroh2a2
@@ -4497,13 +4234,10 @@ PF09809	MRP-L27	mrpl41
 PF03360	Glyco_transf_43	abhd13	b3gat1l	b3gat3	b3gat2	b3gat1l	b3gat3	b3gat3	b3gat2
 PF08743	Nse4_C	nsmce4a
 PF10221	DUF2151	ints13	XENTR_v90028206mg	ints13
-PF05029	TIMELESS_C	
 PF10512	Borealin	cdca8	cdca9
-PF06775	Seipin	
 PF03637	Mob1_phocein	mob2.1	mob3c	mob1a	mob1b	mob2.2	mob3b	mob3a	mob3a	mob1b	mob2.1	mob3b	mob4	mob2.1	mob3b
 PF08070	DTHCT	XENTR_v90028506mg	top2a	top2b
 PF14545	DBB	pik3ap1
-PF14904	FAM86	
 PF14857	TMEM151	tmem151b	tmem151b
 PF06628	Catalase-rel	LOC548403	cat.1	cat.2	cat.3
 PF09177	Syntaxin-6_N	asph	stx6	stx10
@@ -4530,11 +4264,9 @@ PF14735	HAUS4	haus4
 PF04113	Gpi16	pigt	pigt	pigt-prov
 PF09311	Rab5-bind	rabep1	rabep1
 PF00105	zf-C4	LOC779621	XENTR_v90026886mg	XENTR_v900284993mg	esr1	nr2f2	vdr	thrb	rxrb	nr2f1	esr2	esr1	nr4a2	nr5a2	rora	nr1h5	nr4a2	nr5a1	nr2e1	nr2e3	thrb	esrrb	thra	nr6a1	nr3c2	ppara	nr2f5	nr5a2	thrb	thrb	trmt1l	pgr	rxrg	ppard	nr3c1	nr1i2	nr2f1	esrrg	cnpy2	fam102a	esrrgr	ppara	nr1d1	PPARG	esr2	XENTR_v900262482mg	XENTR_v900284993mg	nr5a1	nr1h2	CAR	nr2c1	ftsj3	XENTR_v90028358mg	esr2	thra	nr1d2	rarg	cep55	rarb	nr4a1	rxrb	nr2c1	nr2f6	thrb	nr1d1	nr1d2	nr2e3	nr6a1
-PF13001	Ecm29	
 PF15007	CEP44	cep44
 PF14492	EFG_II	eef2.1	eef2.2	eef2.2	tiparp	eftud2	eftud2	eef2.1
 PF00614	PLDc	pld2	pld3	pld1	pld2
-PF03732	Retrotrans_gag	
 PF00989	PAS	sim2	clock	clock	hnrnpk	reep3	bcap29	AHR1	ncoa2	npas3	arnt2	brd7	npas3	ncoa1	arntl2	ncoa3	Bmal1	arnt	epas1	arnt2	cep170	ncoa1
 PF05041	Pecanex_C	acer1	pcnx1	pcnx2	pcnx4	LOC779541
 PF14997	CECR6_TMEM121	XENTR_v90028660mg
@@ -4557,10 +4289,8 @@ PF03473	MOSC	LOC100488668	mtarc1	XENTR_v900287372mg
 PF13696	zf-CCHC_2	rbbp6	zcchc24
 PF15949	DUF4757	dus4l	lmo7	adgrd1	LOC100127553
 PF14073	Cep57_CLD	cep57l1	cep57
-PF03600	CitMHS	
 PF10160	Tmemb_40	tpra1
 PF10169	Laps	llph
-PF16054	TMEM72	
 PF14749	Acyl-CoA_ox_N	acox2	acox1	LOC548740	acox1
 PF03521	Kv2channel	kcnb2
 PF08022	FAD_binding_8	duox2	cybb	nox1	cybb	nox4	nox5
@@ -4580,16 +4310,13 @@ PF11732	Thoc2	LOC100145575	thoc2
 PF15228	DAP	dapl1	rps6ka5
 PF00028	Cadherin	cdh17	XENTR_v90029135mg	cdh13	XENTR_v90028082mg	pcdh1	cdh13	XENTR_v900299696mg	clstn1	XENTR_v90029357mg	eef1d	cdh8	dsc3	LOC100135098	cdh13	XENTR_v900299692mg	cdh5	pcdh20	cdh7	cdh9	pcdh15	pcdhga11	cdh24	XENTR_v90029680mg	XENTR_v90028159mg	dcaf17	ccdc88a	pcdh8	XENTR_v900299698mg	cenpv	XENTR_v900299694mg	LOC100493106	XENTR_v900299691mg	cdh26	clstn2	cdh3	XENTR_v900308511mg	XENTR_v900299699mg	pcdhga3	pcdh18	XENTR_v900299695mg	LOC100125046	pcdh8.2	snrpf	pcdh15	cdh17	XENTR_v900299693mg	pcdhgc5	fat1	pcdh10	pcdh20	clstn1	pcdh15	pcdhga11	XENTR_v90030020mg	pcdhgc4	cdh10	cdh13	LOC100492690	pcdha13	dsc3	pcdh10	cdh4	cdh12	pir	olfml3	cdh18	prodh	XENTR_v90029142mg	XENTR_v90029296mg	pcdh7	pcdh8l	pcdhac2	wdr83	pcdhac2	XENTR_v90027985mg	pcdha13	cdh26	pcdh18	cdh11	pcdh7	pcdh9	ndufa9	XENTR_v9002996910mg	rptor	cdh2
 PF00389	2-Hacid_dh	MGC146703	ctbp2	grhpr.2	ctbp1	ctbp1	LOC594879	LOC594879	fam53c	ap1s3	grhpr.2	ctbp2	phgdh	phgdh	ctbp2l	LOC548683
-PF15961	DUF4764	
 PF12260	PIP49_C	pkdcc.1	XENTR_v900271372mg	dipk1b	dipk1a	pkdcc.2	dipk2a	dipk1c	pkdcc.1	dipk1a	XENTR_v900297471mg
 PF12371	TMEM131_like	tmem131l	tmem131
 PF00432	Prenyltrans	pggt1b	pggt1b	rabggtb	rabggtb	fntb	pggt1b	fntb	fntb
 PF13901	zf-RING_9	plekhm1	plekhm3	def8
-PF05161	MOFRL	
 PF06645	SPC12	spcs1	XENTR_v90030645mg	spcs1
 PF15376	DUF4603	LOC100135166	kiaa0232
 PF04136	Sec34	cog3
-PF03147	FDX-ACB	
 PF16454	PI3K_P85_iSH2	tas2r39	tas2r39	pik3r1
 PF05355	Apo-CII	apoc2
 PF16879	Sin3a_C	sin3a	sin3b
@@ -4597,7 +4324,6 @@ PF15255	CAP-ZIP_m	washc2a	rcsd1
 PF03133	TTL	XENTR_v90028456mg	srpx	ttll3	ttll5	ttl	ttll3	XENTR_v90026046mg	ttll5	ttll7	ttl	ttll4	ttll1	ttll11	ttll11	XB5950141	XB5950141 [provisional]	XENTR_v900294812mg	XENTR_v900294811mg	ttll7
 PF03735	ENT	LOC100136947
 PF04376	ATE_N	ate1
-PF15172	Prolactin_RP	
 PF06246	Isy1	XENTR_v90028839mg	TGas067j17.1-001	isy1
 PF05172	Nup35_RRM	nup35	gin1	nup35	gin1
 PF13369	Transglut_core2	fbxo21
@@ -4610,7 +4336,6 @@ PF15812	MREG	rpl21	mreg
 PF09748	Med10	med10
 PF13417	GST_N_3	clic4	gstt1	gstt1-prov	gsto2	gdap1l1	gstz1	CLIC3	LOC100498493	gdap1l1	rab7b	clic6	clic5	CLIC3	LOC100145591	gsto1	gsto2	gsto2	fech
 PF07575	Nucleopor_Nup85	nup85
-PF01967	MoaC	
 PF02824	TGS	tars1	tars3	drg2	drg1	tars1	drg2	drg1
 PF14973	TINF2_N	tinf2
 PF15559	DUF4660	TEgg012e12.1
@@ -4630,9 +4355,7 @@ PF06825	HSBP1	hsbp1
 PF00136	DNA_pol_B	rev3l	pold1	pola1	pole	pold1
 PF11176	Tma16	tma16
 PF15179	Myc_target_1	myct1
-PF16197	KAsynt_C_assoc	
 PF07809	RTP801_C	ddit4
-PF15482	CCER1	
 PF01210	NAD_Gly3P_dh_N	gpd1	gpd1l	gpd1
 PF01352	KRAB	znf721	XENTR_v900274111mg	XENTR_v90027106mg	XENTR_v90027114mg	znf630	znf268	XENTR_v900269721mg	XENTR_v90030623mg	lipc	LOC100036726	XENTR_v90027110mg	XENTR_v90030809mg	LOC100145450	znf71	atp5f1b	XB5729191	chga	znf84-like	znf800	znf250	MGC115716	XENTR_v90029329mg	TEgg023k12.1-001	znf180	LOC100158608	XENTR_v90029356mg	XENTR_v90029342mg	znf250	nd5	XENTR_v90028954mg	XB5729191	XENTR_v900267802mg	XENTR_v90027645mg
 PF07521	RMMBL	cpsf3	cpsf3	utp6	cpsf3	cpsf2
@@ -4649,7 +4372,6 @@ PF08583	Cmc1	cmc1	cmc2
 PF10209	DUF2340	ddx11
 PF10451	Stn1	stn1	stn1
 PF16748	INSC_LBD	XENTR_v900269892mg
-PF15109	TMEM125	
 PF08161	NUC173	rrp12	LOC447949	rrp12
 PF15539	CAF1-p150_C2	chaf1a
 PF00415	RCC1	ibtk	znf507	LOC100036667	nek8	herc3	XENTR_v90028870mg	rcc1	rccd1	rcbtb1	als2	nek9	rcc1	rcbtb2a	herc2	rcbtb2	rcbtb2	herc4	rcbtb1	fbxo24	sergef	rcc2	als2	LOC100135212	XENTR_v900280103mg	traf4	herc1	XENTR_v90030228mg	rcc1l	herc6	rcc1l	als2	herc4	nucks1	nek8
@@ -4661,7 +4383,6 @@ PF00756	Esterase	esd	esd
 PF16772	TERF2_RBM	terf2
 PF06159	DUF974	trappc13
 PF03876	SHS2_Rpb7-N	LOC100145052	mmd	polr3h	polr2g
-PF12231	Rif1_N	
 PF05063	MT-A70	mettl14	mettl3
 PF05351	GMP_PDE_delta	unc119	mief2
 PF12202	OSR1_C	wnk3	mbtps2	ighmbp2	XENTR_v900282342mg	XENTR_v900309568mg	wnk2	LOC100036683	XENTR_v900274021mg	ighmbp2
@@ -4678,7 +4399,6 @@ PF07831	PYNP_C	tymp	tymp
 PF02847	MA3	eif4g3	XENTR_v900300295mg	XENTR_v90027043mg	pdcd4	eif4g2	XENTR_v90027362mg	pdcd4	pdcd4	eif4g1	eif4g3	pdcd4	XENTR_v90030550mg
 PF14655	RAB3GAP2_N	rab3gap2	fam184a
 PF06372	Gemin6	gemin6
-PF06345	Drf_DAD	
 PF12254	DNA_pol_alpha_N	pola1
 PF16200	Band_7_C	XENTR_v900262811mg	XENTR_v900262811mg	stoml2
 PF06679	DUF1180	fam174	fam174c
@@ -4724,12 +4444,10 @@ PF16421	E2F_CC-MB	e2f5	e2f3	e2f3	e2f5	e2f4	e2f4
 PF06121	DUF959	col18a1
 PF08084	PROCT	prpf8
 PF00198	2-oxoacid_dh	XENTR_v900280741mg	dlst	dlat	dlst	dlat	dbt
-PF12372	DUF3652	
 PF15914	FAM193_C	fam193b	cdc25b
 PF00004	AAA	rfc4	psmc5	XENTR_v900301663mg	nsf	echdc2	psmc4	rhag	XENTR_v900289131mg	fignl2	vps4b	pex1	wrnip1	nav2	psmc3	vps4b	spg7	vcp	katna1	psmc1	spata5	katna1	XENTR_v90025803mg	XENTR_v90026289mg	chtf18	trip13	psmc2	MGC76296	spast	rfc4	ebna1bp2	spast	psmc3	nvl	vcp	afg3l2	psmc5	orc1	fignl1	LOC100158600	rfc5	atad1	katnal2	slc52a1	orc1	nav3	btbd19	rfc2	nav2	XENTR_v900273181mg	afg3l1	bcs1l	psmc2	atad3	LOC734048	psmc6	lonp2	XENTR_v900273181mg	orc1	spata5l1
 PF00849	PseudoU_synth_2	rpusd4	rpusd1	rpusd2	rpusd3
 PF00083	Sugar_tr	slc22a4	slc22a15	slc2a1	XENTR_v90027824mg	slc2a10	slc22a15.1	rpl26	slc22a5	slc2a15a	slc22a13	slc22a8l.1	slc2a13	slc2a12	n4bp3	spin1	XENTR_v900268651mg	slc22a15b	XENTR_v90025969mg	slc22a15.2	prpf39.1	slc2a5	XENTR_v900268652mg	XENTR_v900274031mg	nectin2	sv2a	slc2a2	slc2a7	slc2a6	slc22a16	KiSSR
-PF10650	zf-C3H1	
 PF14661	HAUS6_N	haus6
 PF15814	FAM199X	fam199x	fam199x
 PF16050	CDC73_N	hrpt2	cdc73
@@ -4744,7 +4462,6 @@ PF07678	A2M_comp	a2ml1	XENTR_v90025855mg	ptcd2	XENTR_v900261622mg	LOC101734099	X
 PF06677	Auto_anti-p27	znrd2
 PF10269	Tmemb_185A	tmem60	tmem185a	tmem203
 PF02761	Cbl_N2	cblb	cbl	cblb	cbl-prov
-PF10152	CCDC53	
 PF01223	Endonuclease_NS	XENTR_v900280271mg	enpp1	endog	XB5856157	enpp2	enpp2	enpp3	enpp3	XB5812267	XENTR_v900273382mg
 PF01608	I_LWEQ	tln2	rab9b	hip1	tln2
 PF10151	TMEM214	LOC548392	XENTR_v90030358mg	LOC548392
@@ -4762,7 +4479,6 @@ PF13871	Helicase_C_4	ak4	sbno1
 PF01424	R3H	parn	nkrf	mff	TEgg040n07.1-001	nfx1	ythdc2	r3hdm2	ythdc2	nkrf	LOC779469	r3hdm2
 PF02854	MIF4G	pnhd	mif4gd	eif4g2	paip1	XENTR_v900300295mg	XENTR_v900300294mg	eif4g1	eif4g3	ncbp1	LOC100158573	XENTR_v90027043mg	LOC100135096	upf2	ncbp1	ctif	eif4g3
 PF13243	SQHop_cyclase_C	lss	lss
-PF10224	DUF2205	
 PF00188	CAP	crispl	crisp1.7	crisp1.3	crisp2-like	crispld2	crisp1.7	LOC100127722	crispl	XENTR_v90029030mg	crisp1.7	crisp-a	XENTR_v90026141mg	glipr2	glipr2
 PF05276	SH3BP5	sh3bp5	rtp3	sh3bp5l
 PF08938	HBS1_N	hbs1l	hbs1l
@@ -4787,12 +4503,10 @@ PF10351	Apt1	ptn
 PF02953	zf-Tim10_DDP	timm8b	timm13	timm9	timm10
 PF01590	GAF	pde11a	pde6b	pde5a	pde2a	pde5a	pde10a	pde2a	pde2a
 PF16647	GCSF	XENTR_v90028490mg	XENTR_v90028490mg
-PF16332	DUF4962	
 PF00651	BTB	ibtk	gan	zbtb49	klhl5	klhl41	zbtb14	zbtb18	bcl6	hivep3	klhl24	zbtb9	rcbtb1	klhl8	atp10d	zfn295	XENTR_v90029283mg	bach1	rcbtb2	btbd17	enc1	spopl	klhl18	dad1	klhl36	zbtb5	klhl14	zbtb8a.2	cep170b	klhl22	klhl8	btbd6	bklhd5	znf507	kbtbd2	mvb12b	spop	zbtb34	zbtb11	ccdc14	kbtbd8	mynn	klhl25	zbtb26	gzf1	lztr1	hic2	klhl10	ipp	rhobtb1	pou5f3.1	gmcl1	klhl34	zbtb39	klhl32	klhl40	rcbtb2a	klhl4	tmem35b	gzf1	klhl23	klhl38	cdkl5	btbd9	zbtb47	zbtb41	klhl7	marchf9	XENTR_v90030644mg	zbtb21	hic1	btbd7	btbd14b	loxl2	klhl40	btbd6	keap1	zbtb44	hivep3	slx4	kbtbd4	klhl32	enc1.2	klhl13	klhl12	klhl17	XENTR_v90027883mg	zbtb44	lztr1	zbtb37	mynn	zbtb43	zbtb25	klhl6	zbtb11	ap1g2	gan	kbtbd3	nacc1	zbtb18	klhl10	gan	zbtb45	klhl4	LOC100037891	zbtb5	klhl21	bcl6	klhl31	zbtb6	abtb1	ifngr1	klhl20	ankfy1	klhl30	zbtb8a	rcbtb2	XENTR_v90025892mg	btbd3	nacc2	zbtb17	rhobtb3	btbd9	XENTR_v90030619mg	zbtb11	c1galt1c1	klhl13	XENTR_v90030210mg	zbtb2	rcbtb1	zbtb3	klhl20
 PF00287	Na_K-ATPase	atp1b4	atp4b	XENTR_v90027188mg	atp1b3	atp1b2	atp1b1
 PF13878	zf-C2H2_3	esco2
 PF09066	B2-adapt-app_C	ap2b1	ap4b1	ap2b1	ap1b1
-PF14619	SnAC	
 PF02492	cobW	zng1b	cbwd2
 PF01463	LRRCT	slit1	slit3	slit3	slit2
 PF15912	VIR_N	specc1l
@@ -4834,7 +4548,6 @@ PF12234	Rav1p_C	dmxl2	dmxl2	dmxl2	dmxl1	itpk1
 PF13360	PQQ_2	emc1	XENTR_v90028426mg
 PF11601	Shal-type	kcnd3	XENTR_v900310061mg
 PF03630	Fumble	pank2	pank4	pank3	pank4
-PF01642	MM_CoA_mutase	
 PF01053	Cys_Met_Meta_PP	jup	cth
 PF09128	RGS-like	arhgef1	arhgef12	LOC100037905	arhgef1	arhgef12	arhgef11	LOC100037905
 PF16275	SF1-HH	sf1	sf1
@@ -4845,7 +4558,6 @@ PF03501	S10_plectin	rps10	XENTR_v90027583mg	LOC549472	rps10
 PF00623	RNA_pol_Rpb1_2	polr3a	XENTR_v900284102mg	polr3a	polr1a	polr1a	polr2a	LOC100158635
 PF00249	Myb_DNA-binding	stard4	rcor3	rcor3	espn	mta1	smarcc1	mier3	mysm1	dnajc2	terf1	terf2	mybl1	dnajc1	rcor2	rcor1	tada2b	smarcc2	ndrg4	mybl2	mier3	myb	ncor1	rcor3	smarcc2	rcor1	rcor2	pou2f1	mier1	mta1	ncor1	dmtf1	mysm1
 PF13281	DUF4071	tbc1d4	map3k15
-PF16213	DCB	
 PF16923	Glyco_hydro_63N	gcs1-prov	mogs
 PF12140	SLED	sfmbt2	scml4	scml2	scmh1	scmh1	rasl12
 PF16282	SANT_DAMP1_like	dmap1
@@ -4891,7 +4603,6 @@ PF03835	Rad4	LOC100145629
 PF16123	HAGH_C	pnkd	haghl	pnkd	haghl	hagh	hagh
 PF14777	BBIP10	XENTR_v90027981mg
 PF00396	Granulin	grn	GRN	XB5961849	grn	grn
-PF05612	Leg1	
 PF01735	PLA2_B	pla2g4d	jmjd7-pla2g4b	pla2g4a	pla2g4f
 PF07035	Mic1	rmc1	rmc1
 PF16420	ATG7_N	atg7
@@ -4913,7 +4624,6 @@ PF02800	Gp_dh_C	gapdh	gapdh
 PF15613	WSD	tspan2	baz2a	baz1b	baz2b
 PF15292	Treslin_N	cep44
 PF01274	Malate_synthase	LOC100145011
-PF12733	Cadherin-like	
 PF05019	Coq4	coq4	coq4
 PF12308	Noelin-1	XENTR_v900268921mg	olfm3	arl3l2	olfm2	olfm1
 PF00365	PFK	pfkp	pfkp	pfkm
@@ -4979,7 +4689,6 @@ PF08083	PROCN	prpf8
 PF00681	Plectin	evpl	LOC779606	XENTR_v90028848mg	XENTR_v90028848mg	macf1	XENTR_v90029423mg	evpl
 PF05902	4_1_CTD	epb41	epb4.1l3-prov	epb41l1	epb4.1l3	epb41l3	epb41l3	epb41l2
 PF07738	Sad1_UNC	sun1	suco	hectd1	hectd1	LOC100127596
-PF04869	Uso1_p115_head	
 PF02267	Rib_hydrolayse	cd38	cd38
 PF13325	MCRS_N	znf519
 PF01571	GCV_T	pdcd4	XENTR_v900283965mg	XENTR_v900283961mg	pdpr	sardh
@@ -5001,7 +4710,6 @@ PF15690	NRIP1_repr_4	nrip1
 PF04692	PDGF_N	pdgfb	pdgfa	pdgfb	pdgfa	znf410
 PF16757	Fucosidase_C	fuca1	fuca2	fuca2	fuca1
 PF12063	DUF3543	ulk1	ulk1
-PF08641	Mis14	
 PF04762	IKI3	elp1
 PF07542	ATP12	atpaf2
 PF05937	EB1_binding	mrps14
@@ -5015,29 +4723,24 @@ PF12053	DUF3534	pard3b	hal.1	hal.2	pard3b	hal.1	hal.2	pard3b
 PF03690	UPF0160	myg1	myg1	LOC594885
 PF10148	SCHIP-1	schip1	schip1
 PF00618	RasGEF_N	LOC733953	rasgef1b	rasgef1a	sos1	rasgef1b	cldnd1	rgl3	rapgef3	rasgef1b	ldlrad4	rasgef1a	ralgds	rapgef5	ralgds	ralgds	rapgef6	rapgef6	rapgef2	atp5mk	rgl2	sav1	ldlrad4	rapgef1	XENTR_v900284962mg	atp5mk	kndc1
-PF07569	Hira	
 PF06566	Chon_Sulph_att	XENTR_v90027407mg
 PF05292	MCD	mlycd
-PF02837	Glyco_hydro_2_N	
 PF07711	RabGGT_insert	rabggta
 PF07160	SKA1	ska1	ska1
 PF05478	Prominin	XENTR_v90026018mg	prom1	prom1	LOC100488690	LOC100488690	prom1	LOC100488690	prom2	prom2
 PF08597	eIF3_subunit	eif3j
-PF03969	AFG1_ATPase	
 PF08801	Nucleoporin_N	dctn5	nup155
 PF00452	Bcl-2	bcl2l2	bcl2l1	apool	bcl2l2	XENTR_v90028650mg	bax	bcl2l13-prov	bmp2
 PF01282	Ribosomal_S24e	rps24	rps24
 PF00723	Glyco_hydro_15	slc25a3	phkb	phka1	phka2	phka1p1
 PF12925	APP_E2	XENTR_v900283787mg	app	app	aplp2	aplp1	aplp1
 PF11781	zf-RRN7	taf1b
-PF15550	Draxin	
 PF05191	ADK_lid	ak2	ak4	dedd2	ak3
 PF11315	Med30	med30
 PF00439	Bromodomain	brd9	kat2b	ep300	brd2	brd9	brpf1	brd3	cecr2	brd2	phf5a	zmynd11	brd3	zmynd8	ep300	XENTR_v9002869911mg	kri1	ppp2r3b	XENTR_v900286994mg	XENTR_v900275792mg	XENTR_v900275793mg	LOC100145600	brd2	trim33	XENTR_v900260561mg	XENTR_v900286995mg	XENTR_v9002869910mg	XENTR_v900286998mg	phip	LOC779589	tspan2	XENTR_v90026882mg	brd4	brd2	LOC100144959	brd8	aasdhppt	baz2b	zmynd11	brdt	brwd1	brd1	brwd3	brd4	XENTR_v90028654mg	trim24	zmynd8	brd9	brd3	brd7	brd3	brpf3	brd7	baz2a	baz1b	pbrm1	brd7	polg
 PF03464	eRF1_2	pelo	srgap2	pelo	pelo	etf1
 PF02732	ERCC4	eme2	upf3b	eme1	mus81
 PF01883	FeS_assembly_P	ciao2b	LOC548360	ciao2b
-PF09038	53-BP1_Tudor	
 PF13890	Rab3-GTPase_cat	ehd1
 PF08613	Cyclin	cnppd1	MGC75999
 PF03071	GNT-I	mgat1	pomgnt1	pomgnt1	mgat1	pomgnt1
@@ -5053,8 +4756,6 @@ PF08240	ADH_N	adh1	adh1	arhgdig	ADH1C	cryz	rtn4ip1	mecr	vat1l	XB5816429 [provisi
 PF00405	Transferrin	depdc5	LOC100158653	tf	tf
 PF06465	DUF1087	chd5	chd3	chd4
 PF00149	Metallophos	ppp1ca	ppp3cb	ppef1	ppp3cc	pp5c	ppp2cb	dbr1	ppp1cc	acp5	mpped2	ppp4c	acp5	ogn	csf1	smpd1	XENTR_v90026443mg	ppp4c	adgrl1	ppp3ca	cpped1	acp5	ppp1cb	TEgg040c14.1-001	smpdl3b	mre11	ppp3cb	ppp5c	ppp1cc	ppp5c	ppp2cb	mre11	ppp3cc	ppp6c	cpped1	smpdl3a	mre11	adprm
-PF09034	TRADD_N	
-PF03146	NtA	
 PF01110	CNTF	clcf1	clcf1
 PF15625	CC2D2AN-C2	cc2d2a
 PF08145	BOP1NT	bop1	XENTR_v90028138mg

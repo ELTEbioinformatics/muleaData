@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: https://www.ebi.ac.uk/interpro/ 
- #source_version: 35
- #source_last_update:02-2023
- #gmt_version:1
- #gmt_entry_names:PFAM ID
 PF08205	C2-set_2	zgc:136589	nectin4a	nphs1l	cadm1b	sc:d0835	cadm1a	si:ch73-22o12.1	alcama	si:dkey-31e10.5	sc:d816	zgc:136589	alcama	cadm1a	si:dkey-238d18.5	alcam	kirrel3l	zgc:123297	cadm4	cabz01076234.2	cadm2b	zgc:172122	igsf5a	cadm1a	alcamb	alcam	si:dkey-31e10.1	si:ch211-222f23.6	sc:d0664	si:ch73-380l3.2	sc:d189	hhla2a.2	kirrelb	kirrel	si:ch211-141e20.2	zgc:153911	kirrel3a	cadm1a	zgc:154034	alcamb	cadm2b	si:dkey-281i8.1	cadm2a	cadm2a	mcama	nectin1a	alcama	zgc:175177	zgc:101704	si:ch211-195h23.2	nphs1	pvrl2l	alcama	zgc:158279	igsf4d	nlcam	crtam	si:ch73-208g10.1	mcam	mcamb	cadm1a	si:ch211-149e23.4	alcamb	cadm2a	nectin3a	zgc:172122	sc:d189	si:ch211-67f13.8	mcama	cd146	kirrel	alcama	LOC103910452	nphs1	nectin1a	nectin3	zgc:113035	cadm2b	cadm3	pvrl3b	kirrel3a	zmp:0000000650	si:dkey-31e10.1	cadm2a	nectin4a	kirrel	alcama	si:ch211-222f23.6	sb:cb1043	nectin1b	nectin4	zgc:101704	cadm1a	LOC101884775	alcama	kirrel3l	si:dkey-31e10.1	pvrl1b	si:dkey-225e11.1	nphs1	kirrel3	si:ch211-214p13.3	CH211-190H2.4	cadm1a	si:dkey-238d18.5	sc:d0645	mcamb	cd276	alcamb	si:dkey-31e10.1	si:dkey-238d18.5	zgc:162154	kirrel3a	si:dkey-31e10.1	pvrl1a	si:ch211-141e20.2	nectin1a
 PF07714	PK_Tyr_Ser-Thr	ros1	epha6	ARAF	tyro3	acvrl1	zgc:110498	ntrk1	si:dkey-37g12.1	ptk2ba	flt1b	igf1ra	bltk	zgc:92124	ltk	si:ch211-45c16.2	map3k7	epha2b	gucy2ca	erbb2	csf1ra	mst1rb	ARAF	kita	map3k20a	ARAF	si:cabz01078036.1	zgc:153964	ddr2l	syk	acvr1	epha2a	gucy2ca	fgfr2	LOC405768	RAF1	si:ch73-206d17.1	c-raf	abl2	si:dkey-37g12.1	rtk2	tnk2a	si:ch73-383l1.1	txk	itk	ptk7a	pdgfrb	ptk2ab	fgfr1b	gc3	igf1ra	SI:dZ46M7.2	zgc:65842	IRb	epha4l	limk1	raf1b	flt4	epha7	ptk2ab	erbb3	csf1ra	FGFR1b	tyk2	fer	tie1	ksr2	ror2	ptk2ab	csf1ra	abl1	IRa	cmet	fgfr3	ntrk3b	fgfr3	jak2a	adgrg1	epha2a	erbb3b	ksr1b	insra	aatkb	styk1a	npr1b	zgc:158349	gucy2ca	RAF1	ephb4b	epha3	tgfbr2a	tnni3k	kitb	CH211-193C2.1-001	ephb1	npr2	zak	map3k7	aatka	lmtk3	jak2a	si:busm1-57f23.3	irak4	pdgfrb2	c-raf	pdgfra	zgc:136695	ephb4a	ddr2b	fynb	ek1	tnk2b	ntrk2a	fgfr1b	OTTDARP00000001558	wu:fc62d03	zgc:110383	ntrk3a	ryk	mst1rb	erbb4a	kdr	LOC557109	jak2b	jak1	nrbp2a	tie1	ltk	trk	fgfr2	pdgfra	src	zgc:110612	ephb1	gc2	ephb3a	nrbp2b	flt4	fer	erbb3b	zgc:77370	ptk2ba	BRAF	flt3	igf1rb	ephb4b	ankk1	epha4a	egfra	ntrk1	zgc:92074	pdgfra	ephb3	ror1	kdrl	fgfr-2	ntrk2b	si:ch73-40a2.1	wu:fj98e12	ephb6	ntrk2a	srms	yes1	zgc:154049	c-kit	insra	fer	ddr2a	sGC	tnk2a	map3k10	kitb	epha3	styk1a	pdgfra	itk	ddr1	tie2	si:ch211-45c16.2	TrkC2	c-ret	src	fgfr1a	raf1a	ret	limk1	erbb3a	flt1	bmpr1a	erbb3b	frk	zgc:92074	musk	fer	map3k7	tnk1	egfr	jak1	pdgfra	si:dkey-37g12.1	pomk	zgc:63601	ripk3	raf1a	kita	BRAF	zgc:162952	epha4a	fgfr4	tie1	gucy2d	igf1ra	fak1b	ephb2b	egfra	ddr2l	si:ch211-167j9.5	ltk	erbb4a	si:ch211-120p12.3	ptk2ab	irak4	yrk	hck	ek1	tec	erbb4b	ptk2b	fgfr4	fyna	acvr2ba	fc51g03	epha6	epha4a	btk	limk1b	igf1rb	tie1	axl	jak2	epha7	sierrabraf	erbB4b	tie2	erbb4	epha4a	csf1r	si:dkeyp-75h12.2	ARAF	fgfr4	bmpr1ba	ddr1	ripk1l	ephb2a	si:ch211-45c16.2	tyro3	ret1	ephb2b	fgfr2	insrb	fgfr3	jak4	ddr2l	map3k10	ksr1b	jak3	fes	wu:fa97c09	npr1b	gucy2d	gucy2ca	epha4b	ripk1l	jak2b	zap70	yrk	btk	ek1	tgfbr2	tek	ksr2	lrrk1	ddr1	si:ch73-340m8.2	cmet	gucy2ca	lmtk2	ntrk1	nrbp2a	zgc:172219	bmpr1bb	erbb3b	npr2	styk1	VEGFR1	syk	zgc:113162	fer	ksr2	gc1	IRa	igf1ra	epha4a	fgfr2	zgc:154019	egfra	BRAF	ror1	ptk2	epha4l	acvrl1	ntrk2b	raf1a	dtk	gucy2d	syk	csf1rb	ptk2ab	pdgfra	map3k20a	pdgfra-2	mertka	zgc:158381	zgc:136731	fgfr2	alk	alk1	fgfr3	gucy2ca	erbb4b	ptk2ab	gucy2ca	rip1	fgfr2	ephb4a	fgfr2	ptk2.2	zgc:158349	map3k9	ksr1a	ltk	ptk2ba	matk	RETGC-2	v-erb-b	BRAF	ksr1b	igf1rb	LOC405768	ddr2b	ltk	kdrl	cb246	tec	zgc:113162	fgfr2	ntrk3a	mst1rb	gucy2f	epha4a	jak3	map3k21	RETGC-1	erbb3a	flt4	tnk1	frk	csf1rb	abl2	braf	erbb4a	alk8	hck	matk	ptk2aa	fes	ltk	pyk2	ptk2aa	ephb2a	igf1ra	ptk2.1	TAK1b	igf1ra	RAF1	si:ch73-383l1.1	fgfr3	ptk2ab	map3k7	kitb	erbb4b	ARAF	mst1ra	fgfr3	map3k21	nrbp2b	pdgfrb	epha4a	abl2	fj21h04	ddr2l	csf1r	tyk2	ros1	zgc:55553	csf1ra	fgfr3	gucy2g	ptk6a	epha7	zgc:136695	gucy2cb	jak1	gucy2d	tie1	igf1rb	bmpr1b	src	jak2b	lrrk1	fj84d04	jak3	tgfbr2b	epha5	itk	tesk1a	si:busm1-122b7.1	tie1	ksr1b	EGFR15	ptk7a	epha6	JAK2bCA	igf1ra	ksr1a	rtk6	flt4	D249	rtk6	ret1	alk	abl1	IRb	ephb2a	fgfr4	fb93e10	fgfr4	irak4	BMPR-IA	axl
 PF02709	Glyco_transf_7C	b4galt6	si:dkey-199f5.8	b4galt7	b4galt1	fk70b01	zgc:154116	b4galt3	b4galt6	b4galt1l	zgc:55730	LOC564857	b4galt4	b4galt7	b4galt5	zgc:110571	zgc:101780	si:dkey-199f5.8	si:ch211-261p7.4	b4galt7	b4galt3
@@ -338,7 +332,6 @@ PF13764	E3_UbLigase_R4	ubr4	ubr4	ubr4	ubr4
 PF03920	TLE_N	si:ch211-81i17.1	tle2c	tle3a	tle3a	tle2c	tle3b	tle3a	tle2b	LOC553435	tle3b	tle3a	aes	tle5	tle2b	tle3b	gro2	chico
 PF15363	DUF4596	wu:fb95e10	si:ch211-214c7.4	si:ch211-214c7.4	btbd8
 PF01023	S_100	im:7139587	s100s	si:dkey-110p14.2	s100a4a	s100v2	si:dkey-78d16.1	s100a11	s100v1	zgc:101880	s100t	s100s	wu:fj01a12	S100A1	s100t	zgc:91995	S100A1	zgc:56142	s100s	Icn2	s100w
-PF08391	Ly49	
 PF12533	Neuro_bHLH	neurod4	neurod1	neurod2	neurod6b	neurod	neurod2	neurod6b	atoh2b	neurod4	neurod6a	ath3
 PF17913	FHA_2	aptx	wu:fe48d04	pnkp	aptx	aplf	pnkp	aplf	fe48d04	aptx
 PF00106	adh_short	rdh12l	zgc:92161	rdh14b	zgc:153441	dhrs13	dhrs7b	sdr16c5b	zmp:0000001048	hsd17b12b	bdh1	si:dkey-12e7.4	zgc:65997	zgc:64019	hsd17b1	sdr16c5a	kdsr	zgc:112146	dhrs13a.1	hsd17b4	dhrsx	LOC792137	si:dkey-73n8.3	zgc:112332	dhrs13a.1	dhrs11b.2	hsdl1	zgc:113142	rdh10a	hsd11b1lb	si:dkey-73n8.3	zgc:92430	si:ch211-284e13.2	zgc:163083	hsd17b12a	zgc:110339	si:dkey-174m14.2	si:ch211-89f22.2	dhrs13a.3	dhrsx	zgc:109982	flj13639	si:dkey-94e7.2	dhrs11b.2	qdprb.2	hsd17b2	zgc:55545	fd58d01	si:dkey-174m14.2	hadh2	zgc:100754	si:dkey-12e7.4	dhrsx	rdh1	dhrs7ca	fj39b10	hsd17b3	si:dkey-73n8.3	rdh12	wwox	zgc:77077	dhrsx	rdh20	rdh8b	hsd11b2	zgc:153724	dhrs11a	rdh5	zgc:56585	rdh5	dhrs7ca	rdh14a	dhrs12lb	dhrs4	zfprRDH2	fd55e03	zgc:123284	si:dkey-23o4.6	zgc:92161	rdh1	hpgd	rdh8	zgc:91936	si:dkey-238o13.4	kdsr	hsd17b12b	rdh10a	rdh10a	zgc:110339	hsd17b2	zgc:112146	dhrs13l1	spr	zgc:163053	zgc:64106	dhrs7cb	dcxr	rdh10b	hsd17b12a	rdh10	36K	zgc:158868	RDHB	zgc:112332	hsd17b4	hsd20b2	zgc:158868	zgc:77906	zgc:158868	dcxr	wu:fa92b03	LOC407663	dhrs3	zgc:65997	zgc:153679	zgc:64106	im:6901729	si:ch211-284e13.2	wwox	dhrs7b	si:dkey-221h15.4	rdh12l	si:dkey-94e7.2	kdsr	zgc:103654	si:dkey-174n20.1	zgc:86794	hsdl2	zgc:153977	hsd11b2	zgc:101705	zgc:103457	zgc:65997	RDHA	hsd11b1l	hsd17b1	dhrs11b.2	dhrs13b	dhrs12	rdh8l	dhrs11b	spra	cbr1l	cbr1	dhrs7	si:dkey-200h23.4	zgc:154087	hsd11b3	HSD17B1	si:dkey-174m14.2	hsd17b3	si:zc14a17.8	im:6901729	LOC795445	dhrs9	si:ch211-107o10.3	si:ch73-186j5.2	hsdl2	zgc:123284	zgc:163083	dhrs7ca	zgc:76925	si:dkey-23o4.6	zgc:101565	hsd17b2	dhrs13b.1	spra	dhrs3b	rdh10b	sdr16c5a	dhrs11b.1	sdr16c5	zgc:77077	dhrs11a
@@ -1842,7 +1835,6 @@ PF12901	SUZ-C	csde1	csde1	szrd1	csde1	zgc:66107	csde1	larp6a
 PF15880	NDUFV3	ndufv3	ndufv3
 PF04916	Phospholip_B	plbd1a	plbd1b	plbd2	plbd1b	plbd2	si:ch73-139e5.2	si:ch73-139e5.2	si:ch73-139e5.2	im:7138859
 PF03732	Retrotrans_gag	zgc:165409	zgc:165409	zgc:165409
-PF17917	RT_RNaseH	
 PF03144	GTP_EFTU_D2	eftud2	EEF2	eif2s3	eef2a.1	eftud2	eef1a1l1	hbs1l	eftud2	hbs1l	efl1	wu:fi12b10	gtpbp2	gtpbp2b	zgc:110335	eef1a1b	zgc:109885	eef2a.1	eef1a1l1	eftud2	DKEY-268M13.2-001	zgc:66214	eef1a2	gtpbp2b	eif2s3	hbs1l	eef1a1l1	eef2l	zgc:110766	zgc:73138	hbs1l	eef2b	zgc:123265	zgc:92085	eef1a1l2	eef2a.2	eef1a1l1	eef2l2	gfm1	eif5b	eefsec	gfm2	eef1a1l2	si:dkey-37o8.1	hbs1l	eef2a.2	eef1a	eef2a.1
 PF03143	GTP_EFTU_D3	eef1a1l1	hbs1l	gspt1	hbs1l	gspt1	wu:fi12b10	zgc:110335	eef1a1b	zgc:109885	eef1a1l1	eef1a2	eef1a1l1	hbs1l	eef1a1l1	zgc:110766	zgc:73138	hbs1l	eef1a1l2	zgc:92085	eef1a1l1	eef1a1l2	si:dkey-37o8.1	hbs1l	eef1a	zgc:91975
 PF06459	RR_TM4-6	ryr3	ryr2b	ryr2a	ryr1a	ryr3	ryr2a	ryr1b	ryr3	ryr1a	im:7137738	ryr2a	ryr2b	ryr2b	ryr2a	ryr2b
@@ -2040,7 +2032,6 @@ PF03509	Connexin50	gja8b	gja8b	cx44.1	gja8a	cx50.5
 PF05724	TPMT	tpmt.2	si:ch73-345a19.3	tpmt.1	si:ch73-345a19.3	tpmt.1	tpmt	tpmt.1
 PF14671	DSPn	cdc14ab	cdc14ab	CDC14A	cdc14b	cdc14b	cdc14b	cdc14a	cdc14ab	cdc14ab	cdc14b	cdc14aa
 PF04908	SH3BGR	zgc:100896	si:dkey-194c21.3	zgc:153284	zgc:153284	zgc:153284	sh3bgr	sh3bgr	sh3bgrl	sh3bgrl2
-PF09607	BrkDBD	
 PF03184	DDE_1	si:rp71-1d10.8
 PF03221	HTH_Tnp_Tc5	pogzb	pogzb	LOC100150296	pogzb	pogzb	si:dkey-23o4.5
 PF05715	zf-piccolo	pcloa	pclob	pcloa	pclob	pcloa	bsnb	pcloa	bsnb	pcloa	bsnb	pclob	pclob	bsnb	pcloa
@@ -2557,7 +2548,6 @@ PF10561	UPF0565	zgc:153521	zgc:153521	zgc:153521
 PF10534	CRIC_ras_sig	cnksr2a	cnksr2a	cnksr2b	si:ch211-26b3.4	cnksr3	cnksr2a	cnksr1	cnksr2b	cnksr1	zgc:77200
 PF14554	VEGF_C	vegfab	vegfab	vegfab	vegfaa	vegfab	vegfab	si:dkey-14d8.3	vegfab
 PF15455	Pro-rich_19	si:dkey-250k15.4	si:dkey-250k15.4	DKEY-81P7.6-001
-PF16704	Rab_bind	
 PF00730	HhH-GPD	LOC100008368	zgc:158858	mutyh	ogg1	LOC793885	NTHL1	ogg1
 PF07934	OGG_N	zgc:158858	LOC793885	ogg1	ogg1
 PF01119	DNA_mis_repair	pms1	mlh1	pms1	pms1	PMSL1	pms1	pms2	zgc:66301	pms2	mlh3	zp3a.2
@@ -2624,7 +2614,6 @@ PF04557	tRNA_synt_1c_R2	qars	zgc:56395	qars	qars1
 PF16078	2-oxogl_dehyd_N	ogdha	ogdha	ogdhl	ogdhb	ogdh	ogdha	ogdha	ogdhb
 PF16870	OxoGdeHyase_C	dhtkd1	LOC564552	dhtkd1	ogdhl	ogdhb	ogdhb	ogdha	ogdha	ogdha
 PF13918	PLDc_3	pld5	pld5	pld3	si:ch211-194e18.2	si:ch211-194e18.2	pld5	pld7
-PF16297	DUF4939	
 PF04433	SWIRM	kdm1a	wu:fc51a02	kdm1a	smarcc1a	Smarcc1	aof2	kdm1a	tada2a	mysm1	kdm1a	tada2a	smarcc2	smarcc2	si:dkeyp-114f9.3	smarcc1b	mysm1	tada2a	zgc:154057
 PF05208	ALG3	alg3	zgc:112396	alg3
 PF16472	DUF5050	lrp1ba	lrp2a	lrp1aa	lrp1ab	im:680590	lrp1ba	lrp1aa	lrp2a
@@ -2849,7 +2838,6 @@ PF16418	CNOT1_HEAT	cnot1	cnot1	cnot1
 PF16417	CNOT1_TTP_bind	cnot1	cnot1	cnot1
 PF12842	DUF3819	cnot1	cnot1	cnot1	cnot1
 PF04054	Not1	cnot1	cnot1	cnot1
-PF14975	DUF4512	
 PF10268	Tmemb_161AB	tmem161b	tmem161a	tmem161a
 PF15269	zf-C2H2_7	prr35	znf750
 PF15110	TMEM141	tmem141
@@ -3170,7 +3158,6 @@ PF01275	Myelin_PLP	zgc:77575	gpm6ba	DMalpha2a	gm6a	gpm6bb	DMbeta2	zgc:91786	zgc:
 PF15027	DUF4525	si:ch211-155k24.3	zgc:136939
 PF06068	TIP49	ruvbl2	RUVBL1	ruvbl1	ruvbl2	TIP49
 PF17856	TIP49_C	ruvbl2	RUVBL1	ruvbl1	ruvbl2	TIP49
-PF14529	Exo_endo_phos_2	
 PF01189	Methyltr_RsmB-F	wu:fc65a08	si:dkey-91i17.1	nop2	nsun5	nsun6	nsun2	zgc:101708	nsun3	nsun5	zgc:66176	si:dkey-91i17.1	nsun3	CH73-222E2.2	zgc:66176
 PF08156	NOP5NT	nop58	NOL5A	nop56	nop56	nop58	zgc:65841	nop58	nol5	nol5a
 PF16577	UBA_5	sqstm1	sb:cb621
@@ -5006,7 +4993,6 @@ PF10224	DUF2205	scoca	scoca	scoca	scocb	scocb
 PF15552	DUF4657	si:ch211-250c4.3
 PF11768	Frtz	wdpcp	wdpcp	wdpcp
 PF15003	HAUS2	haus2	si:dkey-170l10.1	haus2
-PF15173	FAM180	
 PF18613	TrkA_TMD	ntrk1	ntrk1	TrkA	ntrk1
 PF03371	PRP38	prpf38a	prpf38b	prpf38b	prpf38b	prpf38a
 PF12871	PRP38_assoc	prpf38a	prpf38a
@@ -5201,7 +5187,6 @@ PF14676	FANCI_S2	fanci	zgc:152941
 PF14677	FANCI_S3	fanci	zgc:152941
 PF15246	NCKAP5	nckap5l
 PF18455	GBR2_CC	gabbr2
-PF08040	NADH_oxidored	
 PF09431	DUF2013	nckipsd	nckipsd
 PF15374	CCDC71L	si:dkeyp-87e7.4	ccdc71
 PF13932	GIDA_assoc	zgc:158782	mto1
@@ -5210,7 +5195,6 @@ PF03297	Ribosomal_S25	rps25	rps25
 PF14796	AP3B1_C	ap3b2	LOC563316	ap3b2	ap3b1a
 PF16164	VWA_N2	vwf
 PF06644	ATP11	atpaf1	atpaf1	atpaf1
-PF13874	Nup54	
 PF07228	SpoIIE	pptc7	pptc7a	pptc7b
 PF11111	CENP-M	pane1	cenpm	pane1
 PF02958	EcKinase	pkdc
@@ -5234,14 +5218,12 @@ PF09785	Prp31_C	prpf31	prpf31
 PF02480	Herpes_gE	zmp:0000000652
 PF04366	Ysc84	sh3yl1	sh3yl1	sh3yl1
 PF01896	DNA_primase_S	prim1	prim1	fa12c04
-PF07720	TPR_3	
 PF14542	Acetyltransf_CG	natd1	im:6904045
 PF10185	Mesd	mesd	mesd	mesd	mesd
 PF00453	Ribosomal_L20	mrpl20	wu:fa27e09
 PF03987	Autophagy_act_C	atg3	im:7153729	atg10	atg10
 PF15372	DUF4600	ccdc169
 PF03694	Erg28	erg28
-PF04886	PT	
 PF05197	TRIC	tmem38b	tmem38a
 PF10192	GpcrRhopsn4	tmem145	tmem145	gpr180
 PF15454	LAMTOR	lamtor1
@@ -5366,7 +5348,6 @@ PF05831	GAGE	piwil1
 PF08292	RNA_pol_Rbc25	polr3h	zgc:92878
 PF14669	Asp_Glu_race_2	topaz1
 PF06842	DUF1242	tmem167b	tmem167a	tmem167a	tmem167a
-PF09004	DUF1891	
 PF16705	NUDIX_5	krit1	krit1	krit1
 PF01594	AI-2E_transport	tmem245
 PF02055	Glyco_hydro_30	gba
@@ -5418,7 +5399,6 @@ PF02837	Glyco_hydro_2_N	gusb
 PF07786	DUF1624	hgsnat
 PF00881	Nitroreductase	iyd
 PF15289	RFXA_RFXANK_bdg	rfxap
-PF04182	B-block_TFIIIC	
 PF08740	BCS1_N	bcs1l	bcs1l
 PF04188	Mannosyl_trans2	pigv
 PF14816	FAM178	slf2
@@ -5486,7 +5466,6 @@ PF02978	SRP_SPB	srp54
 PF02403	Seryl_tRNA_N	sars1
 PF15086	UPF0542	smim15
 PF01015	Ribosomal_S3Ae	rps3a
-PF15127	SmAKAP	
 PF14770	TMEM18	tmem18
 PF10376	Mei5	sfr1
 PF10507	TMEM65	tmem65
@@ -5606,7 +5585,6 @@ PF16858	CNDH2_C	ncaph2
 PF06278	CNDH2_N	ncaph2
 PF15719	DUF4674	si:dkey-184p18.2
 PF05014	Nuc_deoxyrib_tr	dnph1
-PF15882	DUF4735	
 PF08318	COG4	cog4
 PF02686	Glu-tRNAGln	gatc
 PF10155	CNOT11	cnot11

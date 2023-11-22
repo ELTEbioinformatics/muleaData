@@ -1,17 +1,16 @@
-# Gene set GMT file for mulea Bioconductor R package
-# taxon_name: Arabidopsis thaliana
+# Gmt database for MulEA software (http://www.mulea.org/)
+# taxon_name: Arabidopsis_thaliana
 # taxid: 3702
-# ID_type: LocusID
+# ID_type: Locus_ID
 # source_URL: http://plants.ensembl.org/index.html
 # source_PMID: 26578574
-# source_primary_ID: LocusID
 # source_version: Release 48
 # source_last_update: 12-07-2020
 # gmt_download_date: 15-09-2020
-# gmt_file_version: 2.1
+# gmt_file_version: 2
 # gmt_entry_names: Chromosome location
-
-# Chromosome location	Chromosome location	Gene set (LocusID)
+# Chromosome location	Chromosome location	Gene set (Locus ID)
+# Chromosome location	Chromosome location	Gene set (Locus ID)
 chro 1 3631-31227	chro 1 3631-31227	AT1G01010	AT1G01020	AT1G03987	AT1G01030	AT1G01040
 chro 1 6788-24099	chro 1 6788-24099	AT1G01020	AT1G03987	AT1G01030	AT1G01040	AT1G03993
 chro 1 11101-28706	chro 1 11101-28706	AT1G03987	AT1G01030	AT1G01040	AT1G03993	AT1G01046

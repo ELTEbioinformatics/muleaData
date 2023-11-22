@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000001	"mitochondrion inheritance"	EndoG
 GO:0000002	"mitochondrial genome maintenance"	DNAlig3	CG11077
 GO:0000003	"reproduction"	Dhc64C	Msp300	BicD	Rab4	Hrb87F	Acp53Eb	NSD	jar	hts	Rca1	klar	Jra	Hmgcr	Acp36DE	vls	EndoB	CSN5	chinmo	ix	Bx	tra2	CG11700	fl(2)d	Nrg	Synd	CanB2	Abl	Mkrn1	Caf1-55	bai	Ance	Bug22	Cbl	Cap-D3	gwl	Gprk2	Cul3	tef	br	Hsp83	Apc	CycE	ACXA	Akap200	MED22	ssp2	Nlg2	Dcr-1	18w	cona	Sxl	Btk29A	Flacc	Dup99B	ord	gammaTub37C	spn-D	5-HT7	Cul2	5-HT1A	CG32819	Cdk1	Nup154	Bruce	mir-8	BubR1	Ercc1	twe	Prosalpha6T	Vm26Ab	trem	CG17575	Ptpmeg	asp	Msh6	ppan	Burs	aub	Egfr	CG1077	CG13113	Pka-C1	Hus1-like	Grip128	AGO2	ATPsynbetaL	dpn	Octbeta2R	CaMKII	Ir52c	Acp24A4	dsx	Est-6	Smurf	cic	Src64B	fws	InR	tsu	Brca2	aly	Mer	Adi1	Hira	ALiX	Col4a1	dati	mei-41	CG42355	Gr68a	Mps1	Phf7	Atg1	194-26	Nup44A	alphaTub67C	Cad74A	Lam	Doa	alpha-Spec	spir	CycG	mfr	pelo	ItgaPS4	Atx2	msn	dap	bol	Mettl14	Klp3A	Desat1	Spc25	CG10433	Mos	Moe	Incenp	Dl	cel	bam	Stat92E	Xpc	mei-W68	Acp32CD	CG6443	Mst77Y-1	CG13998	AGO1	Chd1	Lasp	bab2	Axs	otk	B9d2	sra	Akt1	mael	dve	egg	osk	Acp26Aa	grk	Arf51F	Lis-1	Fs(3)Far	Cip4	Abi	corolla	Klp67A	dlg1	Cks30A	CG6664	cort	wst	Nipped-B	31B8	Buffy	FoxP	14-3-3epsilon	fwd	Iml1	wun	Blm	Mbs	dud	BG642312	Fas2	asun	Ack	CSN1b	Fuca	CG7483	capu	mre11	Abd-B	DCTN2-p50	AP-2alpha	4B7-11	Khc	narya	RNaseZ	mgr	bab1	csul	Det	Acp26Ab	Srrm1
@@ -8127,8 +8121,8 @@ GO:0046592	"polyamine oxidase activity"	CG6034
 GO:0046594	"maintenance of pole plasm mRNA location"	aub
 GO:0046595	"establishment of pole plasm mRNA localization"	tsu
 GO:0046596	"regulation of viral entry into host cell"	Sec61alpha
-GO:0046598	"positive regulation of viral entry into host cell"	Sec61alphapole plasm mRNA localization"	tsu
-le replication"	CG17816	SAK	Cep97	Gorab
+GO:0046598	"positive regulation of viral entry into host cell"	Sec61alpha
+GO:0046599	"regulation of centriole replication"	CG17816	SAK	Cep97	Gorab
 GO:0046600	"negative regulation of centriole replication"	CG17816	Cep97
 GO:0046601	"positive regulation of centriole replication"	Gorab
 GO:0046602	"regulation of mitotic centrosome separation"	chb	Dhc64C

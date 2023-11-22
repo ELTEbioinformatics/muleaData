@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000001	"mitochondrion inheritance"	Q54HH1
 GO:0000002	"mitochondrial genome maintenance"	Q8MYF0	Q552L1
 GO:0000003	"reproduction"	Q54LF4	Q54IS6	Q8MQU6	Q55BR7	Q54SU2	Q550H7	Q55AR3	Q54II7	Q55F81	Q54PD2	Q9XZJ3	Q55DD4	Q54WM1	Q54QM6	P34115	Q55DW8	Q558Y3	Q557E6	P34145	Q54PJ7	Q55GU9	Q54G81	Q54UL8	Q55G87	Q54LI7	Q54ME1	Q54CV5	Q54HW9	Q54DZ9	Q54NC0	Q54X96	Q54BN2
@@ -79,7 +73,6 @@ GO:0000160	"phosphorelay signal transduction system"	Q55F68	Q869S5
 GO:0000164	"protein phosphatase type 1 complex"	O15757
 GO:0000165	"MAPK cascade"	Q55CL6	Q55CS7	Q55FJ6	Q550K8	Q1ZXA8	Q55CH0	P32253	Q54R82
 GO:0000166	"nucleotide binding"	Q54QF9	P54697	Q55CT1	Q75JG5	P08799	Q55EP5	Q5FXM5	Q86A17	Q75JD5	Q55GQ6	Q55BI2	Q9XPJ9	Q54YI4	Q55GL1	Q55DB0	P10819	Q54LW0	Q55F68	Q557X0	B0G0Y8	Q54SV8
-GO:0000171	"ribonuclease MRP activity"	
 GO:0000172	"ribonuclease MRP complex"	Q3ZE13
 GO:0000175	"3'-5'-exoribonuclease activity"	Q54W16	Q55DD5	Q55FB1
 GO:0000176	"nuclear exosome (RNase complex)"	Q55AW0
@@ -154,11 +147,8 @@ GO:0000339	"RNA cap binding"	Q554U9	Q55D17	Q54P37
 GO:0000340	"RNA 7-methylguanosine cap binding"	Q54P37
 GO:0000346	"transcription export complex"	Q552L5
 GO:0000347	"THO complex"	Q552L5	Q54F78
-GO:0000348	"mRNA branch site recognition"	
 GO:0000349	"generation of catalytic spliceosome for first transesterification step"	Q7KWK5
 GO:0000350	"generation of catalytic spliceosome for second transesterification step"	Q54N41
-GO:0000353	"formation of quadruple SL/U4/U5/U6 snRNP"	
-GO:0000365	"mRNA trans splicing, via spliceosome"	
 GO:0000372	"Group I intron splicing"	Q54ET5
 GO:0000375	"RNA splicing, via transesterification reactions"	Q54E37	Q54N41	Q55BL6	Q54B65	Q54ET5	Q86L45	Q55CI8	Q55D17	C7G068	Q54YZ7	Q8MML7	A1XDC0	Q54XQ8	Q54X23	Q86JC5	Q7KWK5	Q55G70	Q54YA5
 GO:0000376	"RNA splicing, via transesterification reactions with guanosine as nucleophile"	Q54ET5
@@ -866,8 +856,6 @@ GO:0004632	"phosphopantothenate--cysteine ligase activity"	Q54S85
 GO:0004633	"phosphopantothenoylcysteine decarboxylase activity"	Q54Y51
 GO:0004634	"phosphopyruvate hydratase activity"	Q55F83
 GO:0004637	"phosphoribosylamine-glycine ligase activity"	Q54GJ2
-GO:0004638	"phosphoribosylaminoimidazole carboxylase activity"	
-GO:0004639	"phosphoribosylaminoimidazolesuccinocarboxamide synthase activity"	
 GO:0004641	"phosphoribosylformylglycinamidine cyclo-ligase activity"	Q54GJ2
 GO:0004642	"phosphoribosylformylglycinamidine synthase activity"	Q54JC8
 GO:0004643	"phosphoribosylaminoimidazolecarboxamide formyltransferase activity"	Q86L14
@@ -3620,7 +3608,6 @@ GO:0030522	"intracellular receptor signaling pathway"	Q54HI0	Q54P61
 GO:0030523	"dihydrolipoamide S-acyltransferase activity"	P36413
 GO:0030527	"structural constituent of chromatin"	Q54HI5
 GO:0030532	"small nuclear ribonucleoprotein complex"	Q54YX5	Q55A45	Q55EX5	Q54NC5	Q55EC6	Q55FQ0	Q55BF5
-GO:0030533	"triplet codon-amino acid adaptor activity"	
 GO:0030544	"Hsp70 protein binding"	Q54DA8
 GO:0030545	"receptor regulator activity"	Q7KWT9	Q968Z6	P42523	Q55DD4
 GO:0030546	"receptor activator activity"	Q968Z6	P42523	Q55DD4
@@ -3629,17 +3616,13 @@ GO:0030551	"cyclic nucleotide binding"	P10819	B0G0Y8
 GO:0030552	"cAMP binding"	P10819
 GO:0030553	"cGMP binding"	B0G0Y8
 GO:0030554	"adenyl nucleotide binding"	Q9XPJ9	Q5FXM5	P10819	Q54QF9	P54697	Q55F68	Q557X0	Q75JG5	P08799
-GO:0030555	"RNA modification guide activity"	
-GO:0030561	"RNA 2'-O-ribose methylation guide activity"	
 GO:0030580	"quinone cofactor methyltransferase activity"	Q54XD0	Q54VN2
 GO:0030586	"[methionine synthase] reductase activity"	Q55G48
 GO:0030587	"sorocarp development"	P42523	Q55E44	Q6B9X6	Q558U1	Q9XZJ3	Q55E72	Q86IH1	Q54JC7	Q54WR4	Q9U720	Q55FG3	Q9BLG4	P27133	Q55GQ4	P90527	Q55G87	Q55F85	P54651	Q55F68	Q9XY92	P12729
 GO:0030619	"U1 snRNA binding"	Q55FQ0
 GO:0030620	"U2 snRNA binding"	Q8T295
-GO:0030621	"U4 snRNA binding"	
 GO:0030623	"U5 snRNA binding"	Q8T295
 GO:0030626	"U12 snRNA binding"	Q55CC1
-GO:0030627	"pre-mRNA 5'-splice site binding"	
 GO:0030628	"pre-mRNA 3'-splice site binding"	Q54TA0
 GO:0030638	"polyketide metabolic process"	Q55E72
 GO:0030639	"polyketide biosynthetic process"	Q55E72
@@ -4779,7 +4762,6 @@ GO:0042465	"kinesis"	Q86K54
 GO:0042466	"chemokinesis"	Q86K54
 GO:0042493	"response to drug"	Q1ZXL7	Q9NH03
 GO:0042500	"aspartic endopeptidase activity, intramembrane cleaving"	Q54CN9
-GO:0042509	"regulation of tyrosine phosphorylation of STAT protein"	
 GO:0042537	"benzene-containing compound metabolic process"	Q55DB4	Q54S02	Q54RE8	Q55F21	Q54B85	Q1ZXQ1	Q8T638	Q54Q04	Q86IY4
 GO:0042542	"response to hydrogen peroxide"	Q54WR2	Q55GQ5	Q55GU8
 GO:0042543	"protein N-linked glycosylation via arginine"	Q54L98
@@ -5052,7 +5034,6 @@ GO:0043682	"copper-transporting ATPase activity"	Q54Q77
 GO:0043687	"post-translational protein modification"	Q86CR9	Q558K8	Q94502	Q54W25
 GO:0043715	"2,3-diketo-5-methylthiopentyl-1-phosphate enolase activity"	Q55FM6
 GO:0043716	"2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase activity"	Q55FM6
-GO:0043727	"5-amino-4-imidazole carboxylate lyase activity"	
 GO:0043733	"DNA-3-methylbase glycosylase activity"	Q1ZXP8
 GO:0043783	"oxidoreductase activity, oxidizing metal ions with flavin as acceptor"	Q54XM6
 GO:0043795	"glyceraldehyde oxidoreductase activity"	Q55FL3
@@ -5251,7 +5232,6 @@ GO:0045275	"respiratory chain complex III"	Q37311	Q54QR8
 GO:0045277	"respiratory chain complex IV"	Q55CY6
 GO:0045281	"succinate dehydrogenase complex"	Q8T2T5	Q55CC2
 GO:0045283	"fumarate reductase complex"	Q55CC2
-GO:0045291	"mRNA trans splicing, SL addition"	
 GO:0045292	"mRNA cis splicing, via spliceosome"	Q55D17	Q54YA5
 GO:0045294	"alpha-catenin binding"	Q54I71
 GO:0045309	"protein phosphorylated amino acid binding"	Q557E7	Q54LP1
@@ -5446,7 +5426,6 @@ GO:0046403	"polynucleotide 3'-phosphatase activity"	Q54U78
 GO:0046404	"ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"	Q54S30
 GO:0046415	"urate metabolic process"	Q54LT2
 GO:0046416	"D-amino acid metabolic process"	Q54HH2	Q54EY1	Q556W1	Q54XE5
-GO:0046425	"regulation of JAK-STAT cascade"	
 GO:0046434	"organophosphate catabolic process"	P12019	Q8MLZ3	Q54LQ6	B0G107	Q55GC7	Q54N32	Q7KWR0	Q54BW5	Q55FN1	Q8I7P3	Q54GK8	Q556N9
 GO:0046435	"3-(3-hydroxy)phenylpropionate metabolic process"	Q54K08
 GO:0046437	"D-amino acid biosynthetic process"	Q54HH2

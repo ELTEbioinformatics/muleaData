@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: https://reactome.org/ 
- #source_version: 84
- #source_last_update:03-2023
- #gmt_version:1
- #gmt_entry_names:Reactome Pathway
 R-XTR-162582	Signal Transduction	XENTR_v90028851mg	rhog	XENTR_v90028168mg	gpbar1	rcvrn.1	npffr2	jak2	ube2d1	rasgef1a	calhm4	rgs5	cpt1b	wnt10b	axl	lamc1	rasa2	clasp1	atp6v0a1	arhgap21	tab2	bdnf	ppp3cc	prkcq	aurkb	fbxw8	LOC100124789	pde6g	gnat1	aamp	cenpm	guca1a	dll1	cul3	lpar1	ppm1a	abr	mc5r	nrp1	wwc1	foxo3	lingo1	egr2	atp6v1g3	sphk1	mad2l1	ttr	wnt16	adora2a	rps27l	mapk11	prkcb	ift122	arhgap6	pnoc	sppl2a	leo1	h2ac17	prkab2	fgfbp1	lamtor5	bmi1	rdh16	rdh7.2	gnrhr2	ppp3ca	ska1	dynll2	vegfa	nuf2	h2ac12	clip3	smpd2	rln3	flrt3	ptpn6	maz	tbxa2r	LOC100145354	adra2c	zranb1	taok1	pten	psmd5	gtf2f1	rnf2	dvl3	ptger4	fnta	grk7	pla2g4a	cgn	akt2	pik3cg	grb10	LOC100158580	opn1sw	rhov	spdl1	arhgef25	pfn2	bcr	gpr161	brk1	atp6v0e1	gpnmb	lamtor3	abhd12	rbp1	ncoa2	chd8	frs2	arhgap26	fgf1	fgf19	fgf20	rce1	nup43	paqr3	itga3	ino80e	ptpn11	nckap1l	tcf3	rapgef3	kif18a	crhr1.2	chd3	brs3	arhgef38	itsn1	phlpp2	dkk2	bag4	chn1	pdgfa	fntb	scmh1	zg16	mgll	ADH8B	creb1	tapbp	col27a1	bcl9	aldh1a2	pde10a	dync1li1	cdyl2	col5a2	col3a1	adra2b	polr2b	gm2a	vegfd	fshr	cnr2	psma5	pdk1	sst.1	arhgap5	tac1	foxo6	vegfd	smurf1	igf1r	rbbp5	zfand2a	pnliprp3	cckar	prkaa2	pde1c	flna	acvr2a	vegfb	flrt1	spint1	hcrtr2	phyh	PDYN	trim33	abhd6	hist2h2bf	frs3	drd1	amot	itprip	pik3r5	pik3r6	fbxo21	ei24	csnk2a2	nckap1	elavl4	fzd3	fes	ednrb	prc1	ctbp1	pdgfra	fgfrl1	foxo4	grb7	iqgap3	dvl1	smad6	NPY2	fyn	adcy1	amotl2	rdh14	h2bc14	fga	arhgap19	lats2	rnf31	pde4b	ring1	rtn4	arhgef39	cyth2	fzd6	tsc2	tob1	adra1d	atp6v1b1	hsp90aa1.1	cxcr5	ccdc71l	nfatc1	pak1	pak2	mprip	gabbr2	tas2r13	pde4d	cit	grk1	c5ar1	prkab1	prkag2	rheb	gna15	ppard	a2m	phc1	zfyve9	rtkn	rgl3	bub1b	mcoln2	tle2	tle4	mapk8	dgat2l6	sqstm1	hbz	gnrh1	nefl	cenpe	tert	bmpr1a	hspb1	cilp	map3k7	lats1	intu	hpn	rgs2	rptor	tgfbr2	akr1c3	mras	tspan17	birc2	rgs12	sts	arhgap42	plxna2	phf5a	cdc20	ppp5c	zc4h2	ppp1r12c	ffar4	aldh8a1	cysltr1	gdnf	sel1l	stat1	dok1	arhgap31	rps6kb1	hdac1	myo7a	uqcrfs1	camk2d	lrrk2	vav3	nedd4l	csk	LOC101733670	atp5mk	caskin1	dusp4	opn5	epor	igf1	nup160	psmc3	kif3c	fgfr3	tgfbr1	pgr	trpc6	sh2b2	kremen2	esr2	psme3	smurf2	rxfp3	btk	areg	rgs6	itpr1	pde2a	wwp2	gpr176	znf750	psmd13	nos3	reep6	bub3	csnk1a1	kif2c	lama3	ttc21b	yy1	plcb2	isyna1	hif1a	ngf	lpar4	hdac2	lama4	mcf2	pik3ca	rarg	mapk7	fgfr4	adora1	arhgap30	gast	cga	jup	ntrk1	ndufb4	syde2	pde3b	pde4c	ptpn2	myh11	sgo1	kat2b	grap2	stra6	ptcd2	psmd10	tnfrsf10b	pthlh	spopl	iqgap1	ppef1	uts2r	adora2b	cltb	shc1	nck2	nras	tnks2	arnt	psmd1	pou2f1	fgfbp2	f2rl3	dgkh	col1a2	grm1	apom	cox1	mdm2	gnai2	kremen1	sppl2b	akap12	tbl1xr1	myh10	gnat2	vav2	tnnt3	slc8a3	oxt	agtr1	dgkb	wnt1	atp6ap1.2	gdi1	atp6v0b	tas2r39	parp1	ccnk	dgkk	smad7	grin2a	ap2b1	tdrd7	wdr35	thbs1	opn1lw	crabp2	mst1r	avpr2	psmc5	gatad2b	inhba	gli3	arhgap22	ski	gper1	mrps14	rasgrp4	tab1	cyfip2	pdgfb	nthl1	ccr2	cdh5	hnrnpa1	rock1	akt1	gpr84	ckap5	ankk1	vav1	LOC100496752	axin1	arhgap40	ube2n	mybl2	nmt1	fmnl1	psma3	pgap4	prokr1	ctbp2	pebp1.2	trpv3	tmem26	gli2	slc4a9	calm1	fer	fgfr2	ifn4	rdh5	mchr2	nfkbia	mta1	sh3kbp1	atp6v1c2	lrp6	dkk1	abi1	h2bc14	rbp3	dgcr8	camk2a	maml1	psmd3	stap2	ripk1	cenpk	erbin	cyp4v2.2	scai	chmp1a	myh9	ralbp1	ptbp1	pmp2	fabp4	fabp4	pag1	pik3r1	dlat	hecw1	e2f5	plcg1	actr3	fgf9	gab2	lhx5	mapk13	mbd3	rap1a	rgs20	atp6v1h	ghsr	cfap65	vwf	dlc1	nudt6	inpp5b	ece1	mark3	dgkq	cnksr2	rps6ka2	rps6ka3	pik3c3	npy1r	sptbn5	ppp1r12a	ktn1	slc52a1	rxrg	wnt4	amotl1	il17rd	pdk3	edc4	atp6v1a	adcy6	slc44a4	tomm22	arpc3	psmb2	dmgdh	oprk1	adora3.2	mkrn1	ercc6l	plat	ikbkb	mlnr	gnai1	mapk12	psmb8	adgra1	dlg2	psmc2	cenpf	fam13b	rasa1	gpr68	psmd9	tbl1x	ramp3	cd200r1	camk2b	st6gal2	myl6	edn1	lpar5	myo9a	cftr	angpt1	kansl2	gjb2	f2rl2	iqgap2	mhc2-dcb	nox1	znf217	sptbn4	casr	nr5a2	tjp1	hgf	nucb1	acod1	lama1	cyp26c1	rxfp2	adcyap1	tgfa	p2ry10	pde6b	nf2	htr2c	igf1	kif3a	tab3	ash2l	myoz1	cdc25c	pxn	trap1	dctn5	dagla	avpr1a	usp21	pin1	dync1i2	pde7a	dync1i1	smad4	agt	plcb1	arhgef37	rarb	rasgrp3	arhgap35	ppp2r5b	mrps9	fkbp4	arhgap11a.1	polr2a	cdkn1a	arhgef40	qrfp	abl1	rho	rhobtb1	ptprk	bdkrb2	aldh1a1	gucy2d	tcf7	pde8a	gfra2	smpd3	tspan31	adcy3	ncoa1	zfp36l2	tcf7l2	prdm16	wipf3	b9d2	chn2	hip1r	drap1	arhgap4	rrh	csnk2a1	rxfp3	col5a1	ndufb1	gnao1	cdh5	arhgap4	cln8	ptgir	plcb3	ctnnd1	vcl	b3gnt3.1	h2bc21	nup107	oxtr	mdm2	thbs2	psen2	gopc	wdr19	sptan1	sys1	dgki	pkn3	dgkz	nmur2	radx	arhgap44	psma4	grp	furin	prkaca	mecom	ehbp1	rcc2	actr6	rbp2	cnksr1	mis12	htr1b	arhgap17	kitlg	pde4a	mag	mhc1b-uba6.1	rock2	mapkapk2	polr2h	caprin2	eif4g1	psmd2	pou2f1	grin1	kif5a	ece2	btd	fbxo22	p2ry12	plppr4	arhgef7	dynlt5	ptk2	tor3a	fam13a	c3	os9	n4bp2l2	pkn1	sowahd	wnt8b	greb1	gpr20	atp1b4	mob1b	nckipsd	arhgdig	adh1	adh1	mamld1	gcg	app	tln1	hrh4.b2	gpr25	e2f4	dgka	men1	dgkd	nudc	ctdsp1	tacr1	rnf41	ctnna1	wnt5b	arhgap9	arhgef10	kdm4c	fgf6	rgl2	rab25	ccno	larp6-like.1	depdc1b	arhgap23	metap2	cldnd1	palm	tmed5	flrt2	srpk1	LOC100490939	LOC100490939	shb	panx2	khdrbs3	phc3	prkci	skil	LOC116407926	ep300	dennd4a	src	syk	ywhae	frk	kat5	LOC100490939	tanc2	ptch1	kif2a	guca1c	daam1	pip4k2b	mapk7	ralgds	fam177b	spata1	hkdc1	prtg	eps15	htr1a	rasgrp4	adam17	arhgef12	lhcgr	col6a2	shoc2	wasf2	col6a2	arhgef11	ppip5k1	mapk6	poc1b	sos1	icmt	rdh13	ncf4	ctsv	tlr9	mst1	cmklr1	grm3	srgap2	rdh7	XB5807236	mgc89248	nipal2	zc3h12c	akr1c3	LOC116406435	psmb7	ctsg	pcdh1	prkar2b	ptgfr	arhgef1	dusp9	chn1	syngr2	pde11a	aass	cdkn1a	f2rl1	crhbp	s100z	dleu7	prl.1	cdc14a	xpo1	usp34	arhgap12	acvr1b	lpar6	rala	nkx2-6	rgs14	rnf5	akap9	ppp2r5e	camk2g	kidins220	col11a2p1	arhgap10	agfg1	col1a1	pnliprp2	nab2	slc39a1l	gtf2e2	lrrc7	trio	arhgap32	plk1	dvl2	numb	cxcr4	fgf10	prkce	thbs4	znrf3	crnkl1	bmpr1b	incenp	nr1h2	cbx8	pyy	qrfpr	zwilch	npy	rflb	ophn1	bub1	calcrl	agtr2	prkag3	rnf111	p2ry1	adcyap1r1	ugt1a1	nr4a1	ednra	gng5	npy5r	rragd	khdrbs2	depdc7	atp6v1b2	cul1	esr1	pou2f1	tmed2	ereg	cdc42	dlg1	polr2j	cdc37	rxrb	ndel1	polr2k	skp1	cdc42ep3	prr29	TGas081o10.1	hist2h2bf	ezh2	rragc	myd88	traf6	tcirg1	ywhah	TGas006m08.1	eed	hdac3	chuk	nedd8	h2ax.2	dusp6	hrpt2	birc5.2	hras	sox13	ube2d3	zdhhc21	prmt1	derl2	ccnc	mob1a	prickle1	gnaq	ranbp9	polr2g	ctnnb1	ap2s1	sox7	diras2	tbp	polr2l.1	rhoa	lypla1	pias1	gng7	h2ac1	polr2e	cenpl	vps26a	cenpo	ift57	rhoc	cenpa	wnt8a	znf385d	ybx1	myl12b	h2bc14	trim44	t2r53	t2r52	t2r50	t2r49	t2r48	t2r47	t2r46	t2r45	t2r43	t2r41	t2r38	t2r37	t2r36	t2r35	t2r34	tas2r8	t2r30	t2r26	t2r25	t2r24	t2r23	t2r22	t2r21	t2r19	t2r17	t2r15	t2r14	t2r13	t2r10	t2r9	t2r8	t2r7	t2r6	t2r5	t2r3	t2r2	tas2r7	fuz	CAV1	ncor1	aplnr	cbl-prov	h2az2	psmd14	p2ry4	wasf1	pdhb	sgk1	xiap	ywhaq	actr2	hsp90ab1	fzd7	aph1a	pnliprp2	cxcl12	rbp4	gpr45	cav2	gnai3	ppp1cb	metap1	mlst8	adh6	fgf7	slc38a9	pomc	psmd7	rgs1	tfdp1	abhd17a	ndc80	seh1l	ywhab	gnb3	akt1s1	cenpn	rdh10	wdr83	csnk1e	spred2	gng13	rap1b	yes1	LOC394967	arhgap1	grb2	ctnnbip1	nck1	eef1d	rgs18	rnf146	map2k1	gna14	mknk1	rasal1	spred1	foxo1	psmc4	ptafr	nde1	nck2	ppp1r14a	dact1	dhrs3	sox3	uba52	nog	polr2f	apoa1	gtf2a2	ncbp2	vps29	abhd17b	eif4b	grk4	arhgdib	spc25	gng2	ncbp1	dnal4	bco2	gata3	rhot2	smad1	gmip	rack1	arhgap25	atp6v1f	smad9	memo1	hebp1	socs3	h2ac14	nup85	sox9	vcp	abhd17c	pip4k2c	arhgdia	rac1	tcf7l1	arpc2	cdca8	dusp1	cdk9	ppp2cb	rhob	sox2	ppp1cc	sall4	wasl	dhrs9	pafah1b1	myc	tgif1	lamtor1	psmd6	rgs4	rbbp7	atp6v0d2	csf1	actg1	cdk8	ddx5	itgb1	atp6v1c1	col2a1	ywhaz	rps6	psma6	sec13	snx3	sh3gl1	mapre1	phb1	ap2m1	ppid	spc24	spop	atp6v1e1	ube2m	mdk	atp6v0c	ppp3r1	foxa1	sox17a	bmp2
 R-XTR-372790	Signaling by GPCR	XENTR_v90028851mg	XENTR_v90028168mg	gpbar1	rcvrn.1	npffr2	calhm4	rgs5	prkcq	pde6g	gnat1	guca1a	lpar1	abr	mc5r	ttr	adora2a	pnoc	rdh16	rdh7.2	gnrhr2	rln3	tbxa2r	LOC100145354	adra2c	ptger4	fnta	grk7	pla2g4a	akt2	pik3cg	opn1sw	arhgef25	abhd12	rbp1	tcf3	crhr1.2	brs3	arhgef38	itsn1	fntb	mgll	creb1	tapbp	pde10a	cdyl2	adra2b	fshr	cnr2	sst.1	tac1	pnliprp3	cckar	pde1c	hcrtr2	phyh	PDYN	abhd6	drd1	itprip	pik3r5	pik3r6	ei24	ednrb	NPY2	adcy1	h2bc14	pde4b	arhgef39	adra1d	cxcr5	pak1	gabbr2	tas2r13	pde4d	grk1	c5ar1	gna15	mcoln2	dgat2l6	gnrh1	rgs2	akr1c3	tspan17	rgs12	zc4h2	ppp1r12c	ffar4	cysltr1	myo7a	vav3	LOC101733670	opn5	trpc6	btk	rgs6	itpr1	pde2a	gpr176	znf750	reep6	plcb2	isyna1	lpar4	mcf2	pik3ca	adora1	gast	cga	ndufb4	pde3b	pde4c	stra6	ptcd2	pthlh	ppef1	uts2r	adora2b	nras	arnt	pou2f1	f2rl3	dgkh	grm1	apom	cox1	gnai2	gnat2	vav2	oxt	agtr1	dgkb	tas2r39	dgkk	opn1lw	avpr2	gper1	ccr2	rock1	akt1	gpr84	ankk1	vav1	ube2n	nmt1	prokr1	tmem26	calm1	rdh5	mchr2	h2bc14	rbp3	cyp4v2.2	pik3r1	rgs20	ghsr	cfap65	nudt6	ece1	dgkq	rps6ka2	rps6ka3	npy1r	adcy6	oprk1	adora3.2	mlnr	gnai1	gpr68	ramp3	edn1	lpar5	f2rl2	mhc2-dcb	casr	rxfp2	adcyap1	p2ry10	pde6b	htr2c	igf1	trap1	dagla	avpr1a	pde7a	agt	plcb1	arhgef37	arhgef40	qrfp	rho	bdkrb2	gucy2d	pde8a	adcy3	rrh	rxfp3	gnao1	ptgir	plcb3	oxtr	dgki	dgkz	nmur2	grp	prkaca	ehbp1	rbp2	htr1b	pde4a	rock2	ece2	fbxo22	p2ry12	plppr4	arhgef7	c3	gpr20	gcg	app	hrh4.b2	gpr25	dgka	dgkd	tacr1	arhgef10	larp6-like.1	metap2	cldnd1	palm	LOC100490939	LOC100490939	LOC116407926	src	LOC100490939	guca1c	mapk7	hkdc1	prtg	htr1a	arhgef12	lhcgr	arhgef11	poc1b	sos1	cmklr1	grm3	rdh7	XB5807236	mgc89248	nipal2	akr1c3	LOC116406435	pcdh1	prkar2b	arhgef1	pde11a	aass	cdkn1a	f2rl1	crhbp	dleu7	prl.1	lpar6	rgs14	rnf5	agfg1	pnliprp2	trio	cxcr4	prkce	pyy	qrfpr	npy	rflb	calcrl	agtr2	p2ry1	adcyap1r1	ednra	gng5	npy5r	cdc42	hras	gnaq	rhoa	gng7	rhoc	t2r53	t2r52	t2r50	t2r49	t2r48	t2r47	t2r46	t2r45	t2r43	t2r41	t2r38	t2r37	t2r36	t2r35	t2r34	tas2r8	t2r30	t2r26	t2r25	t2r24	t2r23	t2r22	t2r21	t2r19	t2r17	t2r15	t2r14	t2r13	t2r10	t2r9	t2r8	t2r7	t2r6	t2r5	t2r3	t2r2	tas2r7	aplnr	p2ry4	pnliprp2	cxcl12	rbp4	gpr45	gnai3	metap1	pomc	rgs1	gnb3	rdh10	gng13	LOC394967	grb2	eef1d	rgs18	gna14	ptafr	dhrs3	apoa1	grk4	gng2	bco2	hebp1	rhob	dhrs9	rgs4
 R-XTR-373076	Class A/1 (Rhodopsin-like receptors)	XENTR_v90028851mg	gpbar1	calhm4	lpar1	mc5r	adora2a	pnoc	gnrhr2	rln3	tbxa2r	adra2c	ptger4	opn1sw	brs3	tapbp	adra2b	fshr	cnr2	sst.1	tac1	cckar	PDYN	drd1	ei24	ednrb	NPY2	h2bc14	adra1d	c5ar1	gnrh1	cysltr1	LOC101733670	opn5	lpar4	adora1	cga	ndufb4	ptcd2	adora2b	arnt	f2rl3	oxt	agtr1	opn1lw	avpr2	gper1	prokr1	tmem26	h2bc14	nudt6	ece1	npy1r	oprk1	adora3.2	gpr68	edn1	lpar5	f2rl2	mhc2-dcb	rxfp2	p2ry10	htr2c	trap1	avpr1a	agt	qrfp	rho	rrh	rxfp3	ptgir	oxtr	nmur2	grp	htr1b	ece2	fbxo22	p2ry12	plppr4	c3	app	hrh4.b2	tacr1	larp6-like.1	palm	LOC116407926	hkdc1	htr1a	lhcgr	cmklr1	nipal2	pcdh1	f2rl1	lpar6	rnf5	agfg1	cxcr4	pyy	qrfpr	npy	rflb	agtr2	p2ry1	ednra	npy5r	p2ry4	cxcl12	pomc	ptafr	hebp1
@@ -1040,13 +1034,11 @@ R-XTR-1296067	Potassium transport channels	kcnj10	kcnj1
 R-XTR-977444	GABA B receptor activation	kcnj10	clta	kcnj3	itprip	kcnj15	gabbr2	kcnj4	ddx25	poc1b	gng5	gng7	gnb3	gng13	gng2
 R-XTR-991365	Activation of GABAB receptors	kcnj10	clta	kcnj3	itprip	kcnj15	gabbr2	kcnj4	ddx25	poc1b	gng5	gng7	gnb3	gng13	gng2
 R-XTR-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	kcnj10	clta	kcnj3	itprip	kcnj15	gabbr2	kcnj4	ddx25	poc1b	gng5	gng7	gnb3	gng13	gng2
-R-XTR-390648	Muscarinic acetylcholine receptors	
 R-XTR-442660	Na+/Cl- dependent neurotransmitter transporters	tnip1	slc6a13	cdc37	XB5944457 [provisional]	slc6a9	slc6a19	slc6a15	LOC100496053	myog
 R-XTR-2022857	Keratan sulfate degradation	kpna7	vps41	fmod	kera	hexb	glb1	lum
 R-XTR-71240	Tryptophan catabolism	slc3a2	slc36a4	tdo2	kyat1	spata18a	haao	kmo
 R-XTR-433137	Sodium-coupled sulphate, di- and tri-carboxylate transporters	slc13a5	slc13a3	slc13a1	slc13a2
 R-XTR-1663150	The activation of arylsulfatases	sumf2	arsh	foxe3	arsi	sumf1
-R-XTR-8941413	Events associated with phagocytolytic activity of PMN cells	
 R-XTR-2160916	Hyaluronan uptake and degradation	cd44	stab2	gpank1	hexb	slc9a1	chp1
 R-XTR-1250196	SHC1 events in ERBB2 signaling	pdgfa	ppp1r12c	shc1	prkce	ereg
 R-XTR-182971	EGFR downregulation	pdgfa	sts	ppp1r12c	areg	sh3kbp1	tgfa	ptprk	arhgef7	ccno	eps15	ereg	cdc42	cbl-prov	grb2	uba52	sh3gl1
@@ -1060,7 +1052,6 @@ R-XTR-73863	RNA Polymerase I Transcription Termination	cavin1	polr1c	polr1a	ercc
 R-XTR-1614558	Degradation of cysteine and homocysteine	cdo1	tst	jup	suox	txn2	ethe1	mpst
 R-XTR-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	vps53
 R-XTR-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	vps53	mecr	hadh	acads
-R-XTR-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	
 R-XTR-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	vps53	hadh
 R-XTR-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	mecr	hadh
 R-XTR-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	hadh
@@ -1070,8 +1061,6 @@ R-XTR-1502540	Signaling by Activin	vegfd	acvr2a	inhba	smad4	drap1	acvr1b
 R-XTR-2173788	Downregulation of TGF-beta receptor signaling	tgfbr2	tgfbr1	smurf2	smad7	ccno	slc39a1l	uba52
 R-XTR-2173789	TGF-beta receptor signaling activates SMADs	zfyve9	tgfbr2	tgfbr1	smurf2	smad7	smad4	ccno	slc39a1l	nedd8	cbl-prov	uba52	ube2m
 R-XTR-2173796	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	mapk7	ccnk	smad7	e2f5	kansl2	smad4	atp1b4	e2f4	men1	ccno	rnf111	ccnc	tfdp1	uba52	cdk9	cdk8
-R-XTR-9619665	EGR2 and SOX10-mediated initiation of Schwann cell myelination	
-R-XTR-804914	Transport of fatty acids	
 R-XTR-192456	Digestion of dietary lipid	pnliprp3	pnliprp2	pnliprp2	LOC394967
 R-XTR-8935690	Digestion	amy2a	pnliprp3	usp49	lct.2	adamts4	alpi.1	pnliprp2	amy2b	pnliprp2	pir	LOC394967	chit1
 R-XTR-8963743	Digestion and absorption	amy2a	pnliprp3	usp49	lct.2	npc1l1	adamts4	alpi.1	pnliprp2	amy2b	pnliprp2	pir	slc2a5	LOC394967	chit1
@@ -1099,7 +1088,6 @@ R-XTR-5626467	RHO GTPases activate IQGAPs	iqgap3	iqgap1	calm1	iqgap2	men1	ctnna1
 R-XTR-1614517	Sulfide oxidation to sulfate	suox	ethe1
 R-XTR-8948216	Collagen chain trimerization	col27a1	col5a2	col10a1	col3a1	LOC100490088	col8a1	col1a2	col14a1	col12a1	acod1	col5a1	emid1	col8a2	col13a1	dennd4a	col6a2	col6a2	col11a2p1	col1a1	col2a1
 R-XTR-1679131	Trafficking and processing of endosomal TLR	tlr7	XB986811 [provisional:ctsk]	mgc147172	lgmn	tlr9	ctss
-R-XTR-3296197	Hydroxycarboxylic acid-binding receptors	
 R-XTR-444209	Free fatty acid receptors	LOC101733670
 R-XTR-1300645	Acrosome Reaction and Sperm:Oocyte Membrane Binding	rwdd2a	abcc5	LOC100487305
 R-XTR-4655427	SUMOylation of DNA methylation proteins	dnmt1	ube2i	sumo1
@@ -1176,7 +1164,6 @@ R-XTR-8985586	SLIT2:ROBO1 increases RHOA activity	slit2	rhoa
 R-XTR-5578775	Ion homeostasis	ahcyl1	evl	tnni3	atp1a1	camk2d	itpr1	atp1a2	ift88	calm1	camk2a	stim1	camk2b	slc8a1	hand1	prkaca	XENTR_v90027188mg	ing1	atp1a3	ryr1	slc8a2	prdx1	rgs14	camk2g	sri	atp1b1
 R-XTR-196071	Metabolism of steroid hormones	stard6	srd5a1	h2bc14	cga	cyp11a1	cyp17a1	lrch2	stard4	hsd11b1	hsd17b2	hsd17b1	fdx1	tspo	hsd17b3	cyp19a1	prl.1	srd5a3	hsd17b12	serpina3m	pomc	hsd17b11	serpina3	serpina3k-prov	stard3
 R-XTR-196108	Pregnenolone biosynthesis	stard6	cyp11a1	lrch2	stard4	fdx1	tspo	prl.1	stard3
-R-XTR-163316	Mitochondrial transcription termination	
 R-XTR-75944	Transcription from mitochondrial promoters	nedd4	tfam
 R-XTR-6798163	Choline catabolism	slc44a1	sardh	aldh7a1	pdcd4	bhmt
 R-XTR-392170	ADP signalling through P2Y purinoceptor 12	itprip	gnai2	gnat2	gnai1	p2ry12	poc1b	gng5	gng7	gnai3	gnb3	gng13	gng2
@@ -1232,12 +1219,9 @@ R-XTR-159782	Removal of aminoterminal propeptides from gamma-carboxylated protei
 R-XTR-159854	Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	gas6	f7	proz	furin	proc	f10	f9	bglap
 R-XTR-202131	Metabolism of nitric oxide: NOS3 activation and regulation	hsp90aa1.1	nos3	akt1	calm1	nostrin	dnm2	ddah1	zdhhc21	lypla1	CAV1	ddah2	wasl	nosip
 R-XTR-203615	eNOS activation	hsp90aa1.1	nos3	akt1	calm1	ddah1	zdhhc21	lypla1	CAV1	ddah2
-R-XTR-8981607	Intracellular oxygen transport	
 R-XTR-8849471	PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	fbxo21	nras	rasa1	cd200r1	pxn	arhgap35	hras	rhoa	rac1
 R-XTR-975578	Reactions specific to the complex N-glycan synthesis pathway	chst10	man2a1	h2bc14	cga	fuca1	mgat2	fut8
 R-XTR-77108	Utilization of Ketone Bodies	cse1l	acat1
-R-XTR-5660668	CLEC7A/inflammasome pathway	
-R-XTR-211957	Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	
 R-XTR-2142670	Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	amd1	XB5798854 [provisional]	cyp2a6.7	ephx2	cyp2c8.2	crlf3	XB5880541	XB5880541	cyp2c37-prov	cyp2a6.8	mgc69353
 R-XTR-9018681	Biosynthesis of protectins	lta4h
 R-XTR-5625900	RHO GTPases activate CIT	prc1	cit	rhoa	rhoc	rac1	rhob
@@ -1269,12 +1253,10 @@ R-XTR-8866910	TFAP2 (AP-2) family regulates transcription of growth factors and 
 R-XTR-112311	Neurotransmitter clearance	bche	aldh2	comt
 R-XTR-379401	Dopamine clearance from the synaptic cleft	comt
 R-XTR-181430	Norepinephrine Neurotransmitter Release Cycle	ppfia1	XB5952276	syt1	ppfia2	pard6g	stx1a	rab3a	snap25
-R-XTR-2161517	Abacavir transmembrane transport	
 R-XTR-5358346	Hedgehog ligand biogenesis	sel1l	chmp1a	os9	ccno	derl2	uba52	vcp
 R-XTR-9634635	Estrogen-stimulated signaling through PRKCZ	nras	hras
 R-XTR-1474151	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	prkg2	hsp90aa1.1	nos3	akt1	calm1	gch1	gchfr
 R-XTR-8978934	Metabolism of cofactors	prkg2	hsp90aa1.1	nos3	idh1	coq2	akt1	ppp3cb	calm1	gxylt1	pdss2	gch1	gchfr
-R-XTR-5624958	ARL13B-mediated ciliary trafficking of INPP5E	
 R-XTR-444257	RSK activation	rps6ka2	rps6ka3	gtpbp8
 R-XTR-3928664	Ephrin signaling	fyn	pak1	pak2	ephb1	efnb1	ephb3	arhgef7	src	myl12b	nck2	sdcbp	rac1
 R-XTR-418885	DCC mediated attractive signaling	fyn	neo1	ptk2	src	trio	cdc42	nck1	rac1	wasl
@@ -1363,7 +1345,6 @@ R-XTR-177135	Conjugation of benzoate with glycine	acsm3
 R-XTR-177162	Conjugation of phenylacetate with glutamine	acsm3
 R-XTR-947581	Molybdenum cofactor biosynthesis	gphn	nfs1
 R-XTR-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	bmf	bcl2l1
-R-XTR-1299361	TWIK-related alkaline pH activated K+ channel (TALK)	
 R-XTR-111932	CaMK IV-mediated phosphorylation of CREB	calm1
 R-XTR-442729	CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	calm1
 R-XTR-9619229	Activation of RAC1 downstream of NMDARs	calm1	camk1
@@ -1410,13 +1391,11 @@ R-XTR-8984722	Interleukin-35 Signalling	stat4	stat1
 R-XTR-162699	Synthesis of dolichyl-phosphate mannose	dpm2	dpm1
 R-XTR-6785807	Interleukin-4 and Interleukin-13 signaling	stat1	il13ra2	larp1b
 R-XTR-8849469	PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	dok1	akt1	ccno	cbl-prov	uba52
-R-XTR-163358	PKA-mediated phosphorylation of key metabolic factors	
 R-XTR-1250342	PI3K events in ERBB4 signaling	pik3ca	pik3r1	ereg
 R-XTR-1250347	SHC1 events in ERBB4 signaling	shc1	nras	sos1	ereg	hras	grb2
 R-XTR-5686938	Regulation of TLR by endogenous ligand	psma4	ube2k	bpi4	hmgb1
 R-XTR-2172127	DAP12 interactions	vav3	btk	grap2	shc1	nras	vav2	plcg1	plcg2	sos1	hras	grb2	rac1
 R-XTR-2424491	DAP12 signaling	vav3	btk	grap2	shc1	nras	vav2	plcg1	plcg2	sos1	hras	grb2	rac1
-R-XTR-1855231	Synthesis of IPs in the ER lumen	
 R-XTR-400511	Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	LOC101733670
 R-XTR-446205	Synthesis of GDP-mannose	mpi	pmm1
 R-XTR-8964539	Glutamate and glutamine metabolism	XENTR_v90026261mg	gls	pycr1	got2	oat	kyat1
@@ -1427,7 +1406,6 @@ R-XTR-418360	Platelet calcium homeostasis	trpc6	p2rx2	itpr1	reep6	ift88	calm1	p2
 R-XTR-1237112	Methionine salvage pathway	mtap	mri1	enoph1	adi1
 R-XTR-1236973	Cross-presentation of particulate exogenous antigens (phagosomes)	ncf4
 R-XTR-5099900	WNT5A-dependent internalization of FZD4	cltb	ap2b1	gtf2e2	dvl2	ap2s1	ap2m1
-R-XTR-8963901	Chylomicron remodeling	
 R-XTR-140179	Amine Oxidase reactions	klf2	llgl2	smox
 R-XTR-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	klf2
 R-XTR-71262	Carnitine synthesis	aldh9a1	bbox1	tmlhe
@@ -1438,7 +1416,6 @@ R-XTR-1912408	Pre-NOTCH Transcription and Translation	prkci
 R-XTR-1912422	Pre-NOTCH Expression and Processing	tdrd7	furin	prkci	tmed2
 R-XTR-73843	5-Phosphoribose 1-diphosphate biosynthesis	prps2
 R-XTR-8849468	PTK6 Regulates Proteins Involved in RNA Processing	mrps9	khdrbs3	khdrbs2
-R-XTR-1299316	TWIK-releated acid-sensitive K+ channel (TASK)	
 R-XTR-8851805	MET activates RAS signaling	shc1	nras	hgf	sos1	hras	ranbp9	grb2
 R-XTR-8851907	MET activates PI3K/AKT signaling	pik3ca	dgcr8	pik3r1	hgf	grb2
 R-XTR-888593	Reuptake of GABA	slc6a13	cdc37	XB5944457 [provisional]
@@ -1469,17 +1446,13 @@ R-XTR-9036866	Expression and Processing of Neurotrophins	ngf	tspan31	furin
 R-XTR-2142770	Synthesis of 15-eicosatetraenoic acid derivatives	atp6	uqcc3	ptgs2
 R-XTR-70221	Glycogen breakdown (glycogenolysis)	slc25a3	phka1p1	gaa	calm1	phkb	agl	siae	pygl	gyg2	phkg1	gyg1
 R-XTR-1300642	Sperm Motility And Taxes	kcnma1	hvcn1
-R-XTR-112303	Electric Transmission Across Gap Junctions	
-R-XTR-112307	Transmission across Electrical Synapses 	
 R-XTR-174362	Transport and synthesis of PAPS	papss2	plod2	cox4i1	papss1
 R-XTR-9014826	Interleukin-36 pathway	il1b
 R-XTR-109703	PKB-mediated events	pde3b
 R-XTR-165160	PDE3B signalling	pde3b
 R-XTR-211916	Vitamins	cyp26a1	cyp26c1	cyp24a1	cyp26b1	cyp27b1
 R-XTR-446199	Synthesis of Dolichyl-phosphate	dolk	mvd	dolpp1	srd5a3
-R-XTR-5263617	Metabolism of ingested MeSeO2H into MeSeH	
 R-XTR-9609736	Assembly and cell surface presentation of NMDA receptors	grin2a	grin2c	grin1	dedd2
-R-XTR-8940973	RUNX2 regulates osteoblast differentiation	
 R-XTR-8941326	RUNX2 regulates bone development	smad4	ndufb1	smad1
 R-XTR-8853884	Transcriptional Regulation by VENTX	tcf7	tcf7l2	ctnnb1	tcf7l1	ventx2.1
 R-XTR-8983432	Interleukin-15 signaling	shc1	il13ra2	jak1	cldnd1	sos1	rasa2	larp1b	grb2
@@ -1494,7 +1467,6 @@ R-XTR-8847453	Synthesis of PIPs in the nucleus	pip4k2b	pip4p1	pip4k2c
 R-XTR-500753	Pyrimidine biosynthesis	cad
 R-XTR-418359	Reduction of cytosolic Ca++ levels	ift88	calm1	slc8a1	slc8a2	prdx1	sri
 R-XTR-1299503	TWIK related potassium channel (TREK)	kcnk10	kcnk2	kcnk4
-R-XTR-8964041	LDL remodeling	
 R-XTR-420029	Tight junction interactions	prkci
 R-XTR-173599	Formation of the active cofactor, UDP-glucuronate	ugp2	ugdh
 R-XTR-629587	Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	chrnd	gjb7	chrne
@@ -1508,7 +1480,6 @@ R-XTR-437239	Recycling pathway of L1	ap2b1	dnm2	dnm3	gtf2e2	ap2s1	ap2m1
 R-XTR-1912420	Pre-NOTCH Processing in Golgi	tdrd7	furin	tmed2
 R-XTR-2979096	NOTCH2 Activation and Transmission of Signal to the Nucleus	tdrd7	mdk
 R-XTR-9017802	Noncanonical activation of NOTCH3	tdrd7	psen2	diras2	ybx1	aph1a
-R-XTR-1483076	Synthesis of CL	
 R-XTR-211994	Sterols are 12-hydroxylated by CYP8B1	cyp8b1.1
 R-XTR-2395516	Electron transport from NADPH to Ferredoxin	lrch2	fdx1
 R-XTR-70370	Galactose catabolism	siae	gale
@@ -1545,7 +1516,6 @@ R-XTR-9020956	Interleukin-27 signaling	il6st
 R-XTR-8964208	Phenylalanine metabolism	tmem211	asrgl1	pah	qdpr	kyat1	pcbd1
 R-XTR-8877627	Vitamin E	ttpa
 R-XTR-6799990	Metal sequestration by antimicrobial proteins	s100z	tf
-R-XTR-2408557	Selenocysteine synthesis	
 R-XTR-426117	Cation-coupled Chloride cotransporters	mob2.2	slc12a2	slc12a6	pus1	slc12a4	slc12a3
 R-XTR-380612	Metabolism of serotonin	aldh2
 R-XTR-380615	Serotonin clearance from the synaptic cleft	aldh2
@@ -1558,7 +1528,6 @@ R-XTR-5627083	RHO GTPases regulate CFTR trafficking	cftr	gopc	dynlt5
 R-XTR-191650	Regulation of gap junction activity	tjp1	src	gja1
 R-XTR-1266695	Interleukin-7 signaling	il13ra2	brwd1	larp1b	TGas081o10.1
 R-XTR-9020558	Interleukin-2 signaling	il13ra2	jak1	rasa2	larp1b
-R-XTR-8849472	PTK6 Down-Regulation	
 R-XTR-193144	Estrogen biosynthesis	hsd17b2	hsd17b1	cyp19a1	prl.1	hsd17b11
 R-XTR-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	cdc25c	ywhae	ugt1a1	ywhah	ywhaq	ywhab	ywhaz
 R-XTR-8849175	Threonine catabolism	sdsl	sds
@@ -1568,7 +1537,6 @@ R-XTR-5662702	Melanin biosynthesis	tyr	dct	tyrp1	slc45a2
 R-XTR-428559	Proton-coupled neutral amino acid transporters	slc36a1
 R-XTR-480985	Synthesis of dolichyl-phosphate-glucose	alg5
 R-XTR-379397	Enzymatic degradation of dopamine by COMT	comt
-R-XTR-1483196	PI and PC transport between ER and Golgi membranes	
 R-XTR-5652227	Fructose biosynthesis	prl.1
 R-XTR-351200	Interconversion of polyamines	sat1	llgl2	smox
 R-XTR-173736	Alternative complement activation	c3
@@ -1593,8 +1561,6 @@ R-XTR-6803544	Ion influx/efflux at host-pathogen interface	slc11a1
 R-XTR-9034013	NTF3 activates NTRK3 signaling	ppip5k1
 R-XTR-111457	Release of apoptotic factors from the mitochondria	diablo	cycs	bax	cyct
 R-XTR-72764	Eukaryotic Translation Termination	apeh
-R-XTR-5660526	Response to metal ions	
-R-XTR-5661231	Metallothioneins bind metals	
 R-XTR-975110	TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	irf7
 R-XTR-141334	PAOs oxidise polyamines to amines	llgl2	smox
 R-XTR-68881	Mitotic Metaphase/Anaphase Transition	plk1	fbxo5

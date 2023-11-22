@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000002	"mitochondrial genome maintenance"	pif-1	C27H6.9	hmg-5
 GO:0000003	"reproduction"	cpg-1	pph-4.1	icp-1	abl-1	elt-1	kin-18	deb-1	snf-10	pab-1	spe-11	gei-17	rnp-1	fog-1	ced-3	lim-6	hcp-6	unc-116	cdc-25.3	him-6	htp-3	eat-4	mei-1	aex-3	msh-5	bas-1	cyb-3	cyn-4	spe-4	cng-3	spo-11	mat-2	mes-1	arf-1.2	ccf-1	fem-3	let-92	fer-1	pam-1	met-2	vps-33.2	atp-2	acn-1	brc-2	cav-1	cmd-1	fem-1	rad-50	rab-8	Y39A1A.9	oma-1	dpy-28	him-5	san-1	unc-73	nhr-6	kin-3	par-3	rec-8	lab-1	fcd-2	lip-1	eff-1	ify-1	ima-3	sec-61.G	act-2	daf-31	ceh-30	eat-2	mat-3	cdk-4	cyd-1	evl-20	cul-2	anc-1	ceh-39	smz-1	spe-38	aex-1	hpl-2	let-23	him-19	tads-1	alg-1	air-2	klc-1	rig-6	etc-1	cdk-1	tra-2	kgb-1	cil-1	egl-6	nog-1	cav-2	bub-3	dnc-1	dop-2	bec-1	egl-38	pch-2	coh-3	sel-10	tra-3	mlc-4	tra-1	him-14	bub-1	npp-10	apc-11	arl-1	cpi-2	him-3	lat-1	lin-41	fem-2	spe-6	fog-2	itr-1	cye-1	arf-3	plk-1	ced-12	cat-2	hus-1	emb-30	zmp-2	age-1	syp-1	brc-1	acy-4	ego-1	aph-1	klp-7	spe-44	atx-2	ceh-18	mbk-2	F39H12.3
 GO:0000009	"alpha-1,6-mannosyltransferase activity"	algn-12

@@ -1,17 +1,16 @@
-# Gene set GMT file for mulea Bioconductor R package
+# Gmt database for MulEA software (http://www.mulea.org/)
 # taxon_name: Arabidopsis thaliana
 # taxid: 3701 
-# ID_type: EntrezID
+# ID_type: Gene symbol
 # source_URL: http://atrm.cbi.pku.edu.cn/index.php
 # source_PMID: 25750178
-# source_primary_ID: Gene symbol
 # source_version: version 4.0 
 # source_last_update: 21-07-2017
 # gmt_download_date:2018-04-23 15:24:13.595394
-# gmt_file_version: 1.1
-# gmt_entry_names: Transcription factor (Gene symbol)
-
-# Transcription factor (Gene symbol)	Transcription factor (Gene symbol)	Gene set (EntrezID)
+# gmt_file_version: 1
+# gmt_entry_names: Transcription factor
+# Transcription factor	Transcription factor	Gene set (Gene symbol)
+# Transcription factor	Transcription factor	Gene set (Gene symbol)
 LHY	LHY	839529	838883	840184	842859	816705	818596	819292	823817	831793	831441	836259
 ETC1	ETC1	844323
 AGL28	AGL28	827904	827323
@@ -26,7 +25,6 @@ DDF1	DDF1	841518	818854	831615	835307
 SCRM2	SCRM2	835402
 ESR1	ESR1	816305	817267
 WRKY4	WRKY4	815945
-FLP	FLP	
 GAI	GAI	838125	814962	818199	822415	828645	836307
 SHN1	SHN1	839395	837602	828553
 MYB58	MYB58	838165	841593	818280	818386	818686	829551	829572	834951

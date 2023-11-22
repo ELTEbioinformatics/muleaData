@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000001	"mitochondrion inheritance"	8627152
 GO:0000002	"mitochondrial genome maintenance"	8621067	8620254
 GO:0000003	"reproduction"	8625747	8626684	8616408	8617737	8623469	8620824	8618087	8626774	8616469	8624693	8616016	8617150	8622105	8624243	8627582	8616961	8618612	8618930	8616748	8624628	8615889	8627607	8622811	8616103	8625714	8625403	8628825	8626993	8628398	8625068	8621877	8629281
@@ -79,7 +73,6 @@ GO:0000160	"phosphorelay signal transduction system"	8616482	8619608
 GO:0000164	"protein phosphatase type 1 complex"	8620226
 GO:0000165	"MAPK cascade"	8617426	8617360	8616344	8620793	8628540	8617472	8623068	8624035
 GO:0000166	"nucleotide binding"	8624309	8618367	8617355	8620299	8625606	8616667	8617276	8618582	8618118	8615932	8617822	2193895	8621425	8615976	8617175	8616450	8625585	8616482	8618879	8616668	8623451
-GO:0000171	"ribonuclease MRP activity"	
 GO:0000172	"ribonuclease MRP complex"	8617403
 GO:0000175	"3'-5'-exoribonuclease activity"	8622319	8617149	8616436
 GO:0000176	"nuclear exosome (RNase complex)"	8618039
@@ -154,11 +147,8 @@ GO:0000339	"RNA cap binding"	8619653	8617269	8624791
 GO:0000340	"RNA 7-methylguanosine cap binding"	8624791
 GO:0000346	"transcription export complex"	8620250
 GO:0000347	"THO complex"	8620250	8627959
-GO:0000348	"mRNA branch site recognition"	
 GO:0000349	"generation of catalytic spliceosome for first transesterification step"	8620756
 GO:0000350	"generation of catalytic spliceosome for second transesterification step"	8625150
-GO:0000353	"formation of quadruple SL/U4/U5/U6 snRNP"	
-GO:0000365	"mRNA trans splicing, via spliceosome"	
 GO:0000372	"Group I intron splicing"	8628101
 GO:0000375	"RNA splicing, via transesterification reactions"	8628356	8625150	8617786	8629465	8628101	8618627	8617455	8617269	8627218	8621267	8619463	8618714	8621704	8621952	8620270	8620756	8616124	8621504
 GO:0000376	"RNA splicing, via transesterification reactions with guanosine as nucleophile"	8628101
@@ -567,7 +557,6 @@ GO:0003968	"RNA-directed RNA polymerase activity"	8622843
 GO:0003972	"RNA ligase (ATP) activity"	8621598
 GO:0003973	"(S)-2-hydroxy-acid oxidase activity"	8628352
 GO:0003974	"UDP-N-acetylglucosamine 4-epimerase activity"	8619881
-GO:0003975	"UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity"	
 GO:0003976	"UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity"	8625300
 GO:0003977	"UDP-N-acetylglucosamine diphosphorylase activity"	8627448
 GO:0003978	"UDP-glucose 4-epimerase activity"	8619881
@@ -819,7 +808,6 @@ GO:0004550	"nucleoside diphosphate kinase activity"	8618831
 GO:0004551	"nucleotide diphosphatase activity"	8616166	8625444	8619446
 GO:0004553	"hydrolase activity, hydrolyzing O-glycosyl compounds"	8621235	8622916	8616399	8617579	8619691	8620195	8625926	8628946	8624120	8617122	8616650	8622295	8617116	8617994	8626162	8626138	8616618	8616101	8616351	8626563	8623642
 GO:0004555	"alpha,alpha-trehalase activity"	8624120
-GO:0004556	"alpha-amylase activity"	
 GO:0004557	"alpha-galactosidase activity"	8617994
 GO:0004559	"alpha-mannosidase activity"	8616618	8616650
 GO:0004560	"alpha-L-fucosidase activity"	8619691
@@ -866,8 +854,6 @@ GO:0004632	"phosphopantothenate--cysteine ligase activity"	8623692
 GO:0004633	"phosphopantothenoylcysteine decarboxylase activity"	8621556
 GO:0004634	"phosphopyruvate hydratase activity"	8616467
 GO:0004637	"phosphoribosylamine-glycine ligase activity"	8627491
-GO:0004638	"phosphoribosylaminoimidazole carboxylase activity"	
-GO:0004639	"phosphoribosylaminoimidazolesuccinocarboxamide synthase activity"	
 GO:0004641	"phosphoribosylformylglycinamidine cyclo-ligase activity"	8627491
 GO:0004642	"phosphoribosylformylglycinamidine synthase activity"	8626476
 GO:0004643	"phosphoribosylaminoimidazolecarboxamide formyltransferase activity"	8620812
@@ -1001,7 +987,6 @@ GO:0004869	"cysteine-type endopeptidase inhibitor activity"	8620709
 GO:0004879	"RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding"	8627896
 GO:0004888	"transmembrane signaling receptor activity"	8622946	8619384	8625116	8616865	8618967	8622944	8629469	8618108	8616300	8628106
 GO:0004930	"G-protein coupled receptor activity"	8616865	8618967	8622944	8629469
-GO:0004965	"G-protein coupled GABA receptor activity"	
 GO:0004985	"opioid receptor activity"	8629469
 GO:0005034	"osmosensor activity"	8619384
 GO:0005044	"scavenger receptor activity"	8624609
@@ -1529,7 +1514,6 @@ GO:0006482	"protein demethylation"	8626160	8616646	8617028	8623168
 GO:0006486	"protein glycosylation"	8618402	8618657	8625803	8628061	8620679	8625655	8625300	8616193
 GO:0006487	"protein N-linked glycosylation"	8618402	8625803	8625300	8616193
 GO:0006488	"dolichol-linked oligosaccharide biosynthetic process"	8616193
-GO:0006489	"dolichyl diphosphate biosynthetic process"	
 GO:0006490	"oligosaccharide-lipid intermediate biosynthetic process"	8618657	8616193
 GO:0006491	"N-glycan processing"	8617122	8625300
 GO:0006493	"protein O-linked glycosylation"	8625655	8628061	8620679
@@ -1808,8 +1792,7 @@ GO:0007042	"lysosomal lumen acidification"	8616300
 GO:0007049	"cell cycle"	8616860	8618872	8620547	8618918	8624243	8619694	8617900	8616448	8617060	8617759	8621904	8625711	8624450	8619979	8618728	8626684	8624354	8617398	8626591	8617453	8620457	8622204	8625324	8617038	8618930	8618624	8616153	8622811	8618640	8625277	8622464	8625068	8624179	8617766	8629023	8626583	8621877	8629281	8624948	8620824	8620146	8618087	8616412	8621896	8626774	8625615	8626790	8616469	8618312	8618603	8621500	8628077	8616961	8623915	8624628	8616086	8616510	8627047	8622777	8619554	8616484	8625295	8628825	8628398	8619789	8622485	8627717	8615889	8625069	8624883	8616454	8621713	8616029	8626625	8620312	8617781	8625948	8622105	8621071	8616748	8627563	8624650	8627607	8618327	8621910	8625714	8621862	8624704
 GO:0007050	"cell cycle arrest"	8619694	8625324
 GO:0007051	"spindle organization"	8617038	8616484	8622464	8618087	8620457	8621713	8624179	8626583	8618327	8619979	8625277
-GO:0007052	"mitotic spindle organization"	8616484
-8622464	8620457	8624179	8618327	8625277
+GO:0007052	"mitotic spindle organization"	8616484	8622464	8620457	8624179	8618327	8625277
 GO:0007059	"chromosome segregation"	8620824	8618872	8624354	8626774	8616029	8616469	8618603	8622105	8621500	8617900	8622204	8623915	8627563	8627607	8622811	8618327	8618640	8622464	8628825	8628398	8624179	8619789	8626583	8622485
 GO:0007062	"sister chromatid cohesion"	8620824	8623915	8628825	8617900	8622485
 GO:0007063	"regulation of sister chromatid cohesion"	8622485
@@ -2111,7 +2094,6 @@ GO:0008829	"dCTP deaminase activity"	8629306
 GO:0008832	"dGTPase activity"	8618486
 GO:0008833	"deoxyribonuclease IV (phage-T4-induced) activity"	8622321
 GO:0008836	"diaminopimelate decarboxylase activity"	8617305
-GO:0008837	"diaminopimelate epimerase activity"	
 GO:0008843	"endochitinase activity"	8616351
 GO:0008855	"exodeoxyribonuclease VII activity"	8617410
 GO:0008873	"gluconate 2-dehydrogenase activity"	8628512
@@ -2127,7 +2109,6 @@ GO:0008936	"nicotinamidase activity"	8629342
 GO:0008941	"nitric oxide dioxygenase activity"	8628685
 GO:0008948	"oxaloacetate decarboxylase activity"	8618505
 GO:0008962	"phosphatidylglycerophosphatase activity"	8628095
-GO:0008963	"phospho-N-acetylmuramoyl-pentapeptide-transferase activity"	
 GO:0008964	"phosphoenolpyruvate carboxylase activity"	8626264
 GO:0008966	"phosphoglucosamine mutase activity"	8623256
 GO:0008976	"polyphosphate kinase activity"	8626883
@@ -2168,7 +2149,6 @@ GO:0009083	"branched-chain amino acid catabolic process"	8618230	8628069	8615912
 GO:0009084	"glutamine family amino acid biosynthetic process"	8615966	8627058	8616891
 GO:0009085	"lysine biosynthetic process"	8625017	8617446
 GO:0009086	"methionine biosynthetic process"	8616314	8616151
-GO:0009089	"lysine biosynthetic process via diaminopimelate"	
 GO:0009092	"homoserine metabolic process"	8616970
 GO:0009093	"cysteine catabolic process"	8626189
 GO:0009094	"L-phenylalanine biosynthetic process"	8621691
@@ -2492,7 +2472,6 @@ GO:0010587	"miRNA catabolic process"	8622843
 GO:0010603	"regulation of cytoplasmic mRNA processing body assembly"	8617136
 GO:0010604	"positive regulation of macromolecule metabolic process"	8617426	8628644	8628356	8625227	8621014	8618271	8625258	8617464	8616412	8620698	8619350	8624825	8616111	8629162	8625035	8618685	8616048	8618652	8622072	8626472	8625198	8628289	8617698	8625987	8628493	8621423	8616854	8629182	8619384	8625064	8618930	8623068	8620485	8624650	8615951	8620235	8623428	8621191	8624317	8624588	8628349	8625299	8629145	8628540	8624158	8618306	8623774	8622138	8624890	8627414	8623750	8620736	8618967	8625711	8616067	8624035	8622062	8621781
 GO:0010605	"negative regulation of macromolecule metabolic process"	8618483	8618725	8620211	8615986	8626867	8616269	8617526	8624153	8616493	8628081	8617061	8618966	8624825	8625934	8622225	8617276	8620793	8621233	8618652	8622465	8618039	8624481	8620288	8617596	8625948	8622843	8622094	8617776	8627005	8616850	8618464	8624149	8619475	8618185	8627305	8617360	8617269	8625064	8624497	8621677	8618899	8620875	8626509	8627563	8615975	8626287	8620422	8619463	8616086	8618796	8624740	8618477	8621532	8619399	8617026	8617149	8629145	8619985	8616935	8617228	8628893	8628450	8616067	8618629	8622562	8617813	8624229
-GO:0010606	"positive regulation of cytoplasmic mRNA processing body assembly"	
 GO:0010608	"posttranscriptional regulation of gene expression"	8616269	8616405	8626783	8622432	8629162	8622225	8619886	8618652	8622843	8617078	8617776	8626472	8628289	8618185	8616223	8627305	8617573	8615975	8620422	8626287	8623774	8624890	8628450	8627414	8622062	8618629	8616283
 GO:0010628	"positive regulation of gene expression"	8628356	8625227	8617464	8616412	8629162	8625035	8616048	8618652	8626472	8628289	8625987	8616854	8625064	8624650	8620235	8621191	8624588	8628349	8624158	8618306	8623774	8624890	8627414	8623750	8616067	8622062
 GO:0010629	"negative regulation of gene expression"	8618483	8615986	8616269	8616493	8628081	8624825	8622225	8621233	8618652	8622465	8618039	8624481	8620288	8622843	8617776	8616850	8627005	8618464	8618185	8627305	8617269	8625064	8624497	8621677	8618899	8620875	8626509	8615975	8620422	8619463	8616086	8618477	8621532	8619399	8617026	8617149	8617228	8628893	8628450	8616067	8618629	8622562	8617813
@@ -2791,7 +2770,6 @@ GO:0016137	"glycoside metabolic process"	8628220
 GO:0016139	"glycoside catabolic process"	8628220
 GO:0016149	"translation release factor activity, codon specific"	8626719
 GO:0016153	"urocanate hydratase activity"	8621175
-GO:0016160	"amylase activity"	
 GO:0016162	"cellulose 1,4-beta-cellobiosidase activity"	8616399
 GO:0016174	"NAD(P)H oxidase activity"	8626532
 GO:0016175	"superoxide-generating NADPH oxidase activity"	8625916
@@ -3621,7 +3599,6 @@ GO:0030522	"intracellular receptor signaling pathway"	8627143	8624766
 GO:0030523	"dihydrolipoamide S-acyltransferase activity"	8621644
 GO:0030527	"structural constituent of chromatin"	8627138
 GO:0030532	"small nuclear ribonucleoprotein complex"	8621290	8618309	8616580	8625063	8616799	8616290	8617849
-GO:0030533	"triplet codon-amino acid adaptor activity"	
 GO:0030544	"Hsp70 protein binding"	8628648
 GO:0030545	"receptor regulator activity"	8618521	8628444	8622682	8617150
 GO:0030546	"receptor activator activity"	8628444	8622682	8617150
@@ -3630,17 +3607,13 @@ GO:0030551	"cyclic nucleotide binding"	8616450	8616668
 GO:0030552	"cAMP binding"	8616450
 GO:0030553	"cGMP binding"	8616668
 GO:0030554	"adenyl nucleotide binding"	2193895	8617276	8616450	8624309	8618367	8616482	8618879	8620299	8625606
-GO:0030555	"RNA modification guide activity"	
-GO:0030561	"RNA 2'-O-ribose methylation guide activity"	
 GO:0030580	"quinone cofactor methyltransferase activity"	8621843	8622456
 GO:0030586	"[methionine synthase] reductase activity"	8616145
 GO:0030587	"sorocarp development"	8622682	8616881	8616395	8618652	8616016	8616850	8618569	8626477	8622060	8617212	8616380	8621061	8616153	8615934	8616103	8616465	8616289	8616482	8616702	8616213
 GO:0030619	"U1 snRNA binding"	8616290
 GO:0030620	"U2 snRNA binding"	8619668
-GO:0030621	"U4 snRNA binding"	
 GO:0030623	"U5 snRNA binding"	8619668
 GO:0030626	"U12 snRNA binding"	8617528
-GO:0030627	"pre-mRNA 5'-splice site binding"	
 GO:0030628	"pre-mRNA 3'-splice site binding"	8623303
 GO:0030638	"polyketide metabolic process"	8616850
 GO:0030639	"polyketide biosynthetic process"	8616850
@@ -4218,7 +4191,6 @@ GO:0033143	"regulation of intracellular steroid hormone receptor signaling pathw
 GO:0033149	"FFAT motif binding"	8621685
 GO:0033157	"regulation of intracellular protein transport"	8622790	8628079	8619361	8621511	8625061	8617004	8616300	8618327
 GO:0033170	"protein-DNA loading ATPase activity"	8623477
-GO:0033173	"calcineurin-NFAT signaling cascade"	
 GO:0033176	"proton-transporting V-type ATPase complex"	8618907	8619346	8618174	8628392	8619464
 GO:0033177	"proton-transporting two-sector ATPase complex, proton-transporting domain"	8624009	8618907	8628392	8616156	8619746
 GO:0033178	"proton-transporting two-sector ATPase complex, catalytic domain"	8617357	8620054	8618174	8616511	8619464	8620355
@@ -4672,8 +4644,6 @@ GO:0036503	"ERAD pathway"	8617821	8625050	8625277
 GO:0038003	"opioid receptor signaling pathway"	8629469
 GO:0038023	"signaling receptor activity"	8622946	8622937	8619384	8625116	8616865	8618967	8622944	8629469	8618108	8616300	8628106	8619871
 GO:0038024	"cargo receptor activity"	8624609
-GO:0038037	"G-protein coupled receptor dimeric complex"	
-GO:0038039	"G-protein coupled receptor heterodimeric complex"	
 GO:0038083	"peptidyl-tyrosine autophosphorylation"	8624357
 GO:0038201	"TOR complex"	8617737	8621031
 GO:0038202	"TORC1 signaling"	8620954	8622793	8621592
@@ -4764,7 +4734,6 @@ GO:0042398	"cellular modified amino acid biosynthetic process"	8621379	8624704	8
 GO:0042401	"cellular biogenic amine biosynthetic process"	8619987	8616702	8622878
 GO:0042402	"cellular biogenic amine catabolic process"	8617171
 GO:0042406	"extrinsic component of endoplasmic reticulum membrane"	8617193
-GO:0042407	"cristae formation"	
 GO:0042409	"caffeoyl-CoA O-methyltransferase activity"	8618075
 GO:0042412	"taurine biosynthetic process"	8626189
 GO:0042430	"indole-containing compound metabolic process"	8623776	8624069	8617171
@@ -4780,7 +4749,6 @@ GO:0042465	"kinesis"	8620930
 GO:0042466	"chemokinesis"	8620930
 GO:0042493	"response to drug"	8618759	8621722
 GO:0042500	"aspartic endopeptidase activity, intramembrane cleaving"	8628895
-GO:0042509	"regulation of tyrosine phosphorylation of STAT protein"	
 GO:0042537	"benzene-containing compound metabolic process"	8617171	8623776	8623972	8616532	8629443	8617161	8627100	8624472	8619351
 GO:0042542	"response to hydrogen peroxide"	8622062	8615933	8615890
 GO:0042543	"protein N-linked glycosylation via arginine"	8625803
@@ -5053,7 +5021,6 @@ GO:0043682	"copper-transporting ATPase activity"	8624390
 GO:0043687	"post-translational protein modification"	8617799	8618733	8617122	8622309
 GO:0043715	"2,3-diketo-5-methylthiopentyl-1-phosphate enolase activity"	8616314
 GO:0043716	"2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase activity"	8616314
-GO:0043727	"5-amino-4-imidazole carboxylate lyase activity"	
 GO:0043733	"DNA-3-methylbase glycosylase activity"	8617613
 GO:0043783	"oxidoreductase activity, oxidizing metal ions with flavin as acceptor"	8621736
 GO:0043795	"glyceraldehyde oxidoreductase activity"	8616327
@@ -5252,7 +5219,6 @@ GO:0045275	"respiratory chain complex III"	2193899	8624195
 GO:0045277	"respiratory chain complex IV"	8617300
 GO:0045281	"succinate dehydrogenase complex"	8619802	8617527
 GO:0045283	"fumarate reductase complex"	8617527
-GO:0045291	"mRNA trans splicing, SL addition"	
 GO:0045292	"mRNA cis splicing, via spliceosome"	8617269	8621504
 GO:0045294	"alpha-catenin binding"	8626891
 GO:0045309	"protein phosphorylated amino acid binding"	8618931	8625657
@@ -5447,14 +5413,12 @@ GO:0046403	"polynucleotide 3'-phosphatase activity"	8622956
 GO:0046404	"ATP-dependent polydeoxyribonucleotide 5'-hydroxyl-kinase activity"	8623749
 GO:0046415	"urate metabolic process"	8625614
 GO:0046416	"D-amino acid metabolic process"	8627151	8628056	8618842	8621830
-GO:0046425	"regulation of JAK-STAT cascade"	
 GO:0046434	"organophosphate catabolic process"	8625393	8619742	8625642	8618486	8616062	8625159	8620429	8629190	8616309	8616485	8627475	8618755
 GO:0046435	"3-(3-hydroxy)phenylpropionate metabolic process"	8626249
 GO:0046437	"D-amino acid biosynthetic process"	8627151
 GO:0046439	"L-cysteine metabolic process"	8626189
 GO:0046440	"L-lysine metabolic process"	8619904
 GO:0046443	"FAD metabolic process"	8623846
-GO:0046451	"diaminopimelate metabolic process"	
 GO:0046452	"dihydrofolate metabolic process"	8625801
 GO:0046456	"icosanoid biosynthetic process"	8617739
 GO:0046459	"short-chain fatty acid metabolic process"	8626165	8618224
@@ -5463,7 +5427,6 @@ GO:0046461	"neutral lipid catabolic process"	8627041
 GO:0046462	"monoacylglycerol metabolic process"	8617825
 GO:0046463	"acylglycerol biosynthetic process"	8617825	8627566	8618224
 GO:0046464	"acylglycerol catabolic process"	8627041
-GO:0046465	"dolichyl diphosphate metabolic process"	
 GO:0046466	"membrane lipid catabolic process"	8627295	8623817	8617994	8616181	8616062
 GO:0046467	"membrane lipid biosynthetic process"	8617193	8616062	8620391	8623361	8616325	8626840
 GO:0046470	"phosphatidylcholine metabolic process"	8618588	8627554
@@ -5651,7 +5614,6 @@ GO:0048207	"vesicle targeting, rough ER to cis-Golgi"	8618440
 GO:0048208	"COPII vesicle coating"	8618440
 GO:0048209	"regulation of vesicle targeting, to, from or within Golgi"	8624296	8618440
 GO:0048211	"Golgi vesicle docking"	8619924
-GO:0048244	"phytanoyl-CoA dioxygenase activity"	
 GO:0048250	"mitochondrial iron ion transport"	8616939
 GO:0048254	"snoRNA localization"	8623816
 GO:0048255	"mRNA stabilization"	8618652
@@ -5992,7 +5954,6 @@ GO:0051539	"4 iron, 4 sulfur cluster binding"	8616111
 GO:0051540	"metal cluster binding"	8615877	8616111	8617527
 GO:0051560	"mitochondrial calcium ion homeostasis"	8625616
 GO:0051568	"histone H3-K4 methylation"	8621724	8618096
-GO:0051569	"regulation of histone H3-K4 methylation"	
 GO:0051588	"regulation of neurotransmitter transport"	8623879
 GO:0051591	"response to cAMP"	8617642	8620447
 GO:0051592	"response to calcium ion"	8618330	8628760	8628206
@@ -6172,7 +6133,6 @@ GO:0060070	"canonical Wnt signaling pathway"	8618391	8629069
 GO:0060089	"molecular transducer activity"	8622946	8619384	8619608	8622937	8625116	8616865	8618967	8622944	8629469	8618108	8616300	8628106	8619871
 GO:0060090	"binding, bridging"	8618983	8620798	8615994	8628818	8621623	8616670	8618603	8617770	8621170	8629357	8628118
 GO:0060097	"cytoskeletal rearrangement involved in phagocytosis, engulfment"	8625811
-GO:0060098	"membrane reorganization involved in phagocytosis, engulfment"	
 GO:0060099	"regulation of phagocytosis, engulfment"	8620897
 GO:0060100	"positive regulation of phagocytosis, engulfment"	8620897
 GO:0060147	"regulation of posttranscriptional gene silencing"	8618629
@@ -6244,7 +6204,6 @@ GO:0061512	"protein localization to cilium"	8625434
 GO:0061522	"1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity"	8627469
 GO:0061542	"3-demethylubiquinone-n 3-O-methyltransferase activity"	8621843
 GO:0061572	"actin filament bundle organization"	8616670	8620198	8621868	8623058	8625606
-GO:0061574	"ASAP complex"	
 GO:0061575	"cyclin-dependent protein serine/threonine kinase activator activity"	8626951
 GO:0061578	"Lys63-specific deubiquitinase activity"	8618542
 GO:0061598	"molybdopterin adenylyltransferase activity"	8626035
@@ -6446,7 +6405,6 @@ GO:0070861	"regulation of protein exit from endoplasmic reticulum"	8616300
 GO:0070863	"positive regulation of protein exit from endoplasmic reticulum"	8616300
 GO:0070873	"regulation of glycogen metabolic process"	8628679
 GO:0070876	"SOSS complex"	8621933
-GO:0070884	"regulation of calcineurin-NFAT signaling cascade"	
 GO:0070887	"cellular response to chemical stimulus"	8628206	8617525	8622027	8617082	8628760	8617083	8619608	8628405	8618685	8620920	8620877	8623904	8618924	8620198	8628001	8624438	8615890	8621207	8624149	8616441	8625050	8615996	8619384	8627143	8628685	8622385	8621170	8625608	8619351	8619815	8616298	8625393	8618827	8620966	8619701	8623750	8616482	8622062	8624766	8617806
 GO:0070897	"DNA-templated transcriptional preinitiation complex assembly"	8619852	8627902	8624063	8619646	8624588
 GO:0070898	"RNA polymerase III transcriptional preinitiation complex assembly"	8624063
@@ -6902,7 +6860,6 @@ GO:0097577	"sequestering of iron ion"	8625194
 GO:0097581	"lamellipodium organization"	8617642
 GO:0097602	"cullin family protein binding"	8617413
 GO:0097617	"annealing activity"	8620229	8623254
-GO:0097648	"G-protein coupled receptor complex"	
 GO:0097651	"phosphatidylinositol 3-kinase complex, class I"	8628555
 GO:0097656	"cell-cell self recognition"	8622682
 GO:0097659	"nucleic acid-templated transcription"	8618483	8618725	8625227	8619852	8617394	8626217	8617464	8617348	8616412	8619350	8627902	8619646	8616111	8625489	8621095	8625035	8628405	8621233	8616048	8616444	8622843	8627005	8618464	8627890	8618103	8628838	8625987	8616020	8628597	8624063	8627143	8625064	8618899	8627747	8618007	8620235	8629439	8621191	8616086	8618315	8615988	8618238	8624588	8628349	8621532	8619399	8617026	8624158	8618306	8621456	8627217	8625723	8628893	8626255	8623750	8616067	8617962	8618971	8616158	8616892	8616530	8618728	8618972	8615985

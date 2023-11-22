@@ -9,7 +9,7 @@
 # gmt_download_date:
 # gmt_file_version: 2
 # gmt_entry_names: Transcription factor
-
+# Transcription factor	Transcription factor	Gene set (Gene symbol)
 # Transcription factor	Transcription factor	Gene set (Gene symbol)
 AATF	AATF	Q07812	P38936	P03952	P01106	P04637
 ABL1	ABL1	Q07812	P10415	P41182	P30279	P38936	P09603	P09603	O43524	P05412	P05412	P11309	P04637

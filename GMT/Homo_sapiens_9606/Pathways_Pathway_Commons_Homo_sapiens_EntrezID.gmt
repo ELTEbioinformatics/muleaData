@@ -9,7 +9,7 @@
 # gmt_download_date: 24-09-2020
 # gmt_file_version: 2 
 # gmt_entry_names: Pathway ID
-
+# Pathway ID	Pathway	Gene set (Uniprot)
 # Pathway ID	Pathway	Gene set (Uniprot)
 PC_1	Glycolysis / Gluconeogenesis	3098	5236	5315	4967	2597	2821	5232	669	2203	1738	230	1737	5162	10327	218	2645	224	8382	7167	5214	5106	2645	2026	128	160287	130	130589	83440	57818	55902
 PC_2	Citrate cycle (TCA cycle)	8803	4967	1431	3417	2271	1738	1737	5162	5091	6389	1743	4190	47	5106	48

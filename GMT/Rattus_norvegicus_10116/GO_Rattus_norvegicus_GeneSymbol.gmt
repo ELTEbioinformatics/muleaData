@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000002	"mitochondrial genome maintenance"	Ppargc1a	Dna2	Flcn	Tymp	Mpv17	Polg2
 GO:0000003	"reproduction"	Hoxa9	Serpine2	Ccr6	Tifab	Bmp5	Piwil1	Rxfp1	Irf2bpl	Spint1	Spo11	Tmem184a	Psma8	Spink13	Tp53	Ggnbp2	Gli2	Hoxd13	Ash1l	Spata22	Tssk6	Wnt7a	Tnc	Med1	Mcmdc2	Ar	Sox9	Runx1	Ovol1	Mmp1	Foxo3	Ift88	Sgo2	Spem1	Pithd1	Cdh1	Wnt4	Avpr1a	Rarg	Ptgdr2	Nodal	Zfp386	LOC108348134	NEWGENE_1306210	Chat	Rtfdc1	Rhbdd1	Astl	Mastl	Stk4	Esr1	Espl1	Sirt1	Ddo	Smarcc1	Klhl10	Paep	Dicer1	Chrna7	Svs3b	Klk14	Tekt4	Sox30	Npas3	Insr	Plac1	Tk1	Fgf10	Tppp3	Havcr2	Bax	Nkx3-1	Grhl2	Ptafr	Gja1	Fbxw8	Zfpm2	Foxa1	Pde3a	Fancm	Nsun2	Dmrt3	Fmn2	Syde1	Sos1	Ankrd31	Kif20a	Stxbp1	Cftr	Pmp22	Cct6a	Lhb	Serpina5	Ube3a	Hsp90ab1	Nhlh2	Hdac2	Fzr1	Ercc1	Drd5	Robo2	Rsph6a	Zan	Ncapd3	Igf1r	Ttk	Ror2	M1ap	Lhcgr	Zfp57	Shh	Hsd3b1	Septin1	Fbxo5	Foxc1	Lrp6	Setd2	Foxl2	Trip13	Ppp2r1a	Arid4a	Il18	Map3k4	Trpc2	Wnt5a	Pygo2	Kash5	Phlda2	Pax2	Shbg	Insl3	Alpl	Prkacb	Lhx9	Slx4	Ereg	Camk2b	Cbx2	Terb1	Brca2	Zp3	Shcbp1l	Il1a	Rps6	Rnase10	Ada	Smc2	Gdf9	Slc9b1	Tppp2	Sohlh2	Mapk15	Cenpe	Wbp2nl	Csmd1	Dazl	Ybx2	Ncaph2	Cmpk1	Crip1	Ccne2	Cdc25b	Prnd	Bnc1	Igf2	Mmp12	Sptbn4	Mcm8	Rac1	NEWGENE_1565644	Cep131	Snu13	Tex11	Actr2	Zfx	Dnmt3l	Avp	Grk2	Ihh	Igf1	Amh	Hectd1	Prkdc	Lgr5	Mast2	Notch1	Spire2	Sox3	Arhgdib	Pappa1	Mos	Frs2	Rara	Tpst2	Nanog	Catsper3	Snai1	Spaca3	Six4	Ccnb2	Ythdf2	Hyal3	Mlh1	Topaz1	LOC108348175	Eqtn	Zfp830	Brip1	Umodl1	Mir135a	Tcp11	Msh5	Cntfr	Dnajb6	Fndc3a	Mmp23	Akt1	Tdrd5	Dmc1	Inhba	Brdt	Inhbb	Dhx36	Plag1	RGD1563323	Aspm	Safb2	Shb	Prss37	Plk4	Larp7	Acr	Fem1b	Pkdrej	Id4	Ehmt2	Fgfr2	Spink2	Plcz1	Fuom	Hexb	Sfrp1	Thra	Rad1	Gpr149	Ncoa1	Hoxc4	Stra6	Hormad1	Bmp4	Lhfpl2	LOC103690165	Nrip1	Ube2q1	Prdm9	Pla2g3	Sycp1	Ago4	Cnr1	Smad4	F1M2G0	Itgb4	Stra8	Cenpc	Ing2	Wdr77	Rad51c
 GO:0000009	"alpha-1,6-mannosyltransferase activity"	Alg12	Pigv
@@ -19696,8 +19690,7 @@ GO:1903640	"negative regulation of gastrin-induced gastric acid secretion"	Ptger
 GO:1903644	"regulation of chaperone-mediated protein folding"	Pdcl3	Sgta	Dnajb2
 GO:1903645	"negative regulation of chaperone-mediated protein folding"	Pdcl3
 GO:1903646	"positive regulation of chaperone-mediated protein folding"	Sgta
-GO:1903649	"reajb2
-ion of cytoplasmic transport"	Trim46	Snx12	Mapk8	Rab21	Arfip1	Mecp2	Dnajc13	Sorl1	Lrrk2	Eipr1	Sh3glb1
+GO:1903649	"regulation of cytoplasmic transport"	Trim46	Snx12	Mapk8	Rab21	Arfip1	Mecp2	Dnajc13	Sorl1	Lrrk2	Eipr1	Sh3glb1
 GO:1903650	"negative regulation of cytoplasmic transport"	Arfip1	Snx12
 GO:1903651	"positive regulation of cytoplasmic transport"	Trim46	Rab21	Mecp2	Sorl1	Eipr1
 GO:1903659	"regulation of complement-dependent cytotoxicity"	Hsp90ab1	Cd5l	Cdh5

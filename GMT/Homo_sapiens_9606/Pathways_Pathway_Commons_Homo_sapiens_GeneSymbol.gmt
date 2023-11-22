@@ -9,7 +9,7 @@
 # gmt_download_date: 24-09-2020
 # gmt_file_version: 2 
 # gmt_entry_names: Pathway ID
-
+# Pathway ID	Pathway	Gene set (Uniprot)
 # Pathway ID	Pathway	Gene set (Uniprot)
 PC_1	Glycolysis / Gluconeogenesis	PKM	OGDH	GAPDH	GPI	PGK2	BPGM	FBP1	DLD	ALDOC	DLAT	PDHB	AKR1A1	ALDH3A1	GCK	ALDH3A2	NME5	TPI1	PFKP	PCK2	GCK	ENO2	ADH5	LDHAL6A	ADH6	GALM	ADPGK	G6PC2	ACSS2
 PC_2	Citrate cycle (TCA cycle)	SUCLA2	OGDH	CS	IDH1	FH	DLD	DLAT	PDHB	PC	SDHA	DLST	MDH1	ACLY	PCK2	IRP1

@@ -1,9 +1,3 @@
-#GMT database for MulEA software
- #source_url: http://geneontology.org/ 
- #source_version: 
- #source_last_update:01-04-2023
- #gmt_version:2
- #gmt_entry_names:gene ontology
 GO:0000001	"mitochondrion inheritance"	DDB0188433
 GO:0000002	"mitochondrial genome maintenance"	mgm101	DDB0217743
 GO:0000003	"reproduction"	DDB0187082	rtf2	cshA	raptor	DDB0205274	DDB0202625	tubC	DDB0188075	DDB0189872	DDB0186110	culB	pakD	DDB0205843	cdc25	GP138A	DDB0190305	DDB0217079	DDB0168161	rac1B	rad51c	msh6	DDB0188839	mps1	cnbA	DDB0187049	gmsA	bub1	matA	DDB0184121	hus1	DDB0205041	DDB0191996

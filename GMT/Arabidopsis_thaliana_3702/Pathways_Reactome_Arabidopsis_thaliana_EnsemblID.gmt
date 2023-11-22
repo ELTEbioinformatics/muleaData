@@ -1,16 +1,10 @@
-# Gene set GMT file for mulea Bioconductor R package
-# taxon_name: Arabidopsis thaliana
-# taxid: 3702
-# ID_type: EnsemblID
-# source_URL: http://reactome.org/pages/download-data/
-# source_primary_ID: LocusID
-# source_version: 61.0
-# source_last_update: 18-12-2017
-# gmt_download_date: 13-03-2018
-# gmt_version: 1.1
-# gmt_entry_names: Reactome pathways
-
-# Reactome pathway ID	Pathway name	Gene set (EnsemblID)
+#GMT database for MulEA software (http://www.mulea.org/)
+#source_url: http://reactome.org/pages/download-data/
+#source_version: 61.0
+#source_last_update: 18-12-2017
+#gmt_download_date: 13-03-2018
+#gmt_file_version: 1
+#gmt_entry_names: Reactome pathways
 R-ATH-425381	Bicarbonate transporters	AT1G15460	AT1G74810	AT2G47160	AT3G06450	AT3G62270	AT4G32510	AT5G25430
 R-ATH-433137	Sodium-coupled sulphate, di- and tri-carboxylate transporters	AT5G47560
 R-ATH-450302	activated TAK1 mediates p38 MAPK activation	AT1G18350	AT1G32320	AT1G51660	AT1G73500	AT3G06230	AT3G21220	AT4G26070	AT4G29810	AT5G56580

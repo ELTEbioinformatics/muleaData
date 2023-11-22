@@ -10,6 +10,7 @@
 # gmt_file_version: 2
 # gmt_entry_names: Chromosome location
 # Chromosome location	Chromosome location	Gene set (Locus ID)
+# Chromosome location	Chromosome location	Gene set (Locus ID)
 chro 2 2782-15420	chro 2 2782-15420	DDB_G0294296	DDB_G0294294	DDB_G0294292	DDB_G0294290	DDB_G0271114
 chro 2 5771-18303	chro 2 5771-18303	DDB_G0294294	DDB_G0294292	DDB_G0294290	DDB_G0271114	DDB_G0271112
 chro 2 8123-19753	chro 2 8123-19753	DDB_G0294292	DDB_G0294290	DDB_G0271114	DDB_G0271112	DDB_G0271110

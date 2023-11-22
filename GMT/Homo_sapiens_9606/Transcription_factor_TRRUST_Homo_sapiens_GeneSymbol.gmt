@@ -9,7 +9,7 @@
 # gmt_download_date:
 # gmt_file_version: 2
 # gmt_entry_names: Transcription factor
-
+# Transcription factor	Transcription factor	Gene set (Gene symbol)
 # Transcription factor	Transcription factor	Gene set (Gene symbol)
 AATF	AATF	BAX	CDKN1A	KLK3	MYC	TP53
 ABL1	ABL1	BAX	BCL2	BCL6	CCND2	CDKN1A	CSF1	CSF1	FOXO3	JUN	JUN	PIM1	TP53

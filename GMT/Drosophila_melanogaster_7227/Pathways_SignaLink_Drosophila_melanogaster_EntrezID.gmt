@@ -1,12 +1,1 @@
-#GMT database for MulEA software
- #source_url: http://signalink.org/ 
- #source_version:3.1 
- #source_last_update:2022 
- #gmt_version:2
- #gmt_entry_names:signaling pathway
-RTK	RTK	
-WNT/Wingless	WNT/Wingless	
-HH	HH	
-TGF	TGF	
 Notch	Notch	31293	38995
-JAK/STAT	JAK/STAT	
