@@ -21,7 +21,39 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-The goal of `muleaData` is to ...
+`muleaData` is an ExperimentHubData Bioconductor package for the `mulea` R package. `mulea` is a comprehensive overrepresentation and functional enrichment analyser R package. Here we provide ontologies (gene and protein sets) in a standardised *GMT* (Gene Matrix Transposed) format for 27 different model organisms, ranging from *Escherichia coli* to human, all acquired from publicly available data sources. The *GMT* files are provided with multiple gene and protein identifiers.
+
+List of species `muleaData` covers:
+
+-   Arabidopsis thaliana
+-   Bacillus subtilis
+-   Bacteroides thetaiotaomicron
+-   Bifidobacterium longum
+-   Bos taurus
+-   Caenorhabditis elegans
+-   Chlamydomonas reinhardtii
+-   Danio rerio
+-   Daphnia pulex
+-   Dictyostelium discoideum
+-   Drosophila melanogaster
+-   Drosophila simulans
+-   Escherichia coli
+-   Gallus gallus
+-   Homo sapiens
+-   Macaca mulatta
+-   Mus musculus
+-   Mycobacterium tubercolosis
+-   Neurospora crassa
+-   Pan troglodytes
+-   Rattus norvegicus
+-   Saccharomyces cerevisiae
+-   Salmonella enterica
+-   Schizosaccharomyces pombe
+-   Tetrahymena thermophila
+-   Xenopus tropicalis
+-   Zea mays
+
+Type, name, link and citation of the databases `muleaData` covers:
 
 ## Installation instructions
 
